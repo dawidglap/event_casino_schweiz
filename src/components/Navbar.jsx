@@ -44,7 +44,7 @@ const Navbar = () => {
         <img
           src={ecsLogo}
           alt="ecs-logo"
-          className="w-[140px] xs:w-[60px] ss:w-[72px] sm:w-[84px] md:w-[140px] mb-4 mt-2 md:pt-3 pt-3"
+          className="w-24 xs:w-[40px] ss:w-[60px] sm:w-[72px] md:w-[140px] mb-4 mt-2 md:pt-3 pt-3"
         />
       </Link>
 
