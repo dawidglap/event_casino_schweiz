@@ -14,7 +14,7 @@ const Footer = () => {
   return (
     <footer className="bg-black py-10 text-dimWhite">
       {/* Logo in the Middle */}
-      <div className="mb-10 md:mb-20 flex justify-center">
+      <div className="mb-10 md:mb-28 flex justify-center">
         <Link to="/">
           <div className="flex cursor-pointer flex-row items-center">
             <div className="mb-2 mt-2 h-40 w-72 md:h[192px] md:w-[384px]">
