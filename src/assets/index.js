@@ -26,6 +26,7 @@ import people03 from "./people03.png";
 import play from "./play.jpeg";
 import gaming from "./gaming.png";
 import ecsLogo from "./ecsLogo.png";
+import ecsLogoGelb from "./ecsLogoGelb.png";
 import fullLogo from "./fullLogo.png";
 import vid from "./vid.mp4";
 import canon from "./canon.svg";
@@ -44,6 +45,7 @@ export {
   coinbase,
   dropbox,
   logo,
+  ecsLogoGelb,
   quotes,
   robot,
   send,
