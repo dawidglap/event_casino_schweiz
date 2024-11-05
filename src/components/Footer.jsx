@@ -122,10 +122,10 @@ const Footer = () => {
             <p>
               Email:{" "}
               <a
-                href="mailto:hello@eventcasino.ch"
+                href="mailto:info@eventcasinoschweiz.ch"
                 className="transition-colors duration-200 hover:text-yellow-500 hover:underline"
               >
-                hello@eventcasino.ch
+                info@eventcasinoschweiz.ch
               </a>
             </p>
             <a
