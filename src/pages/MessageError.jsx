@@ -65,7 +65,7 @@ const MessageError = () => {
         <p className="font-poppins font-semibold text-md sm:text-lg md:text-xl text-white mb-6 px-2 sm:px-4">
           {t(
             "messageError.contact",
-            "Phone: +41 76 703 12 24 | Email: hello@eventcasino.ch"
+            "Phone: +41 76 703 12 24 | Email: info@eventcasinoschweiz.ch"
           )}
         </p>
 
