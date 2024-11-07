@@ -91,7 +91,7 @@ const Footer = () => {
             </h4>
             <div className="flex justify-center space-x-4 md:justify-center">
               <a
-                href="https://www.instagram.com/webfast.ch/"
+                href="https://www.instagram.com/eventcasinoschweiz/"
                 aria-label="Instagram"
                 className="transition-transform duration-200 hover:scale-110"
               >
@@ -105,7 +105,7 @@ const Footer = () => {
                 <FaTwitter className="text-xl hover:text-yellow-500" />
               </a>
               <a
-                href="https://linkedin.com/dawid-glapiak"
+                href="https://www.linkedin.com/company/event-casino-schweiz/"
                 aria-label="LinkedIn"
                 className="transition-transform duration-200 hover:scale-110"
               >
