@@ -95,13 +95,13 @@ const Footer = () => {
                 aria-label="Instagram"
                 className="transition-transform duration-200 hover:scale-110"
               >
-                <FaInstagram className="text-xl hover:text-yellow-500" />
+                {/* <FaInstagram className="text-xl hover:text-yellow-500" />
               </a>
               <a
                 href="https://x.com/DawidGlapi40180"
                 aria-label="Twitter"
                 className="transition-transform duration-200 hover:scale-110"
-              >
+              > */}
                 <FaTwitter className="text-xl hover:text-yellow-500" />
               </a>
               <a
