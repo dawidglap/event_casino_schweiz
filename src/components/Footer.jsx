@@ -94,20 +94,22 @@ const Footer = () => {
                 href="https://www.instagram.com/eventcasinoschweiz/"
                 aria-label="Instagram"
                 className="transition-transform duration-200 hover:scale-110"
+                target="_blank"
               >
-                {/* <FaInstagram className="text-xl hover:text-yellow-500" />
+                <FaInstagram className="text-xl hover:text-yellow-500" />
               </a>
-              <a
+              {/* <a
                 href="https://x.com/DawidGlapi40180"
                 aria-label="Twitter"
                 className="transition-transform duration-200 hover:scale-110"
-              > */}
+              >
                 <FaTwitter className="text-xl hover:text-yellow-500" />
-              </a>
+              </a> */}
               <a
                 href="https://www.linkedin.com/company/event-casino-schweiz/"
                 aria-label="LinkedIn"
                 className="transition-transform duration-200 hover:scale-110"
+                target="_blank"
               >
                 <FaLinkedinIn className="text-xl hover:text-yellow-500" />
               </a>
