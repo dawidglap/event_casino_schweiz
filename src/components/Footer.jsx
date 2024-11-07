@@ -12,7 +12,7 @@ const Footer = () => {
   const { t } = useTranslation();
 
   return (
-    <footer className="bg-black py-10 text-dimWhite">
+    <footer className=" py-10 text-dimWhite">
       {/* Logo in the Middle */}
       <div className="mb-10 md:mb-28 flex justify-center">
         <Link to="/">
