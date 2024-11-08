@@ -27,7 +27,7 @@
 }
 
 /* Text gradient effect */
-.text-gradient {
+/* .text-gradient {
   background: radial-gradient(
     64.18% 64.18% at 71.16% 35.69%,
     #fffa9b 0.89%,
@@ -41,10 +41,26 @@
   -webkit-text-fill-color: transparent;
   background-clip: text;
   text-fill-color: transparent;
+} */
+
+.text-gradient {
+  background: radial-gradient(
+    64.18% 64.18% at 71.16% 35.69%,
+    #FFF7E2 0.89%,
+    #F7E8B6 17.23%,
+    #F0DB9F 42.04%,
+    #E9C888 55.12%,
+    #DDBA77 71.54%,
+    #D7B56E 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
 }
 
 /* Background gradients */
-.bg-blue-gradient {
+/* .bg-blue-gradient {
   background: linear-gradient(
     157.81deg,
     #fffa9b -43.27%,
@@ -53,6 +69,18 @@
     #FFE246 29.82%,
     #FDC43F 51.94%,
     #FDB833 90.29%
+  );
+} */
+
+.bg-blue-gradient {
+  background: linear-gradient(
+    157.81deg,
+    #FFF7E2 -43.27%,
+    #F7E8B6 -21.24%,
+    #F0DB9F 12.19%,
+    #E9C888 29.82%,
+    #DDBA77 51.94%,
+    #D7B56E 90.29%
   );
 }
 
