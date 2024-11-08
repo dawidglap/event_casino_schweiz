@@ -44,7 +44,7 @@ const Navbar = () => {
         <img
           src={ecsLogo}
           alt="ecs-logo"
-          className="w-24 xs:w-[40px] ss:w-[60px] sm:w-[72px] md:w-[140px] mb-4 mt-2 md:pt-3 pt-3"
+          className="w-16 xs:w-[96px] ss:w-[60px] sm:w-[72px] md:w-[140px] mb-4 mt-2 md:pt-3 pt-3"
         />
       </Link>
 
@@ -63,7 +63,7 @@ const Navbar = () => {
         ))}
 
         {/* Language Switcher for Desktop */}
-        <div className="flex space-x-4 ml-10">
+        <div className=" flex space-x-4 ml-10">
           <button
             onClick={() => changeLanguage("en")}
             className={`${
@@ -102,7 +102,7 @@ const Navbar = () => {
       {/* Mobile Menu */}
       <div className="md:hidden flex flex-1 justify-end items-center z-[10000]">
         {/* Language Switcher for Mobile */}
-        <div className="flex space-x-4 mr-4">
+        <div className="text-sm flex space-x-2 mr-2">
           <button
             onClick={() => changeLanguage("en")}
             className={`${
@@ -140,22 +140,22 @@ const Navbar = () => {
         <img
           src={toggle ? close : menu}
           alt="menu"
-          className="w-[28px] h-[28px] object-contain"
+          className="w-[24px] h-[24px] object-contain mr-2"
           onClick={() => setToggle(!toggle)}
         />
 
         <div
           className={`${
             !toggle ? "hidden" : "flex"
-          } p-6 bg-black-gradient absolute top-20 mx-4 my-2 min-w-80 rounded-xl sidebar`}
+          } p-4 bg-black-gradient absolute top-20 left-2 right-2 mx-auto my-2 min-w-[90%] rounded-lg sidebar`}
         >
-          <ul className="list-none flex justify-end items-center flex-1 flex-col">
+          <ul className="list-none flex justify-center items-center flex-1 flex-col">
             {navLinks.map((nav, index) => (
               <li
                 key={nav.id}
-                className={`font-poppins uppercase cursor-pointer text-[24px] ${
+                className={`font-poppins uppercase cursor-pointer text-[20px] ${
                   active === nav.title ? "text-white" : "text-dimWhite"
-                } ${index === navLinks.length - 1 ? "mb-0" : "mb-4"}`}
+                } ${index === navLinks.length - 1 ? "mb-0" : "mb-3"}`}
                 onClick={() => {
                   setActive(nav.title);
                   setToggle(false); // Close the menu after clicking a link

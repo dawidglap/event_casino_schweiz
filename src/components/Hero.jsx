@@ -57,7 +57,7 @@ const Hero = () => {
           className="flex flex-row justify-between items-center w-full"
         >
           {/* Desktop Title - Restored */}
-          <h1 className="flex-1 font-poppins font-semibold sm:text-left text-center ss:text-[72px] text-[42px] text-white ss:leading-[100.8px] leading-[54px]">
+          <h1 className="flex-1 font-poppins font-semibold sm:text-left text-center xs:text-[42px] text-[32px] text-white ss:leading-[100.8px] leading-[54px]">
             {t("hero.mainTextPart1")} <br className="sm:block hidden" />{" "}
             <span className="text-gradient">{t("hero.mainTextPart2")}</span>{" "}
           </h1>
@@ -69,7 +69,7 @@ const Hero = () => {
         {/* Desktop Subtitle */}
         <motion.h1
           variants={textVariants}
-          className="font-poppins font-semibold  sm:text-left text-center ss:text-[68px] text-[42px] text-white ss:leading-[100.8px] leading-[54px] w-full"
+          className="font-poppins font-semibold  sm:text-left text-center xs:text-[42px] text-[32px] text-white ss:leading-[100.8px] leading-[54px] w-full"
         >
           {t("hero.mainTextPart3")}
         </motion.h1>
@@ -84,7 +84,7 @@ const Hero = () => {
 
         <motion.div
           variants={textVariants}
-          className={`md:hidden  ${styles.flexCenter}`}
+          className={`md:hidden w-full flex justify-center  ${styles.flexCenter}`}
         >
           <Button />
         </motion.div>

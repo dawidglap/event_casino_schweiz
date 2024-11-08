@@ -8,7 +8,7 @@ const Button = ({ styles }) => {
     <Link to="/contact">
       <button
         type="button"
-        className={`my-10 relative min-w-[90vw] ss:min-w-[15vw] mt-6 py-4 px-4 font-poppins font-medium text-[18px]   text-white bg-black-gradient rounded-[10px] overflow-hidden group hover:text-zinc-200 transition-all duration-300`}
+        className={`my-10 relative min-w-[70vw] px-4 ss:min-w-[15vw] mt-6 py-4  font-poppins font-medium text-[18px]   text-white bg-black-gradient rounded-[10px] overflow-hidden group hover:text-zinc-200 transition-all duration-300`}
       >
         {/* Effetto Glow quando si passa sopra */}
         <span className="absolute inset-0 bg-black opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
