@@ -97,9 +97,9 @@
     }
   },
   "hero": {
-    "discountAmount": "20%",
+    "discountAmount": "10%",
     "discountText": "Remise jusqu'en",
-    "discountDate": "Novembre 2024",
+    "discountDate": "Décembre 2024",
     "mainTextPart1": "Nous créons des",
     "mainTextPart2": "moments inoubliables",
     "mainTextPart3": "pour votre événement.",
