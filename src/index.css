@@ -89,9 +89,8 @@
 .custom-bg-card {
   background: linear-gradient(
     144.39deg,
-    /* #E9C888 -278.56%, */
-    #D7B56E -170.47%,
-    #000000 91.61%
+    #D7B56E -170.47%, /* Gold */
+    #000000 91.61%    /* Black */
   );
 }
 
