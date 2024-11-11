@@ -7,6 +7,46 @@
     "team": "Team",
     "contact": "Kontakt"
   },
+  "faq": {
+  "title": "Häufig gestellte Fragen",
+  "question1": "Welche Dienstleistungen bietet Event Casino Schweiz an?",
+  "answer1": "Event Casino Schweiz bietet professionelles Casino-Equipment für Veranstaltungen in der gesamten Schweiz. Unser Angebot umfasst beliebte Spiele wie Black Jack, American Roulette, Poker Texas Hold'em, Ultimate Texas Hold'em, Chuck a Luck und Dice Ball. Diese werden von ausgebildeten professionellen Croupiers unter der Leitung von Davide Merli betreut, Europas bestem Croupier von 2012, mit über 15 Jahren Erfahrung in Casino-Events.",
+  "question2": "Für welche Arten von Veranstaltungen ist ein Casino-Event geeignet?",
+  "answer2": "Unsere Casino-Dienstleistungen eignen sich perfekt für eine Vielzahl von Veranstaltungen, darunter Teambuilding, Firmenevents, Hochzeiten, private Partys, Geburtstagsfeiern, Produkteinführungen und mehr. Wir passen jede Veranstaltung an, um ein unvergessliches Erlebnis für Ihre Gäste zu schaffen.",
+  "question3": "Wie funktioniert ein Casino-Event?",
+  "answer3": "Wir bringen ein komplettes Casino-Setup an Ihren Veranstaltungsort, inklusive professioneller Casino-Tische, Chips und anderer Ausrüstung. Unsere professionellen Croupiers, angeführt von Branchenexperte Davide Merli, sorgen dafür, dass die Gäste ein authentisches und fesselndes Erlebnis genießen.",
+  "question4": "Wird echtes Geld bei den Spielen verwendet?",
+  "answer4": "Nein, unsere Casino-Events dienen ausschließlich der Unterhaltung. Wir bieten ein realistisches Casino-Erlebnis ohne echtes Geld, sodass alle Gäste das Spielen sicher genießen können.",
+  "question5": "Wie viele Tische benötige ich für meine Veranstaltung?",
+  "answer5": "Wir empfehlen einen Tisch für jeweils 20 Gäste, um sicherzustellen, dass jeder die Möglichkeit hat zu spielen und das Erlebnis zu genießen. Für größere Veranstaltungen können wir maßgeschneiderte Aufstellungen entsprechend der Gästeanzahl besprechen.",
+  "question6": "Welche Qualität hat die Ausstattung, die Sie verwenden?",
+  "answer6": "Wir verwenden echte Casino-Tische, Chips und andere Spieleausrüstungen in höchster Qualität, um ein authentisches Erlebnis zu bieten. Unsere Materialien sind hochwertig und verleihen jedem Event einen professionellen und eleganten Look.",
+  "question7": "Wie kann ich Event Casino Schweiz für mein Event buchen?",
+  "answer7": "Die Buchung ist einfach. Kontaktieren Sie uns über unsere Website oder rufen Sie unseren Kundenservice an. Wir besprechen Ihre Anforderungen, empfehlen ein maßgeschneidertes Paket und kümmern uns um die gesamte Logistik, um sicherzustellen, dass Ihr Event reibungslos abläuft.",
+  "question8": "Kann ich das Casino-Setup für mein Event anpassen?",
+  "answer8": "Absolut. Jedes Event ist einzigartig und kann genau auf Ihre Bedürfnisse zugeschnitten werden. Wir arbeiten mit erfahrenen Fachleuten und Agenturen zusammen, um ein unvergessliches Erlebnis zu schaffen, das Sie und Ihre Gäste in Erinnerung behalten.",
+  "question9": "Was ist in einem Standard-Casino-Mietpaket enthalten?",
+  "answer9": "Jedes Mietpaket umfasst die von Ihnen gewählten Casinotische, Chips, Karten und professionelle Croupiers. Wir übernehmen zudem den Auf- und Abbau, sodass alles von Anfang bis Ende perfekt organisiert ist.",
+  "question10": "Arbeiten Sie in der gesamten Schweiz?",
+  "answer10": "Ja, Event Casino Schweiz bedient Kunden in der gesamten Schweiz. Wir sind bestrebt, hochwertige Casino-Unterhaltung an jeden Ort zu bringen, damit Sie und Ihre Gäste ein erstklassiges Erlebnis genießen können.",
+  "question11": "Wie erfahren sind Ihre Croupiers?",
+  "answer11": "Unsere Croupiers sind hochqualifizierte Fachleute, angeführt von Davide Merli, Europas bestem Croupier von 2012, der über 15 Jahre Erfahrung mitbringt. Sie sind höflich, erfahren und stets professionell gekleidet.",
+  "question12": "Was unterscheidet Event Casino Schweiz von anderen Anbietern?",
+  "answer12": "Wir zeichnen uns durch unser Engagement für Qualität, Anpassungsfähigkeit und Kundenzufriedenheit aus. Mit hochwertiger Casino-Ausstattung, professionellen Croupiers und der Expertise von Davide Merli bieten wir ein unvergleichliches Erlebnis in der Casino-Unterhaltungsbranche der Schweiz.",
+  "question13": "Können Sie große Events mit mehreren Tischen und Croupiers organisieren?",
+  "answer13": "Ja, wir können Events unterschiedlicher Größe organisieren, von kleinen Feiern bis hin zu großen Firmenevents. Wir arbeiten mit Ihnen zusammen, um das beste Setup und die optimale Anzahl von Tischen für ein reibungsloses Spielerlebnis zu ermitteln.",
+  "question14": "Wie weit im Voraus sollte ich buchen?",
+  "answer14": "Um sicherzustellen, dass Ihr Wunschtermin und Ihre Wunschleistungen verfügbar sind, empfehlen wir, einige Wochen im Voraus zu buchen. Wir bemühen uns jedoch, auch kurzfristige Anfragen zu erfüllen, wenn dies möglich ist.",
+  "question15": "Welche Preismöglichkeiten gibt es für Ihre Casino-Mietservices?",
+  "answer15": "Die Preise variieren je nach Veranstaltungsgröße, Anzahl der Tische und individuellen Anpassungsoptionen. Kontaktieren Sie uns für ein maßgeschneidertes Angebot – wir finden die beste Lösung innerhalb Ihres Budgets.",
+  "question16": "Bieten Sie zusätzliche Unterhaltungsmöglichkeiten an?",
+  "answer16": "Ja, neben den Casino-Spielen können wir zusätzliche Unterhaltung wie Live-Musik, Zauberer oder thematische Dekorationen arrangieren, um das gesamte Ambiente des Events zu bereichern.",
+  "question17": "Sind Sie mit einem lizenzierten Casino verbunden?",
+  "answer17": "Nein, Event Casino Schweiz ist nicht mit einem lizenzierten Casino verbunden. Wir sind ein Unternehmen, das sich auf Casino-Themenunterhaltung spezialisiert hat und keine Glücksspielaktivitäten anbietet – unsere Dienstleistungen dienen rein dem Spaß und der Unterhaltung.",
+  "question18": "In welchen Regionen bieten Sie Ihre Dienstleistungen an?",
+  "answer18": "Event Casino Schweiz bietet seine Dienstleistungen in der gesamten Schweiz an, von Zürich bis Genf, Basel, Bern und darüber hinaus. Wo auch immer Sie sind, wir bringen Ihnen das Casino-Erlebnis nach Hause."
+},
+
   "form": {
     "heading": "Kontaktieren Sie uns",
     "nameLabel": "Ihr Name",
@@ -391,7 +431,7 @@
     "title": "Allgemeine Geschäftsbedingungen (AGB)",
     "section1": {
       "title": "Einleitung",
-      "content": "Willkommen bei Event Casino Schweiz! Diese Allgemeinen Geschäftsbedingungen regeln Ihre Nutzung unserer Website, die unter https://eventcasinoschweiz.netlify.app zugänglich ist. Durch den Zugriff auf unsere Website oder die Nutzung unserer Dienstleistungen erklären Sie sich mit diesen Bedingungen einverstanden. Sollten Sie mit einem Teil dieser Bedingungen nicht einverstanden sein, nutzen Sie bitte unsere Website nicht."
+      "content": "Willkommen bei Event Casino Schweiz! Diese Allgemeinen Geschäftsbedingungen regeln Ihre Nutzung unserer Website, die unter https://eventcasinoschweiz.ch zugänglich ist. Durch den Zugriff auf unsere Website oder die Nutzung unserer Dienstleistungen erklären Sie sich mit diesen Bedingungen einverstanden. Sollten Sie mit einem Teil dieser Bedingungen nicht einverstanden sein, nutzen Sie bitte unsere Website nicht."
     },
     "section2": {
       "title": "Verantwortlichkeiten des Benutzers",

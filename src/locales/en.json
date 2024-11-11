@@ -7,6 +7,47 @@
     "team": "Team",
     "contact": "Contact"
   },
+  
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "question1": "What services does Event Casino Schweiz offer?",
+      "answer1": "Event Casino Schweiz provides professional casino equipment rentals for events across Switzerland. Our games include Black Jack, American Roulette, Texas Hold'em Poker, Ultimate Texas Hold'em, Chuck a Luck, and Dice Ball, managed by trained croupiers, led by Davide Merli, Europe’s best croupier in 2012 with over 15 years of experience.",
+      "question2": "What types of events are suitable for a casino experience?",
+      "answer2": "Our casino services are perfect for corporate events, team building, weddings, private parties, birthdays, and product launches. We customize each event to create a memorable experience for your guests.",
+      "question3": "How does a casino event work?",
+      "answer3": "We bring a full casino setup to your venue, including professional tables, chips, and other equipment. Our experienced croupiers, led by expert Davide Merli, ensure guests enjoy an authentic and engaging experience.",
+      "question4": "Is real money used in the games?",
+      "answer4": "No, our casino events are strictly for entertainment, offering a realistic casino experience without real money, so all guests can enjoy safely.",
+      "question5": "How many tables do I need for my event?",
+      "answer5": "We recommend one table for every 20 guests to ensure everyone can participate. For larger events, we can discuss custom setups to suit the guest count.",
+      "question6": "What is the quality of the equipment used?",
+      "answer6": "We use high-quality, authentic casino tables, chips, and other equipment, offering a realistic and premium gaming experience.",
+      "question7": "How do I book Event Casino Schweiz for my event?",
+      "answer7": "Booking is easy. Contact us through our website or give us a call. We will discuss your needs, recommend a custom package, and handle all logistics for a seamless event.",
+      "question8": "Can I customize the casino setup for my event?",
+      "answer8": "Absolutely. Every event is unique and can be customized to your exact needs. We collaborate with professionals to create an unforgettable experience for you and your guests.",
+      "question9": "What is included in a standard casino rental package?",
+      "answer9": "Each rental package includes your choice of tables, chips, cards, and professional croupiers. We also handle setup and breakdown, ensuring a seamless experience from start to finish.",
+      "question10": "Do you operate across all of Switzerland?",
+      "answer10": "Yes, Event Casino Schweiz serves clients throughout Switzerland, bringing high-quality casino entertainment wherever you are.",
+      "question11": "How experienced are your croupiers?",
+      "answer11": "Our croupiers are highly trained professionals, led by Davide Merli, Europe’s best croupier in 2012, with over 15 years of experience.",
+      "question12": "What makes Event Casino Schweiz different from other providers?",
+      "answer12": "We stand out with our commitment to quality, customization, and client satisfaction. With premium equipment, professional croupiers, and the expertise of Davide Merli, we provide an unmatched experience in Switzerland’s casino entertainment industry.",
+      "question13": "Can you handle large events with multiple tables and croupiers?",
+      "answer13": "Yes, we can accommodate events of various sizes. We’ll work with you to determine the best setup and number of tables to ensure an optimal experience for your guests.",
+      "question14": "How far in advance should I book?",
+      "answer14": "To secure your preferred date and services, we recommend booking a few weeks in advance. We will also do our best to accommodate last-minute requests.",
+      "question15": "What are the pricing options for your casino rental services?",
+      "answer15": "Pricing varies depending on event size, number of tables, and customization options. Contact us for a tailored quote.",
+      "question16": "Are additional entertainment options available?",
+      "answer16": "Yes, we offer additional entertainment like live music, magicians, and themed decor to enhance the overall atmosphere.",
+      "question17": "Are you affiliated with a licensed casino?",
+      "answer17": "No, Event Casino Schweiz is not affiliated with any licensed casino. We specialize in casino-themed entertainment without gambling activities.",
+      "question18": "Which areas do you cover for service?",
+      "answer18": "We provide services throughout Switzerland, from Zurich to Geneva, Basel, Bern, and beyond."
+    }
+  ,
   "form": {
     "heading": "Contact Us",
     "nameLabel": "Your Name",
@@ -382,7 +423,7 @@
     "title": "Terms & Conditions",
     "section1": {
       "title": "Introduction",
-      "content": "Welcome to Event Casino Switzerland! These Terms and Conditions govern your use of our website, accessible at https://eventcasinoschweiz.netlify.app. By accessing our website or using our services, you agree to these terms. If you disagree with any part of these terms, please do not use our website."
+      "content": "Welcome to Event Casino Switzerland! These Terms and Conditions govern your use of our website, accessible at https://eventcasinoschweiz.ch. By accessing our website or using our services, you agree to these terms. If you disagree with any part of these terms, please do not use our website."
     },
     "section2": {
       "title": "User Responsibilities",

@@ -1,6 +1,7 @@
 // pages/Home.jsx
 import styles from "../style";
 import { Hero, Business, Packages, NotEnough, Brand, CTA } from "../components";
+import FAQ from "../components/Faq";
 
 const Home = () => (
   <div className={`bg-primary w-full overflow-hidden`}>
@@ -17,6 +18,7 @@ const Home = () => (
         <NotEnough />
         <Brand />
         <CTA />
+        <FAQ />
       </div>
     </div>
   </div>

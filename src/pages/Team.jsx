@@ -107,7 +107,7 @@ const Team = () => {
       </div>
 
       {/* Blurred content */}
-      <div className="blur-[3px]">
+      <div className="blur-[6px]">
         <LampContainer>
           <motion.h2
             initial={{ opacity: 0.5, y: initialY }}
