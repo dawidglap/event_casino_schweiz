@@ -60,14 +60,14 @@ const NotFound = () => {
       >
         <Link to="/" className="block text-center">
           {/* Show fullLogo on larger screens, ecsLogo on mobile */}
-          <picture>
-            <source media="(min-width: 640px)" srcSet={fullLogo} />
+          {/* <picture>
+            <source media="(min-width: 340px)" srcSet={fullLogo} />
             <img
               src={ecsLogo}
               alt="ecs-logo"
-              className="object-cover w-full h-auto"
+              className="object-cover w-20 h-auto"
             />
-          </picture>
+          </picture> */}
         </Link>
       </motion.div>
 
