@@ -98,16 +98,17 @@
     },
     "feedback2": {
       "bestDeal": "Beliebteste Wahl",
-      "name": "Basic Casino Blitz",
-      "title": "Luxus für Einsteiger",
-      "content": "1 x Blackjack oder Ultimate Texas Hold'em, inkl. Croupier",
+      "name": "Premium-Erlebnis",
+      "title": "Unvergessliches Goldpaket",
+      "content": "1 x Blackjack, inkl. Croupier",
       "content2": "1 x American Roulette, inkl. Croupier",
-      "content3": "3 Stunden Spielzeit",
-      "content4": "Logistik inklusive: Lieferung, Auf- und Abbau der Spieltische",
-      "content5": "VIP-Empfang auf Anfrage*",
-      "content6": "Elegantes Design und makellose Croupiers",
-      "price": "Ab CHF 2.690.- + MwSt.",
-      "additional": "Zusätzliche Stunde: + CHF 390"
+      "content3": "1 x Ultimate Texas Hold'em, inkl. Croupier",
+      "content4": "3 Stunden Spielzeit",
+      "content5": "VIP-Empfang inklusive: Roter Teppich, Willkommensgetränk, elegante Musik",
+      "content6": "Logistik inklusive: Lieferung, Auf- und Abbau der Spieltische",
+      "content7": "Luxuriöse Tische, höchste Detailgenauigkeit",
+      "price": "Ab CHF 3.690.- + MwSt.",
+      "additional": "Zusätzliche Stunde: + CHF 490"
     },
     "feedback3": {
       "bestDeal": "",
@@ -215,6 +216,21 @@
       "name": "Marco 'Der Spion' Rossi",
       "role": "Roulette-Meister und Geheimagent",
       "description": "Mit Charme, Stil und einem Hauch von Geheimnis zieht Marco die Aufmerksamkeit aller auf sich. Seine Leidenschaft für das Spiel wird nur von seiner geheimen Mission übertroffen: die perfekte Casino-Erfahrung zu bieten."
+    },
+    "member5": {
+      "name": "Davide Merli",
+      "role": "Europameisterlicher Croupier",
+      "description": "Davide Merli ist eine lebende Legende in der Casino-Welt. Als bester Croupier Europas 2012 bringt er über 15 Jahre Erfahrung in die Branche ein. Sein Können und seine Präsenz verleihen jedem Event eine unvergleichliche Authentizität und machen ihn zur wahren Elite des Casino-Entertainments."
+    },
+    "member6": {
+      "name": "Philip Schlegel",
+      "role": "Gründer und Marketing-Experte",
+      "description": "Philip Schlegel ist ein Visionär in der Marketingwelt und Gründer von House of Marketing und Alpen Design. Mit seinem Wissen und seiner Erfahrung sorgt er für den Erfolg und die Weiterentwicklung von Event Casino Schweiz, indem er spannende und maßgeschneiderte Erlebnisse für jede Veranstaltung kreiert."
+    },
+    "member7": {
+      "name": "Dawid Glapiak",
+      "role": "Experte für Service Excellence und Event-Koordinator",
+      "description": "Dawid Glapiak ist ein international erfahrener Croupier, ausgebildet an der renommierten JCA Academy. Mit Erfahrung bei Genting Casinos UK, Swiss Casinos und Casino Davos AG ist er der Experte für exzellenten Service und leitet Events mit unvergleichlicher Hingabe und Professionalität."
     }
   },
   "events": {

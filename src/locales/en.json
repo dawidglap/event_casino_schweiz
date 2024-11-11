@@ -99,16 +99,17 @@
     },
     "feedback2": {
       "bestDeal": "Most Popular Choice",
-      "name": "Basic Casino Blitz",
-      "title": "Luxury for Beginners",
-      "content": "1 x Blackjack or Ultimate Texas Hold'em, including croupier",
+      "name": "Premium Experience",
+      "title": "Unforgettable Gold Package",
+      "content": "1 x Blackjack, including croupier",
       "content2": "1 x American Roulette, including croupier",
-      "content3": "3 hours of playtime",
-      "content4": "Logistics included: Delivery, setup, and dismantling of the gaming tables",
-      "content5": "VIP reception upon request*",
-      "content6": "Elegant design and impeccable croupiers",
-      "price": "From CHF 2,690 + VAT",
-      "additional": "Additional hour: + CHF 390"
+      "content3": "1 x Ultimate Texas Hold'em, including croupier",
+      "content4": "3 hours of playtime",
+      "content5": "VIP reception included: Red carpet, welcome drink, elegant music",
+      "content6": "Logistics included: Delivery, setup, and dismantling of the gaming tables",
+      "content7": "Luxurious tables with utmost attention to detail",
+      "price": "From CHF 3,690 + VAT",
+      "additional": "Additional hour: + CHF 490"
     },
     "feedback3": {
       "bestDeal": "",
@@ -195,29 +196,44 @@
     "subtitle": "Looks like you missed the mark! Time to turn the tables!",
     "backHome": "Back to Home"
   },
-  "team": {
-    "heading": "The Casino Elite",
-    "member1": {
-      "name": "Agent Sophia Ferrari",
-      "role": "Blackjack Master",
-      "description": "Sophia, a strategist with a steady hand, commands the cards like no other. One look at her inscrutable face is enough to make her opponents sweat. Her favorite saying: 'In my game, there's no room for mistakes.'"
-    },
-    "member2": {
-      "name": "Luca 'The Roulette King' Verdi",
-      "role": "The Wheel Magician",
-      "description": "Luca embodies elegance and precision. His talent at the roulette table is legendary. He knows the laws of chance, yet he always wins. His secret weapon? A smile that lights up the room."
-    },
-    "member3": {
-      "name": "Maximilian Schmidt",
-      "role": "The Poker Shark",
-      "description": "Maximilian appears calm and thoughtful, but beneath the surface lies a formidable opponent. His skills in Texas Hold'em are world-renowned, and he never leaves doubt about his next move."
-    },
-    "member4": {
-      "name": "Marco 'The Spy' Rossi",
-      "role": "Roulette Master and Secret Agent",
-      "description": "With charm, style, and a touch of mystery, Marco draws everyone's attention. His passion for the game is only surpassed by his secret mission: to provide the perfect casino experience."
-    }
-  },
+    "team": {
+      "heading": "The Casino Elite",
+      "member1": {
+        "name": "Agent Sophia Ferrari",
+        "role": "Blackjack Master",
+        "description": "Sophia, a strategist with a steady hand, commands the cards like no other. One look at her inscrutable face is enough to make her opponents sweat. Her favorite saying: 'In my game, there's no room for mistakes.'"
+      },
+      "member2": {
+        "name": "Luca 'The Roulette King' Verdi",
+        "role": "The Wheel Magician",
+        "description": "Luca embodies elegance and precision. His talent at the roulette table is legendary. He knows the laws of chance, yet he always wins. His secret weapon? A smile that lights up the room."
+      },
+      "member3": {
+        "name": "Maximilian Schmidt",
+        "role": "The Poker Shark",
+        "description": "Maximilian appears calm and thoughtful, but beneath the surface lies a formidable opponent. His skills in Texas Hold'em are world-renowned, and he never leaves doubt about his next move."
+      },
+      "member4": {
+        "name": "Marco 'The Spy' Rossi",
+        "role": "Roulette Master and Secret Agent",
+        "description": "With charm, style, and a touch of mystery, Marco draws everyone's attention. His passion for the game is only surpassed by his secret mission: to provide the perfect casino experience."
+      },
+      "member5": {
+        "name": "Davide Merli",
+        "role": "European Champion Croupier",
+        "description": "Davide Merli is a living legend in the casino world. Named the best croupier in Europe in 2012, he brings over 15 years of experience to the industry. His skill and presence bring unparalleled authenticity to every event, making him the true elite of casino entertainment."
+      },
+      "member6": {
+        "name": "Philip Schlegel",
+        "role": "Founder and Marketing Expert",
+        "description": "Philip Schlegel is a visionary in the world of marketing and founder of House of Marketing and Alpen Design. With his knowledge and experience, he ensures the success and growth of Event Casino Schweiz, crafting exciting and customized experiences for every event."
+      },
+      "member7": {
+        "name": "Dawid Glapiak",
+        "role": "Service Excellence Expert and Event Coordinator",
+        "description": "Dawid Glapiak is an internationally experienced croupier trained at the prestigious JCA Academy. With experience at Genting Casinos UK, Swiss Casinos, and Casino Davos AG, he is our expert in service excellence, leading events with unmatched dedication and professionalism."
+      }
+    },  
 "events": {
     "heading": "Discover Our Casino-Themed Events",
     "birthday": {

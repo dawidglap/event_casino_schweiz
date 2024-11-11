@@ -1,7 +1,8 @@
 import { useRef } from "react";
 import styles from "../style";
 import { motion, useInView } from "framer-motion";
-import { useTranslation } from "react-i18next"; // Import useTranslation
+import { useTranslation } from "react-i18next";
+import Button from "./Button";
 
 const PackageCard = ({
   name,
@@ -23,7 +24,7 @@ const PackageCard = ({
 }) => {
   const ref = useRef(null);
   const isInView = useInView(ref, { once: true, amount: 0.2 });
-  const { t } = useTranslation(); // Use useTranslation hook
+  const { t } = useTranslation();
 
   const cardVariants = {
     hidden: { opacity: 0, y: 50 },
@@ -36,11 +37,13 @@ const PackageCard = ({
       variants={cardVariants}
       initial="hidden"
       animate={isInView ? "show" : "hidden"}
-      className={`flex justify-between flex-col px-6 py-8 sm:px-8 sm:py-10 md:px-10 md:py-12 rounded-[20px] max-w-[100%] feedback-card ${
-        applyHoverEffect ? "feedback-card-hover" : ""
+      className={`flex justify-between flex-col px-6 border-yellow-400 border-b border-r py-8 sm:px-8 sm:py-10 md:px-10 md:py-12 rounded-[20px] max-w-[100%] ${
+        index === 1
+          ? "custom-bg-card hover:feedback-card-hover"
+          : "feedback-card"
       }`}
-      onMouseEnter={onMouseEnter}
-      onMouseLeave={onMouseLeave}
+      onMouseEnter={index === 1 ? undefined : onMouseEnter}
+      onMouseLeave={index === 1 ? undefined : onMouseLeave}
     >
       <div className="flex flex-row pt-6 sm:pt-8 md:pt-10">
         <div className="flex flex-col ml-4">
@@ -77,14 +80,6 @@ const PackageCard = ({
               {t(content6)}
             </p>
           )}
-          <p className="font-poppins font-bold text-[18px] leading-[32.4px] text-white mt-4">
-            {t(price)}
-          </p>
-          {additional && (
-            <p className="font-poppins font-normal text-[18px] leading-[32.4px] text-white mt-4">
-              {t(additional)}
-            </p>
-          )}
           <div className="flex flex-row items-center py-[6px] rounded-[10px] mb-2">
             {bestDeal && (
               <p className={`${styles.paragraph} mt-6`}>
@@ -94,6 +89,7 @@ const PackageCard = ({
               </p>
             )}
           </div>
+          <Button />
         </div>
       </div>
     </motion.div>

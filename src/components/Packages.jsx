@@ -72,21 +72,21 @@ const Packages = () => {
       additional: t("feedback.feedback2.additional"),
       bestDeal: t("feedback.feedback2.bestDeal"),
     },
-    {
-      id: "feedback-3",
-      name: t("feedback.feedback3.name"),
-      title: t("feedback.feedback3.title"),
-      content: t("feedback.feedback3.content"),
-      content2: t("feedback.feedback3.content2"),
-      content3: t("feedback.feedback3.content3"),
-      content4: t("feedback.feedback3.content4"),
-      content5: t("feedback.feedback3.content5"),
-      content6: t("feedback.feedback3.content6"),
-      content7: t("feedback.feedback3.content7"),
-      price: t("feedback.feedback3.price"),
-      additional: t("feedback.feedback3.additional"),
-      bestDeal: t("feedback.feedback3.bestDeal"),
-    },
+    // {
+    //   id: "feedback-3",
+    //   name: t("feedback.feedback3.name"),
+    //   title: t("feedback.feedback3.title"),
+    //   content: t("feedback.feedback3.content"),
+    //   content2: t("feedback.feedback3.content2"),
+    //   content3: t("feedback.feedback3.content3"),
+    //   content4: t("feedback.feedback3.content4"),
+    //   content5: t("feedback.feedback3.content5"),
+    //   content6: t("feedback.feedback3.content6"),
+    //   content7: t("feedback.feedback3.content7"),
+    //   price: t("feedback.feedback3.price"),
+    //   additional: t("feedback.feedback3.additional"),
+    //   bestDeal: t("feedback.feedback3.bestDeal"),
+    // },
     {
       id: "feedback-4",
       name: t("feedback.feedback4.name"),
@@ -144,7 +144,7 @@ const Packages = () => {
         </motion.div>
       </motion.section>
       <motion.div
-        className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-x-6 gap-y-10"
+        className="grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-3 xl:grid-cols-3 gap-x-6 gap-y-10"
         onMouseEnter={handleMouseEnter}
         onMouseLeave={handleMouseLeave}
         variants={sectionVariants}

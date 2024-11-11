@@ -84,6 +84,17 @@
   );
 }
 
+
+
+.custom-bg-card {
+  background: linear-gradient(
+    144.39deg,
+    /* #E9C888 -278.56%, */
+    #D7B56E -170.47%,
+    #000000 91.61%
+  );
+}
+
 .bg-black-gradient {
   background: linear-gradient(
     144.39deg,
@@ -150,6 +161,11 @@
 
 /* Hover effect for feature cards */
 .feature-card:hover {
+  background: var(--black-gradient);
+  box-shadow: var(--card-shadow);
+}
+
+.boss-card {
   background: var(--black-gradient);
   box-shadow: var(--card-shadow);
 }

@@ -61,9 +61,9 @@ const Hero = () => {
             {t("hero.mainTextPart1")} <br className="sm:block hidden" />{" "}
             <span className="text-gradient">{t("hero.mainTextPart2")}</span>{" "}
           </h1>
-          <div className="md:flex hidden md:mr-4 mr-0 ps-8">
+          {/* <div className="md:flex hidden md:mr-4 mr-0 ps-8">
             <GetStarted />
-          </div>
+          </div> */}
         </motion.div>
 
         {/* Desktop Subtitle */}
@@ -77,14 +77,14 @@ const Hero = () => {
         {/* Description */}
         <motion.p
           variants={textVariants}
-          className={`${styles.paragraph} text-center md:text-left text-gradient max-w-[1024px] mt-5`}
+          className={`${styles.paragraph} text-center md:text-left  text-gradient max-w-[512px] mt-5`}
         >
           {t("hero.description")}
         </motion.p>
 
         <motion.div
           variants={textVariants}
-          className={`md:hidden w-full flex justify-center  ${styles.flexCenter}`}
+          className={` w-full flex justify-center sm:justify-start  ${styles.flexCenter}`}
         >
           <Button />
         </motion.div>
