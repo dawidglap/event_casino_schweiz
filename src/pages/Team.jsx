@@ -112,13 +112,13 @@ const Team = () => {
 
   return (
     <div className="relative max-w-[1440px] mx-auto px-4">
-      {/* <div className="absolute inset-0 flex items-start justify-center z-50 bg-black bg-opacity-70">
+      <div className="absolute inset-0 flex items-start justify-center z-50 bg-black bg-opacity-70">
         <h1 className="text-white text-4xl md:text-6xl font-bold z-[100] mt-80 p-4 text-gradient">
           Coming Soon...
         </h1>
-      </div> */}
+      </div>
       {/* Blurred content */}
-      <div className="blur-[0px]">
+      <div className="blur-[6px]">
         <LampContainer>
           <motion.h2
             initial={{ opacity: 0.5, y: initialY }}
