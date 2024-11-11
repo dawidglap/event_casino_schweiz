@@ -44,7 +44,9 @@
       "question17": "Êtes-vous affilié à un casino sous licence ?",
       "answer17": "Non, Event Casino Schweiz n'est affilié à aucun casino sous licence. Nos événements sont exclusivement pour le divertissement, sans activités de jeu.",
       "question18": "Dans quelles régions proposez-vous vos services ?",
-      "answer18": "Nous offrons nos services dans toute la Suisse, de Zurich à Genève, Bâle, Berne et au-delà."
+      "answer18": "Nous offrons nos services dans toute la Suisse, de Zurich à Genève, Bâle, Berne et au-delà.",
+      "more": "En savoir plus",
+      "less": "Afficher moins"
     },
   "form": {
     "heading": "Contactez-nous",

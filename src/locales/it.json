@@ -44,7 +44,9 @@
       "question17": "Siete affiliati a un casinò con licenza?",
       "answer17": "No, Event Casino Schweiz non è affiliato a nessun casinò con licenza. I nostri eventi sono esclusivamente per divertimento e non includono attività di gioco d'azzardo.",
       "question18": "In quali aree offrite i vostri servizi?",
-      "answer18": "Offriamo servizi in tutta la Svizzera, da Zurigo a Ginevra, Basilea, Berna e oltre. Ovunque tu sia, ti portiamo l’esperienza del casinò direttamente a casa."
+      "answer18": "Offriamo servizi in tutta la Svizzera, da Zurigo a Ginevra, Basilea, Berna e oltre. Ovunque tu sia, ti portiamo l’esperienza del casinò direttamente a casa.",
+      "more": "Scopri di più",
+      "less": "Mostra meno"
     },
   "form": {
     "heading": "Contattaci",

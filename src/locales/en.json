@@ -45,7 +45,9 @@
       "question17": "Are you affiliated with a licensed casino?",
       "answer17": "No, Event Casino Schweiz is not affiliated with any licensed casino. We specialize in casino-themed entertainment without gambling activities.",
       "question18": "Which areas do you cover for service?",
-      "answer18": "We provide services throughout Switzerland, from Zurich to Geneva, Basel, Bern, and beyond."
+      "answer18": "We provide services throughout Switzerland, from Zurich to Geneva, Basel, Bern, and beyond.",
+      "more": "Read more",
+      "less": "Read less"
     }
   ,
   "form": {
