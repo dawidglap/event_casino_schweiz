@@ -5,7 +5,7 @@ import styles from "../style";
 
 const FAQItem = ({ question, answer, isOpen, toggle }) => (
   <div
-    className="border-b border-yellow-400 py-4 cursor-pointer"
+    className="border-b border-yellow-400 py-4 cursor-pointer px-2"
     onClick={toggle}
   >
     <div className="flex justify-between items-center">

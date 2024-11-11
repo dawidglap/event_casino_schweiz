@@ -5,6 +5,7 @@ import emailjs from "emailjs-com";
 import { useNavigate } from "react-router-dom"; // For redirection
 import { LampContainer } from "../components/ui/lamp";
 import { FaSpinner } from "react-icons/fa"; // Import spinner icon
+import FAQ from "../components/Faq";
 
 const Contact = () => {
   const { t } = useTranslation();
@@ -73,7 +74,7 @@ const Contact = () => {
 
       <motion.form
         onSubmit={handleSubmit}
-        className="flex flex-col max-w-[700px] border-b-2 border-r-2 border-yellow-400  mx-auto mt-1 p-8 bg-zinc-900 rounded-lg shadow-lg"
+        className=" flex flex-col max-w-[700px] border-b-2 border-r-2 border-yellow-400  mx-auto mt-1 p-8 bg-zinc-900 rounded-lg shadow-lg"
         initial={{ opacity: 0, y: 50 }}
         whileInView={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6, ease: "easeOut" }}
@@ -122,6 +123,8 @@ const Contact = () => {
           )}
         </button>
       </motion.form>
+      <div className="pb-10"></div>
+      <FAQ />
     </div>
   );
 };
