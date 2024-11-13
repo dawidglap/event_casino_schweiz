@@ -3,7 +3,7 @@
     "home": "Startseite",
     "events": "Veranstaltungen",
     "casino101": "Casino101",
-    "training": "Ausbildung",
+    "training": "Academy",
     "team": "Team",
     "contact": "Kontakt"
   },
@@ -287,9 +287,9 @@
     }
   },
   "training": {
-    "heading": "Croupier-Ausbildungsschule",
+    "heading": "Croupier-Academy",
     "mainTitle": "Werde der Meister der Spieltische",
-    "introText": "Unser Croupier-Ausbildungskurs bietet dir die Möglichkeit, praktische und theoretische Fähigkeiten zu erwerben, um in den renommiertesten Casinos in der Schweiz und Liechtenstein zu arbeiten. Mit einem flexiblen Programm und erfahrenen Ausbildern wirst du bestens vorbereitet sein, um die gefragtesten Tische zu leiten.",
+    "introText": "Unser Croupier-Academy bietet dir die Möglichkeit, praktische und theoretische Fähigkeiten zu erwerben, um in den renommiertesten Casinos in der Schweiz und Liechtenstein zu arbeiten. Mit einem flexiblen Programm und erfahrenen Ausbildern wirst du bestens vorbereitet sein, um die gefragtesten Tische zu leiten.",
     "specialties": {
       "roulette": {
         "title": "Roulette",
@@ -308,10 +308,10 @@
         "description": "Ein Croupier ist nicht nur ein Spielleiter, sondern auch ein Botschafter des Kundenservice. Unser Kurs lehrt dich, ein exzellentes Erlebnis für jeden Gast zu garantieren, vom Willkommen am Tisch bis zum letzten Spiel."
       }
     },
-    "whyChooseUsTitle": "Warum solltest du unseren Kurs wählen?",
+    "whyChooseUsTitle": "Warum solltest du unseren Academy wählen?",
     "whyChooseUs": {
       "point1": {
-        "title": "Umfassende Ausbildung",
+        "title": "Umfassende Academy",
         "description": "Erwerbe alle technischen und praktischen Fähigkeiten, die du benötigst, um in den renommiertesten Casinos in der Schweiz und Liechtenstein zu arbeiten."
       },
       "point2": {
@@ -344,7 +344,7 @@
       }
     },
     "requirementsTitle": "Teilnahmevoraussetzungen",
-    "requirementsIntro": "Um an unserem Croupier-Ausbildungskurs teilzunehmen, müssen folgende Voraussetzungen erfüllt sein:",
+    "requirementsIntro": "Um an unserem Croupier-Academy teilzunehmen, müssen folgende Voraussetzungen erfüllt sein:",
     "requirementsList": {
       "item1": "Mindestens 18 Jahre alt",
       "item2": "Ein sauberes Führungszeugnis besitzen",
@@ -352,7 +352,7 @@
       "item4": "Keine Farbenblindheit (Störung der Farbwahrnehmung)"
     },
     "callToActionTitle": "Bist du bereit, deine Karriere als Croupier zu starten?",
-    "callToActionText": "Kontaktiere uns noch heute für weitere Informationen zu unserem Ausbildungskurs und erfahre, wie wir dir helfen können, in die exklusive Welt der Casinos einzutreten. Die Plätze sind begrenzt!"
+    "callToActionText": "Kontaktiere uns noch heute für weitere Informationen zu unserem Academy und erfahre, wie wir dir helfen können, in die exklusive Welt der Casinos einzutreten. Die Plätze sind begrenzt!"
   },
   "casino101":
   {
@@ -399,7 +399,7 @@
   },
   "cta_croupier": {
     "title": "Bist du bereit, deine Karriere als Croupier zu starten?",
-    "description": "Kontaktiere uns noch heute für weitere Informationen zu unserem Ausbildungskurs und erfahre, wie wir dir helfen können, in die exklusive Welt der Casinos einzutreten. Die Plätze sind begrenzt!"
+    "description": "Kontaktiere uns noch heute für weitere Informationen zu unserem Academy und erfahre, wie wir dir helfen können, in die exklusive Welt der Casinos einzutreten. Die Plätze sind begrenzt!"
   },
   "cta_team": {
     "title": "Die Elite des Casinos: Unsere Spielmeister zu Ihren Diensten",
