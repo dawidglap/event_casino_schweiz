@@ -288,13 +288,13 @@
     }
   },
   "training": {
-    "heading": "Croupier Training School",
+    "heading": "Croupier Academy",
     "mainTitle": "Become the Master of the Gaming Tables",
-    "introText": "Our croupier training course offers you the opportunity to acquire practical and theoretical skills to work in the most renowned casinos in Switzerland and Liechtenstein. With a flexible program and experienced instructors, you will be well-prepared to lead the most sought-after tables.",
+    "introText": "Our Croupier Academy offers you the opportunity to acquire practical and theoretical skills to work in the most renowned casinos in Switzerland and Liechtenstein. With a flexible program and experienced instructors, you will be well-prepared to lead the most sought-after tables.",
     "specialties": {
       "roulette": {
         "title": "Roulette",
-        "description": "Learn to manage one of the most iconic casino games. In our course, you'll acquire the skills to professionally spin the roulette wheel, manage bets, and interact confidently with players."
+        "description": "Learn to manage one of the most iconic casino games. In our Academy, you'll acquire the skills to professionally spin the roulette wheel, manage bets, and interact confidently with players."
       },
       "blackjack": {
         "title": "Blackjack",
@@ -306,10 +306,10 @@
       },
       "serviceExcellence": {
         "title": "Service Excellence",
-        "description": "A croupier is not just a game manager but also an ambassador of customer service. Our course teaches you to guarantee an excellent experience for every guest, from the welcome at the table to the last game."
+        "description": "A croupier is not just a game manager but also an ambassador of customer service. Our Academy  teaches you to guarantee an excellent experience for every guest, from the welcome at the table to the last game."
       }
     },
-    "whyChooseUsTitle": "Why Choose Our Course?",
+    "whyChooseUsTitle": "Why Choose Our Academy?",
     "whyChooseUs": {
       "point1": {
         "title": "Comprehensive Training",
@@ -317,7 +317,7 @@
       },
       "point2": {
         "title": "Course Flexibility",
-        "description": "The course lasts 1 to 3 months with the option to attend classes twice a week to fit your commitments."
+        "description": "The Academy lasts 1 to 3 months with the option to attend classes twice a week to fit your commitments."
       },
       "point3": {
         "title": "Practical and Theoretical Learning",
@@ -337,15 +337,15 @@
       },
       "point7": {
         "title": "Career Opportunities",
-        "description": "After completing the course, you'll be ready to start your career as a croupier, with job opportunities in the best event casinos."
+        "description": "After completing the Academy, you'll be ready to start your career as a croupier, with job opportunities in the best event casinos."
       },
       "point8": {
         "title": "Continuous Support",
-        "description": "We offer ongoing support even after the course ends to help you enter the job market and develop your career."
+        "description": "We offer ongoing support even after the Academy ends to help you enter the job market and develop your career."
       }
     },
     "requirementsTitle": "Participation Requirements",
-    "requirementsIntro": "To participate in our croupier training course, the following requirements must be met:",
+    "requirementsIntro": "To participate in our Croupier Academy, the following requirements must be met:",
     "requirementsList": {
       "item1": "At least 18 years old",
       "item2": "Possess a clean criminal record",
@@ -353,7 +353,7 @@
       "item4": "No color blindness (color vision deficiency)"
     },
     "callToActionTitle": "Ready to Start Your Career as a Croupier?",
-    "callToActionText": "Contact us today for more information about our training course and learn how we can help you enter the exclusive world of casinos. Places are limited!"
+    "callToActionText": "Contact us today for more information about our Croupier Academy and learn how we can help you enter the exclusive world of casinos. Places are limited!"
   },
   "casino101": {
     "heading": "Casino101: Learn the Art of Casino Games",
