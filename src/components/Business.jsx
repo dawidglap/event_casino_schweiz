@@ -39,7 +39,7 @@ const FeatureCard = ({ icon, title, content, index }) => {
           transition: { duration: 0.6, ease: "easeOut" },
         },
       }}
-      className={` flex flex-row p-6 rounded-[20px] min-w-[300px] md:min-w-[500px] max-w-[800px] flex-1 ${
+      className={` flex flex-row p-6 rounded-[20px] min-w-[300px] md:min-w-[500px] max-w-[800px] flex-1  border-yellow-400 border-r-2 border-b-2 ${
         index !== features.length - 1 ? "mb-6" : "mb-0"
       } feature-card`} // Set consistent width
     >

@@ -151,14 +151,14 @@ const Training = () => {
               {/* Teilnahmevoraussetzungen */}
               <motion.h4
                 variants={textVariants}
-                className="font-poppins font-semibold text-neutral-400 text-2xl md:text-4xl leading-tight mb-6 text-center lg:text-left mt-12"
+                className="font-poppins font-semibold text-neutral-400 text-2xl md:text-4xl leading-tight mb-6 text-left lg:text-left mt-12"
               >
                 {t("training.requirementsTitle")}
               </motion.h4>
 
               <motion.p
                 variants={textVariants}
-                className="text-white text-base font-semibold md:text-lg leading-relaxed mb-8 text-center lg:text-left"
+                className="text-white text-base font-semibold md:text-lg leading-relaxed mb-8 text-left lg:text-left"
               >
                 {t("training.requirementsIntro")}
               </motion.p>

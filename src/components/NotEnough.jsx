@@ -50,7 +50,7 @@ const NotEnough = () => {
           </h2>
 
           <div className="w-full md:mt-6 mt-6">
-            <p className={`${styles.paragraph} text-left max-w-[450px]`}>
+            <p className={`${styles.paragraph} text-left max-w-[768px]`}>
               <span className="text-gradient">{t("notEnough.highlight")}</span>{" "}
               <br />
               {t("notEnough.description")}
