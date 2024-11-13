@@ -113,7 +113,7 @@ const Packages = () => {
       >
         <motion.div
           variants={videoVariants}
-          className={`flex-1 flex justify-center items-center relative md:pr-4 pr-0`} // Adjusted the layout of the video
+          className={`flex-1 flex justify-center items-center relative md:pr-4 pr-0 md:mb-0 mb-10`} // Adjusted the layout of the video
         >
           <video
             src={vid}

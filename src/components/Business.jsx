@@ -93,7 +93,7 @@ const Business = () => {
                 transition: { duration: 0.8, ease: "easeOut" },
               },
             }}
-            className={styles.heading2}
+            className={`${styles.heading2}`}
           >
             {t("business.heading")} <br className="sm:block hidden" />
             <span>{t("business.subheading")}</span>
