@@ -58,15 +58,15 @@ const Training = () => {
     };
   }, []);
 
-  const initialY = isMobile ? 270 : 270;
-  const whileInViewY = isMobile ? 100 : 160;
+  // const initialY = isMobile ? 270 : 270;
+  // const whileInViewY = isMobile ? 100 : 160;
 
   return (
     <div>
       <LampContainer>
         <motion.h2
-          initial={{ opacity: 0.5, y: initialY }}
-          whileInView={{ opacity: 1, y: whileInViewY }}
+          initial={{ opacity: 0.5, y: 270 }}
+          whileInView={{ opacity: 1, y: 220 }}
           transition={{
             delay: 0.3,
             duration: 0.8,
