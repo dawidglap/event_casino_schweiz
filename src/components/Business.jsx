@@ -39,7 +39,7 @@ const FeatureCard = ({ icon, title, content, index }) => {
           transition: { duration: 0.6, ease: "easeOut" },
         },
       }}
-      className={` flex flex-row p-6 rounded-[20px] min-w-[300px] md:min-w-[500px] max-w-[800px] flex-1  border-yellow-400 border-r border-b ${
+      className={`ms-0 mx-4 flex flex-col p-6 rounded-[20px] min-w-[300px] md:min-w-[500px] max-w-[800px] flex-1  border-yellow-400 border-r border-b ${
         index !== features.length - 1 ? "mb-6" : "mb-0"
       } feature-card`} // Set consistent width
     >
@@ -52,7 +52,7 @@ const FeatureCard = ({ icon, title, content, index }) => {
           className="w-[50%] h-[50%] object-contain"
         />
       </div>
-      <div className="flex-1 flex flex-col ml-3">
+      <div className="flex-1 flex flex-col ml-3 ">
         <h4 className="font-poppins font-semibold text-white text-[18px] leading-[23.4px] mb-1">
           {t(title)}
         </h4>
@@ -82,7 +82,8 @@ const Business = () => {
           variants={sectionVariants}
           initial="hidden"
           animate={isInView ? "show" : "hidden"}
-          className={`${layout.sectionInfo} ps-0 md:ps-10`}
+          // className={`${layout.sectionInfo} ps-0 md:ps-10`}
+          className="ps-10 text-center sm:text-left  mt-auto mb-auto"
         >
           <motion.h2
             variants={{
@@ -107,7 +108,7 @@ const Business = () => {
                 transition: { duration: 0.8, ease: "easeOut" },
               },
             }}
-            className={`${styles.paragraph} max-w-[470px] mt-5 text-white `}
+            className={`${styles.paragraph} max-w-[470px] mt-5 text-dimWhite  `}
           >
             {t("business.description")}
           </motion.p>
