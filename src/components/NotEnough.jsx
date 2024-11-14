@@ -61,7 +61,7 @@ const NotEnough = () => {
 
         <motion.div
           variants={videoVariants}
-          className="md:w-1/2 w-full mt-6 md:mt-0 flex justify-center"
+          className="md:w-1/2 w-full mt-6 md:mt-0 flex justify-end"
         >
           <video
             src={video2}

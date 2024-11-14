@@ -113,7 +113,7 @@ const Packages = () => {
       >
         <motion.div
           variants={videoVariants}
-          className={`flex-1 flex justify-center items-center relative md:pr-4 pr-0 md:mb-0 mb-10`} // Adjusted the layout of the video
+          className={`flex-1 flex justify-start items-center relative md:pr-0 pr-0 md:mb-0 mb-10`} // Adjusted the layout of the video
         >
           <video
             src={vid}
@@ -127,14 +127,16 @@ const Packages = () => {
         </motion.div>
         <motion.div
           variants={textVariants}
-          className={`${layout.sectionInfo} flex-1`} // Aligning the text properly in relation to the video
+          // className={`${layout.sectionInfo} flex-1`}
+          className="sm:ms-10 p-4 flex-1 mt-auto mb-auto sm:border-b sm:border-r rounded-[20px] border-yellow-400" // Aligning the text properly in relation to the video
+          // Aligning the text properly in relation to the video
         >
-          <h2 className={styles.heading2}>
+          <h2 className={`${styles.heading2} `}>
             <span className="text-gradient">{t("packages.heading")}</span>{" "}
             {t("packages.subheading")}
             <br className="sm:block hidden" />
           </h2>
-          <p className={`${styles.paragraph} max-w-[470px] mt-5 text-white`}>
+          <p className={`${styles.paragraph} max-w-[470px] mt-5 text-white `}>
             {t("packages.description")}
             <br />
             <small className="text-dimWhite">
