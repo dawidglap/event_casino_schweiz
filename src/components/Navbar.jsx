@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo } from "react";
 import { useTranslation } from "react-i18next";
 import { close, ecsLogo, menu } from "../assets";
 import { Link, useLocation } from "react-router-dom";
-import { motion } from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
 import {
   FaFacebookF,
   FaTwitter,
@@ -54,6 +54,10 @@ const Navbar = () => {
         staggerChildren: 0.1,
         delayChildren: 0.1,
       },
+    },
+    exit: {
+      x: "100%",
+      transition: { type: "spring", stiffness: 70, damping: 20 },
     },
   };
 
@@ -168,84 +172,86 @@ const Navbar = () => {
           onClick={() => setToggle(!toggle)}
         />
 
-        {toggle && (
-          <motion.div
-            initial="hidden"
-            animate="visible"
-            exit="hidden"
-            variants={sidebarVariants}
-            className="fixed inset-0 bg-black-gradient z-[9999] flex flex-col justify-center items-center p-4"
-          >
-            {/* Close button aligned with burger button */}
-            <button
-              onClick={() => setToggle(false)}
-              className="absolute top-8 right-6 mr-4"
+        <AnimatePresence>
+          {toggle && (
+            <motion.div
+              initial="hidden"
+              animate="visible"
+              exit="exit"
+              variants={sidebarVariants}
+              className="fixed inset-0 bg-black-gradient z-[9999] flex flex-col justify-center items-center p-4"
             >
-              <img src={close} alt="close" className="w-6 h-6" />
-            </button>
+              {/* Close button aligned with burger button */}
+              <button
+                onClick={() => setToggle(false)}
+                className="absolute top-8 right-6 mr-4"
+              >
+                <img src={close} alt="close" className="w-6 h-6" />
+              </button>
 
-            {/* Navigation Links */}
-            <ul className="list-none flex flex-col justify-center items-center w-full p-6 space-y-4">
-              {navLinks.map((nav) => (
-                <motion.li
-                  key={nav.id}
-                  variants={itemVariants}
-                  className={`font-poppins uppercase cursor-pointer text-[24px] ${
-                    active === nav.title ? "text-white" : "text-dimWhite"
-                  }`}
-                  onClick={() => {
-                    setActive(nav.title);
-                    setToggle(false);
-                  }}
-                >
-                  <Link to={nav.path}>{t(nav.title)}</Link>
-                </motion.li>
-              ))}
-            </ul>
+              {/* Navigation Links */}
+              <ul className="list-none flex flex-col justify-center items-center w-full p-6 space-y-4">
+                {navLinks.map((nav) => (
+                  <motion.li
+                    key={nav.id}
+                    variants={itemVariants}
+                    className={`font-poppins uppercase cursor-pointer text-[24px] ${
+                      active === nav.title ? "text-white" : "text-dimWhite"
+                    }`}
+                    onClick={() => {
+                      setActive(nav.title);
+                      setToggle(false);
+                    }}
+                  >
+                    <Link to={nav.path}>{t(nav.title)}</Link>
+                  </motion.li>
+                ))}
+              </ul>
 
-            {/* Divider directly under last list item */}
-            <hr className="border-t-2 border-gold w-full my-6" />
+              {/* Divider directly under last list item */}
+              <hr className="border-t-2 border-gold w-full my-6" />
 
-            {/* Social Media Links and Contact Info */}
-            <div className="text-center space-y-4">
-              <div className="flex justify-center space-x-4 text-yellow-500">
+              {/* Social Media Links and Contact Info */}
+              <div className="text-center space-y-4">
+                <div className="flex justify-center space-x-4 text-yellow-500">
+                  <a
+                    href="https://www.instagram.com/eventcasinoschweiz/"
+                    aria-label="Instagram"
+                    className="transition-transform duration-200 hover:scale-110"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <FaInstagram className="text-xl" />
+                  </a>
+                  <a
+                    href="https://www.linkedin.com/company/event-casino-schweiz/"
+                    aria-label="LinkedIn"
+                    className="transition-transform duration-200 hover:scale-110"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <FaLinkedinIn className="text-xl" />
+                  </a>
+                </div>
+                <p className="text-dimWhite">
+                  Email:{" "}
+                  <a
+                    href="mailto:info@eventcasinoschweiz.ch"
+                    className="transition-colors duration-200 hover:text-yellow-500 hover:underline"
+                  >
+                    info@eventcasinoschweiz.ch
+                  </a>
+                </p>
                 <a
-                  href="https://www.instagram.com/eventcasinoschweiz/"
-                  aria-label="Instagram"
-                  className="transition-transform duration-200 hover:scale-110"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  href="https://calendly.com/eventcasinoschweiz-info/30min"
+                  className="mt-4 inline-block bg-blue-gradient text-black font-semibold py-2 px-4 rounded-lg shadow-lg hover:bg-yellow-400 transition-transform duration-200"
                 >
-                  <FaInstagram className="text-xl" />
-                </a>
-                <a
-                  href="https://www.linkedin.com/company/event-casino-schweiz/"
-                  aria-label="LinkedIn"
-                  className="transition-transform duration-200 hover:scale-110"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <FaLinkedinIn className="text-xl" />
+                  {t("footer.bookACall")}
                 </a>
               </div>
-              <p className="text-dimWhite">
-                Email:{" "}
-                <a
-                  href="mailto:info@eventcasinoschweiz.ch"
-                  className="transition-colors duration-200 hover:text-yellow-500 hover:underline"
-                >
-                  info@eventcasinoschweiz.ch
-                </a>
-              </p>
-              <a
-                href="https://calendly.com/eventcasinoschweiz-info/30min"
-                className="mt-4 inline-block bg-blue-gradient text-black font-semibold py-2 px-4 rounded-lg shadow-lg hover:bg-yellow-400 transition-transform duration-200"
-              >
-                {t("footer.bookACall")}
-              </a>
-            </div>
-          </motion.div>
-        )}
+            </motion.div>
+          )}
+        </AnimatePresence>
       </div>
     </nav>
   );
