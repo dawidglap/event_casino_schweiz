@@ -443,7 +443,11 @@
       "section9": {
         "title": "Kontaktinformationen",
         "content": "Wenn Sie Fragen zu dieser Datenschutzrichtlinie oder zum Umgang mit Ihren Daten haben, können Sie uns unter hello@eventcasino.ch kontaktieren."
-      }  
+      }  ,
+      "section10": {
+        "title": "Analyse und Tracking",
+        "content": "Wir verwenden Analysetools, um die Leistung unserer Website und Dienstleistungen zu verstehen und zu verbessern. Diese Tools können anonyme Informationen über Ihre Nutzung erfassen, wie Seitenaufrufe, Besuchsdauer und Interaktionen. Diese Daten werden ausschließlich zur Verbesserung unserer Dienste und zur Gewährleistung einer besseren Benutzererfahrung verwendet. Sie können Ihre Browsereinstellungen anpassen, um die Erfassung dieser Daten einzuschränken, oder uns für weitere Informationen kontaktieren."
+      }
   },
   "termsConditions": {
     "title": "Allgemeine Geschäftsbedingungen (AGB)",

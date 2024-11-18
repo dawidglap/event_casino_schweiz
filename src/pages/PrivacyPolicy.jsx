@@ -65,6 +65,47 @@ const PrivacyPolicy = () => {
             {t("privacyPolicy.section5.content")}
           </p>
         </section>
+
+        <section className="mt-8">
+          <h2 className="text-2xl font-semibold text-white">
+            {t("privacyPolicy.section6.title")}
+          </h2>
+          <p className="mt-4 text-base text-neutral-400">
+            {t("privacyPolicy.section6.content")}
+          </p>
+        </section>
+        <section className="mt-8">
+          <h2 className="text-2xl font-semibold text-white">
+            {t("privacyPolicy.section7.title")}
+          </h2>
+          <p className="mt-4 text-base text-neutral-400">
+            {t("privacyPolicy.section7.content")}
+          </p>
+        </section>
+        <section className="mt-8">
+          <h2 className="text-2xl font-semibold text-white">
+            {t("privacyPolicy.section8.title")}
+          </h2>
+          <p className="mt-4 text-base text-neutral-400">
+            {t("privacyPolicy.section8.content")}
+          </p>
+        </section>
+        <section className="mt-8">
+          <h2 className="text-2xl font-semibold text-white">
+            {t("privacyPolicy.section9.title")}
+          </h2>
+          <p className="mt-4 text-base text-neutral-400">
+            {t("privacyPolicy.section9.content")}
+          </p>
+        </section>
+        <section className="mt-8">
+          <h2 className="text-2xl font-semibold text-white">
+            {t("privacyPolicy.section10.title")}
+          </h2>
+          <p className="mt-4 text-base text-neutral-400">
+            {t("privacyPolicy.section10.content")}
+          </p>
+        </section>
       </motion.div>
     </div>
   );
