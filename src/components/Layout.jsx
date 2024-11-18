@@ -2,6 +2,7 @@
 import { Navbar, Footer } from "../components";
 import styles from "../style";
 import CookiePolicy from "./CookiePolicy";
+import { Analytics } from "@vercel/analytics/react";
 
 const Layout = ({ children }) => (
   <div className="bg-primary w-full overflow-hidden">
@@ -20,6 +21,7 @@ const Layout = ({ children }) => (
       <div className={`${styles.boxWidth}`}>
         <Footer />
         <CookiePolicy />
+        <Analytics />
       </div>
     </div>
   </div>
