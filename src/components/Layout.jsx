@@ -3,6 +3,7 @@ import { Navbar, Footer } from "../components";
 import styles from "../style";
 import CookiePolicy from "./CookiePolicy";
 import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const Layout = ({ children }) => (
   <div className="bg-primary w-full overflow-hidden">
@@ -22,6 +23,7 @@ const Layout = ({ children }) => (
         <Footer />
         <CookiePolicy />
         <Analytics />
+        <SpeedInsights />
       </div>
     </div>
   </div>
