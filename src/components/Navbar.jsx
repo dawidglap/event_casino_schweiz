@@ -196,7 +196,7 @@ const Navbar = () => {
                     key={nav.id}
                     variants={itemVariants}
                     className={`font-poppins uppercase cursor-pointer text-[24px] ${
-                      active === nav.title ? "text-white" : "text-dimWhite"
+                      active === nav.title ? "text-white" : "text-gradient"
                     }`}
                     onClick={() => {
                       setActive(nav.title);
@@ -237,7 +237,7 @@ const Navbar = () => {
                   Email:{" "}
                   <a
                     href="mailto:info@eventcasinoschweiz.ch"
-                    className="transition-colors duration-200 hover:text-yellow-500 hover:underline"
+                    className="transition-colors duration-200 hover:text-yellow-500 hover:underline text-white"
                   >
                     info@eventcasinoschweiz.ch
                   </a>
