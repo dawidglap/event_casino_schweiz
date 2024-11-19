@@ -95,7 +95,7 @@ const Navbar = () => {
           <button
             onClick={() => changeLanguage("en")}
             className={`${
-              i18n.language === "en" ? "text-gradient" : "text-dimWhite"
+              i18n.language === "en" ? "text-white" : "text-gradient"
             }`}
           >
             EN
@@ -103,7 +103,7 @@ const Navbar = () => {
           <button
             onClick={() => changeLanguage("de")}
             className={`${
-              i18n.language === "de" ? "text-gradient" : "text-dimWhite"
+              i18n.language === "de" ? "text-white" : "text-gradient"
             }`}
           >
             DE
@@ -111,7 +111,7 @@ const Navbar = () => {
           <button
             onClick={() => changeLanguage("it")}
             className={`${
-              i18n.language === "it" ? "text-gradient" : "text-dimWhite"
+              i18n.language === "it" ? "text-white" : "text-gradient"
             }`}
           >
             IT
@@ -119,7 +119,7 @@ const Navbar = () => {
           <button
             onClick={() => changeLanguage("fr")}
             className={`${
-              i18n.language === "fr" ? "text-gradient" : "text-dimWhite"
+              i18n.language === "fr" ? "text-white" : "text-gradient"
             }`}
           >
             FR
@@ -134,7 +134,7 @@ const Navbar = () => {
           <button
             onClick={() => changeLanguage("en")}
             className={`${
-              i18n.language === "en" ? "text-gradient" : "text-dimWhite"
+              i18n.language === "en" ? "text-white" : "text-gradient"
             }`}
           >
             EN
@@ -142,7 +142,7 @@ const Navbar = () => {
           <button
             onClick={() => changeLanguage("de")}
             className={`${
-              i18n.language === "de" ? "text-gradient" : "text-dimWhite"
+              i18n.language === "de" ? "text-white" : "text-gradient"
             }`}
           >
             DE
@@ -150,7 +150,7 @@ const Navbar = () => {
           <button
             onClick={() => changeLanguage("it")}
             className={`${
-              i18n.language === "it" ? "text-gradient" : "text-dimWhite"
+              i18n.language === "it" ? "text-white" : "text-gradient"
             }`}
           >
             IT
@@ -158,7 +158,7 @@ const Navbar = () => {
           <button
             onClick={() => changeLanguage("fr")}
             className={`${
-              i18n.language === "fr" ? "text-gradient" : "text-dimWhite"
+              i18n.language === "fr" ? "text-white" : "text-gradient"
             }`}
           >
             FR
