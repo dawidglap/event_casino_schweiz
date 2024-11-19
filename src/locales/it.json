@@ -198,41 +198,46 @@
   },
     "team": {
       "heading": "L'Élite del Casino",
-      "member1": {
-        "name": "Agente Sophia Ferrari",
-        "role": "Maestra del Blackjack",
-        "description": "Sophia, stratega dalla mano ferma, domina le carte come nessun altro. Uno sguardo al suo volto imperscrutabile è sufficiente per far sudare gli avversari. Il suo motto: 'Nel mio gioco non c'è spazio per errori.'"
-      },
-      "member2": {
-        "name": "Luca 'Il Re della Roulette' Verdi",
-        "role": "Il Mago della Ruota",
-        "description": "Luca incarna eleganza e precisione. Il suo talento al tavolo della roulette è leggendario. Conosce le leggi del caso, ma vince sempre. La sua arma segreta? Un sorriso che illumina la stanza."
-      },
-      "member3": {
-        "name": "Massimiliano Schmidt",
-        "role": "Lo Squalo del Poker",
-        "description": "Massimiliano appare calmo e riflessivo, ma sotto la superficie si nasconde un avversario formidabile. Le sue abilità nel Texas Hold'em sono rinomate in tutto il mondo, e non lascia mai dubbi sulla sua prossima mossa."
-      },
-      "member4": {
-        "name": "Marco 'La Spia' Rossi",
-        "role": "Maestro della Roulette e Agente Segreto",
-        "description": "Con fascino, stile e un tocco di mistero, Marco cattura l'attenzione di tutti. La sua passione per il gioco è superata solo dalla sua missione segreta: offrire l'esperienza casino perfetta."
-      },
-      "member5": {
-        "name": "Davide Merli",
-        "role": "Croupier Campione d'Europa",
-        "description": "Davide Merli è una leggenda vivente nel mondo del casinò. Nominato miglior croupier d'Europa nel 2012, porta nell'industria oltre 15 anni di esperienza. La sua abilità e presenza conferiscono ad ogni evento un'autenticità senza pari, facendone la vera élite del divertimento da casinò."
-      },
-      "member6": {
-        "name": "Philip Schlegel",
-        "role": "Fondatore ed Esperto di Marketing",
-        "description": "Philip Schlegel è un visionario nel mondo del marketing e fondatore di House of Marketing e Alpen Design. Con la sua conoscenza ed esperienza, assicura il successo e la crescita di Event Casino Schweiz, creando esperienze coinvolgenti e su misura per ogni evento."
-      },
-      "member7": {
-        "name": "Dawid Glapiak",
-        "role": "Esperto di Eccellenza nel Servizio e Coordinatore di Eventi",
-        "description": "Dawid Glapiak è un croupier con esperienza internazionale, formato presso la prestigiosa JCA Academy. Con esperienza presso Genting Casinos UK, Swiss Casinos e Casino Davos AG, è il nostro esperto in eccellenza nel servizio, dirigendo eventi con dedizione e professionalità senza eguali."
-      }
+        "member1": {
+          "name": "Dawid",
+          "role": "Il Virtuoso delle Carte",
+          "description": "Dawid è un vero maestro delle carte, con movimenti precisi e una calma imperturbabile. La sua formazione lo ha reso un esperto nell'arte del gioco, e ogni evento diventa uno spettacolo grazie alle sue abilità. Con il suo motto: 'Il dettaglio fa la differenza,' Dawid garantisce un'esperienza indimenticabile."
+        },
+        "member2": {
+          "name": "Philip",
+          "role": "Il Maestro del Marketing",
+          "description": "Philip è il re indiscusso delle strategie vincenti, un vero 'Re Mida del marketing.' Ogni progetto che tocca si trasforma in oro, grazie alla sua visione creativa e alla capacità di far brillare ogni dettaglio. Con il suo motto: 'Il successo non è mai un caso,' Philip porta ogni evento al livello successivo, offrendo risultati che lasciano il segno."
+        },
+        "member3": {
+          "name": "Zuzanna",
+          "role": "La Stratega",
+          "description": "Zuzanna è una brillante pensatrice e un'infallibile stratega. La sua vasta esperienza nel mondo del gioco l'ha resa una figura carismatica e professionale. Con un occhio attento ad ogni dettaglio, trasforma ogni evento in un'avventura unica. Il suo stile inconfondibile lascia sempre il segno."
+        },
+        "member4": {
+          "name": "Davide",
+          "role": "Campione Europeo di Croupier",
+          "description": "Davide è una leggenda vivente nel mondo del gioco. Miglior croupier d'Europa nel 2012, porta oltre 15 anni di esperienza nel settore. La sua abilità e presenza conferiscono autenticità e stile unico a ogni evento, rendendolo l'élite dell'intrattenimento."
+        },
+        "member5": {
+          "name": "Kevin",
+          "role": "L'Agente del Poker",
+          "description": "Kevin è un maestro delle strategie e del bluff. Al tavolo da poker, ogni sua mossa è calcolata con precisione, trasformando il gioco in un’arte. Con il suo talento naturale e le abilità affinate negli anni, Kevin assicura suspense e divertimento che lasciano tutti col fiato sospeso."
+        },
+        "member6": {
+          "name": "Adrian",
+          "role": "El Matador della Roulette",
+          "description": "Adrian, conosciuto come 'El Matador,' domina la roulette con la grazia e la sicurezza di un vero maestro. Con lui al tavolo, la fortuna sembra sempre essere dalla parte del banco. Il suo carisma e la sua precisione rendono ogni giro della ruota un'esperienza indimenticabile."
+        },
+        "member7": {
+          "name": "Igor",
+          "role": "Il Visionario",
+          "description": "Igor è un artista dietro l'obiettivo e un esperto del blackjack. Con un occhio infallibile per i dettagli e un talento unico, cattura momenti indimenticabili e porta spettacolo al tavolo da gioco. La sua passione per la fotografia e il blackjack lo rende una figura indispensabile per un’esperienza completa e coinvolgente."
+        },
+        "member8": {
+          "name": "Emanuele",
+          "role": "Il Maestro dei Giochi",
+          "description": "Emanuele è il maestro indiscusso di tutti i giochi da tavolo. La sua conoscenza approfondita delle regole e la sua abilità nel creare l’atmosfera perfetta fanno di lui una presenza insostituibile. Con una mano incredibilmente veloce nel distribuire le carte, Emanuele aggiunge un tocco di spettacolarità a ogni tavolo, rendendo ogni partita emozionante e memorabile."
+        }      
     },  
  "events": {
     "heading": "Scopri i nostri eventi a tema Casinò",

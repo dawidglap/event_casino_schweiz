@@ -200,41 +200,46 @@
   },
     "team": {
       "heading": "The Casino Elite",
-      "member1": {
-        "name": "Agent Sophia Ferrari",
-        "role": "Blackjack Master",
-        "description": "Sophia, a strategist with a steady hand, commands the cards like no other. One look at her inscrutable face is enough to make her opponents sweat. Her favorite saying: 'In my game, there's no room for mistakes.'"
-      },
-      "member2": {
-        "name": "Luca 'The Roulette King' Verdi",
-        "role": "The Wheel Magician",
-        "description": "Luca embodies elegance and precision. His talent at the roulette table is legendary. He knows the laws of chance, yet he always wins. His secret weapon? A smile that lights up the room."
-      },
-      "member3": {
-        "name": "Maximilian Schmidt",
-        "role": "The Poker Shark",
-        "description": "Maximilian appears calm and thoughtful, but beneath the surface lies a formidable opponent. His skills in Texas Hold'em are world-renowned, and he never leaves doubt about his next move."
-      },
-      "member4": {
-        "name": "Marco 'The Spy' Rossi",
-        "role": "Roulette Master and Secret Agent",
-        "description": "With charm, style, and a touch of mystery, Marco draws everyone's attention. His passion for the game is only surpassed by his secret mission: to provide the perfect casino experience."
-      },
-      "member5": {
-        "name": "Davide Merli",
-        "role": "European Champion Croupier",
-        "description": "Davide Merli is a living legend in the casino world. Named the best croupier in Europe in 2012, he brings over 15 years of experience to the industry. His skill and presence bring unparalleled authenticity to every event, making him the true elite of casino entertainment."
-      },
-      "member6": {
-        "name": "Philip Schlegel",
-        "role": "Founder and Marketing Expert",
-        "description": "Philip Schlegel is a visionary in the world of marketing and founder of House of Marketing and Alpen Design. With his knowledge and experience, he ensures the success and growth of Event Casino Schweiz, crafting exciting and customized experiences for every event."
-      },
-      "member7": {
-        "name": "Dawid Glapiak",
-        "role": "Service Excellence Expert and Event Coordinator",
-        "description": "Dawid Glapiak is an internationally experienced croupier trained at the prestigious JCA Academy. With experience at Genting Casinos UK, Swiss Casinos, and Casino Davos AG, he is our expert in service excellence, leading events with unmatched dedication and professionalism."
-      }
+        "member1": {
+          "name": "Dawid",
+          "role": "The Card Virtuoso",
+          "description": "Dawid is a true master of the cards, with precise movements and unwavering composure. His training has made him an expert in the art of gaming, and every event becomes a spectacular experience thanks to his skills. With his motto: 'The detail makes the difference,' Dawid guarantees an unforgettable experience."
+        },
+        "member2": {
+          "name": "Philip",
+          "role": "The Marketing Maestro",
+          "description": "Philip is the undisputed king of successful strategies, a true 'King Midas of marketing.' Every project he touches turns to gold, thanks to his creative vision and his ability to make every detail shine. With his motto: 'Success is never a coincidence,' Philip elevates every event to the next level, delivering results that leave a lasting impression."
+        },
+        "member3": {
+          "name": "Zuzanna",
+          "role": "The Strategist",
+          "description": "Zuzanna is a brilliant thinker and an infallible strategist. Her extensive experience in the gaming world has made her a charismatic and professional personality. With her sharp eye for every detail, she turns every event into a unique adventure. Her unmistakable style always leaves a lasting impression."
+        },
+        "member4": {
+          "name": "Davide",
+          "role": "European Champion Croupier",
+          "description": "Davide is a living legend in the casino world. As Europe's Best Croupier in 2012, he brings over 15 years of industry experience. His skills and presence lend unmatched authenticity to every event, making him the true elite of casino entertainment."
+        },
+        "member5": {
+          "name": "Kevin",
+          "role": "The Poker Agent",
+          "description": "Kevin is a master of strategies and bluffing. At the poker table, every move he makes is calculated with precision, turning the game into an art form. With his natural talent and years of refined skills, Kevin ensures excitement and entertainment that keeps everyone on the edge of their seat."
+        },
+        "member6": {
+          "name": "Adrian",
+          "role": "El Matador of Roulette",
+          "description": "Adrian, known as 'El Matador,' masters roulette with the grace and confidence of a true expert. With him at the table, luck always seems to be on the house's side. His charisma and precision make every spin of the wheel an unforgettable experience."
+        },
+        "member7": {
+          "name": "Igor",
+          "role": "The Visionary",
+          "description": "Igor is an artist behind the camera and a blackjack expert. With an unerring eye for detail and unique talent, he captures unforgettable moments and brings excitement to the gaming table. His passion for photography and blackjack makes him an indispensable asset for a complete and engaging experience."
+        },
+        "member8": {
+          "name": "Emanuele",
+          "role": "The Game Master",
+          "description": "Emanuele is the undisputed master of all casino games. His deep knowledge of the rules and his ability to create the perfect atmosphere make him indispensable. With an impressively quick hand at dealing cards, Emanuele adds a dynamic flair to every table, making each game thrilling and unforgettable."
+        }      
     },  
 "events": {
     "heading": "Discover Our Casino-Themed Events",

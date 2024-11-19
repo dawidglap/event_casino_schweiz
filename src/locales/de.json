@@ -200,39 +200,44 @@
   "team": {
     "heading": "Die Elite des Casinos",
     "member1": {
-      "name": "Agentin Sophia Ferrari",
-      "role": "Meisterin des Blackjack",
-      "description": "Sophia, eine Strategin mit ruhiger Hand, beherrscht die Karten wie keine andere. Ein einziger Blick auf ihr undurchdringliches Gesicht reicht aus, um ihre Gegner ins Schwitzen zu bringen. Ihr Lieblingssatz: 'In meinem Spiel gibt es keinen Platz für Fehler.'"
+      "name": "Dawid",
+      "role": "Der Kartenvirtuose",
+      "description": "Dawid ist ein wahrer Meister der Karten, mit präzisen Bewegungen und unerschütterlicher Ruhe. Seine Ausbildung hat ihn zu einem echten Experten in der Kunst des Spiels gemacht, und jedes Event wird durch sein Können zu einem spektakulären Erlebnis. Mit seinem Motto: Das Detail macht den Unterschied, garantiert Dawid eine unvergessliche Erfahrung."
     },
     "member2": {
-      "name": "Luca 'Der König der Roulette' Verdi",
-      "role": "Der Magier des Rades",
-      "description": "Luca ist die Verkörperung von Eleganz und Präzision. Sein Talent am Roulette ist legendär. Er kennt die Gesetze des Zufalls, doch er gewinnt immer. Seine Geheimwaffe? Ein Lächeln, das den Raum erhellt."
+      "name": "Philip",
+      "role": "Der Marketing-Maestro",
+      "description": "Philip ist der unangefochtene König der erfolgreichen Strategien ein wahrer „König Midas des Marketings.“ Jedes Projekt, das er anfasst, verwandelt sich in Gold, dank seiner kreativen Vision und seiner Fähigkeit, jedes Detail zum Strahlen zu bringen. Mit seinem Motto: <<Erfolg ist nie Zufall>>, hebt Philip jedes Event auf die nächste Stufe und sorgt für Ergebnisse, die Eindruck hinterlassen."
     },
     "member3": {
-      "name": "Maximilian Schmidt",
-      "role": "Der Pokerhai",
-      "description": "Maximilian wirkt ruhig und nachdenklich, doch unter der Oberfläche verbirgt sich ein formidabler Gegner. Seine Fähigkeiten im Texas Hold'em sind weltberühmt, und er lässt nie Zweifel an seinem nächsten Schritt."
+      "name": "Zuzanna",
+      "role": "Die Strategin",
+      "description": "Zuzanna ist eine brillante Denkerin und eine unfehlbare Strategin. Ihre umfangreiche Erfahrung in der Spielwelt hat sie zu einer charismatischen und professionellen Persönlichkeit gemacht. Mit ihrem scharfen Blick für jedes Detail verwandelt sie jedes Event in ein einzigartiges Abenteuer. Ihr unverkennbarer Stil hinterlässt immer einen bleibenden Eindruck."
     },
     "member4": {
-      "name": "Marco 'Der Spion' Rossi",
-      "role": "Roulette-Meister und Geheimagent",
-      "description": "Mit Charme, Stil und einem Hauch von Geheimnis zieht Marco die Aufmerksamkeit aller auf sich. Seine Leidenschaft für das Spiel wird nur von seiner geheimen Mission übertroffen: die perfekte Casino-Erfahrung zu bieten."
+      "name": "Davide",
+      "role": "Europameisterlicher Croupier",
+      "description": "Davide ist eine lebende Legende in der Casino-Welt. Als bester Croupier Europas 2012 bringt er über 15 Jahre Erfahrung in die Branche ein. Sein Können und seine Präsenz verleihen jedem Event eine unvergleichliche Authentizität und machen ihn zur wahren Elite des Casino-Entertainments."
     },
     "member5": {
-      "name": "Davide Merli",
-      "role": "Europameisterlicher Croupier",
-      "description": "Davide Merli ist eine lebende Legende in der Casino-Welt. Als bester Croupier Europas 2012 bringt er über 15 Jahre Erfahrung in die Branche ein. Sein Können und seine Präsenz verleihen jedem Event eine unvergleichliche Authentizität und machen ihn zur wahren Elite des Casino-Entertainments."
+      "name": "Kevin",
+      "role": "Der Poker-Agent",
+      "description": "Kevin ist ein Meister der Strategien und des Bluffens. Am Pokertisch wird jedes seiner Züge mit Präzision kalkuliert, wodurch das Spiel zur Kunst wird. Mit seinem natürlichen Talent und seiner über die Jahre verfeinerten Fähigkeit sorgt Kevin für Spannung und Unterhaltung, die alle in Atem hält."
     },
     "member6": {
-      "name": "Philip Schlegel",
-      "role": "Gründer und Marketing-Experte",
-      "description": "Philip Schlegel ist ein Visionär in der Marketingwelt und Gründer von House of Marketing und Alpen Design. Mit seinem Wissen und seiner Erfahrung sorgt er für den Erfolg und die Weiterentwicklung von Event Casino Schweiz, indem er spannende und maßgeschneiderte Erlebnisse für jede Veranstaltung kreiert."
+      "name": "Adrian",
+      "role": "El Matador des Roulettes",
+      "description": "Adrian, bekannt als <<El Matador>> beherrscht das Roulette-Spiel mit der Anmut und Sicherheit eines wahren Meisters. Mit ihm am Tisch scheint das Glück stets auf der Seite der Bank zu stehen. Sein Charisma und seine Präzision machen jeden Dreh des Roulettes zu einem unvergesslichen Erlebnis."
     },
     "member7": {
-      "name": "Dawid Glapiak",
-      "role": "Experte für Service Excellence und Event-Koordinator",
-      "description": "Dawid Glapiak ist ein international erfahrener Croupier, ausgebildet an der renommierten JCA Academy. Mit Erfahrung bei Genting Casinos UK, Swiss Casinos und Casino Davos AG ist er der Experte für exzellenten Service und leitet Events mit unvergleichlicher Hingabe und Professionalität."
+      "name": "Igor",
+      "role": "Der Visionär",
+      "description": "Igor ist ein Künstler hinter der Kamera und ein Experte am Blackjack-Tisch. Mit einem unfehlbaren Auge für Details und einzigartigem Talent fängt er unvergessliche Momente ein und sorgt für Spannung am Spieltisch. Seine Leidenschaft für Fotografie und Blackjack macht ihn zu einer unverzichtbaren Bereicherung für ein umfassendes und fesselndes Erlebnis."
+    },
+    "member8": {
+      "name": "Emanuele",
+      "role": "Der Spielemeister",
+      "description": "Emanuele ist der unangefochtene Meister aller Casinospiele. Sein tiefes Wissen über die Regeln und seine Fähigkeit, die perfekte Atmosphäre zu schaffen, machen ihn unverzichtbar. Mit einer beeindruckend schnellen Hand beim Kartenverteilen bringt Emanuele eine besondere Dynamik an jeden Tisch und macht jedes Spiel aufregend und unvergesslich"
     }
   },
   "events": {
