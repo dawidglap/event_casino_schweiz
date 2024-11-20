@@ -7,6 +7,13 @@
     "team": "Il Team",
     "contact": "Contattaci"
   },
+  "buttonPackages": {
+    "details": {
+      "essential": "1 x Blackjack, 3 ore di gioco, Logistica inclusa",
+      "premium": "1 x Blackjack, 1 x American Roulette, 1 x Ultimate Texas Hold'em, 3 ore di gioco, Accoglienza VIP inclusa",
+      "royal": "Tavoli a scelta: Blackjack, American Roulette, Ultimate Texas Hold'em, Accoglienza VIP stile James Bond"
+    }
+  },
   "meta": {
     "homepage": {
       "title": "Event Casino Svizzera | Noleggia un Casino Mobile | Eventi Casino Party in Svizzera",
@@ -102,6 +109,7 @@
       "less": "Mostra meno"
     },
   "form": {
+     "predefinedMessage": "Salve, vorrei avere informazioni sul seguente pacchetto:",
     "heading": "Contattaci",
     "nameLabel": "Il tuo nome",
     "namePlaceholder": "Inserisci il tuo nome",

@@ -7,6 +7,14 @@
     "team": "Team",
     "contact": "Kontakt"
   },
+  "buttonPackages": {
+"details": {
+  "test": "voglio info a proposito di",
+    "essential": "1 x Blackjack, 3 Stunden Spielzeit, Logistik inklusive",
+    "premium": "1 x Blackjack, 1 x American Roulette, 1 x Ultimate Texas Hold'em, 3 Stunden Spielzeit, VIP-Empfang inklusive",
+    "royal": "Auswahl an Tischen: Blackjack, American Roulette, Ultimate Texas Hold'em, VIP-Empfang im James-Bond-Stil"
+  }
+  },
   "meta":{
    "homepage": {
     "title": "Event Casino Schweiz | Mobiles Casino mieten | Casino-Party Events in der Schweiz",
@@ -102,6 +110,7 @@
 },
 
   "form": {
+    "predefinedMessage": "Hallo, ich hätte gerne Informationen zu folgendem Paket:",
     "heading": "Kontaktieren Sie uns",
     "nameLabel": "Ihr Name",
     "namePlaceholder": "Geben Sie Ihren Namen ein",

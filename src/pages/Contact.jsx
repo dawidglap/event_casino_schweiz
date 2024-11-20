@@ -1,46 +1,50 @@
 import { useState, useEffect } from "react";
 import { useTranslation } from "react-i18next";
 import { motion } from "framer-motion";
+import { useLocation, useNavigate } from "react-router-dom";
 import emailjs from "emailjs-com";
-import { useNavigate } from "react-router-dom"; // For redirection
 import { LampContainer } from "../components/ui/lamp";
-import { FaSpinner } from "react-icons/fa"; // Import spinner icon
+import { FaSpinner } from "react-icons/fa";
 import FAQ from "../components/Faq";
 import ContactHelmet from "../components/helmet/ContactHelmet";
 
 const Contact = () => {
   const { t } = useTranslation();
+  const location = useLocation(); // Riceve i dati dal navigatore
   const navigate = useNavigate();
 
-  // Scroll to top on page load
   useEffect(() => {
-    window.scrollTo(0, 0); // Scrolls to the top of the page
+    window.scrollTo(0, 0); // Scroll to top
   }, []);
+
+  // Precompila i dettagli in base alla chiave del pacchetto
+  const packageKey = location.state?.packageKey;
+  const packageDetails = packageKey
+    ? `${t("form.predefinedMessage")} ${packageKey}`
+    : "";
 
   const [formData, setFormData] = useState({
     name: "",
     email: "",
-    message: "",
-    date: new Date().toLocaleDateString(), // Automatically set the date
+    message: packageDetails, // Precompila con i dettagli del pacchetto
+    date: new Date().toLocaleDateString(),
   });
 
   const [status, setStatus] = useState("");
-  const [loading, setLoading] = useState(false); // Loading state for button
+  const [loading, setLoading] = useState(false);
 
-  // Handle form field changes
   const handleChange = (e) => {
     const { name, value } = e.target;
     setFormData({ ...formData, [name]: value });
   };
 
-  // Handle form submission
   const handleSubmit = (e) => {
     e.preventDefault();
-    setLoading(true); // Start loading when form is submitted
+    setLoading(true);
 
     emailjs
       .send(
-        import.meta.env.VITE_EMAILJS_SERVICE_ID, // Use import.meta.env for Vite
+        import.meta.env.VITE_EMAILJS_SERVICE_ID,
         import.meta.env.VITE_EMAILJS_TEMPLATE_ID,
         formData,
         import.meta.env.VITE_EMAILJS_USER_ID
@@ -48,15 +52,15 @@ const Contact = () => {
       .then(
         (response) => {
           setStatus("success");
-          setLoading(false); // Stop loading when the submission is successful
-          navigate("/message-success", { state: { fromForm: true } }); // Redirect to success page with state
+          setLoading(false);
+          navigate("/message-success", { state: { fromForm: true } });
         },
         (error) => {
           setStatus("error");
-          setLoading(false); // Stop loading when there is an error
+          setLoading(false);
           navigate("/message-error", {
             state: { fromForm: true, errorMessage: error.text },
-          }); // Redirect to error page with error message
+          });
         }
       );
   };
@@ -81,7 +85,7 @@ const Contact = () => {
 
       <motion.form
         onSubmit={handleSubmit}
-        className=" flex flex-col max-w-[700px] border-b-2 border-r-2 border-yellow-400  mx-auto mt-1 p-8 bg-zinc-900 rounded-lg shadow-lg"
+        className="flex flex-col max-w-[700px] border-b-2 border-r-2 border-yellow-400 mx-auto mt-1 p-8 bg-zinc-900 rounded-lg shadow-lg"
         initial={{ opacity: 0, y: 50 }}
         whileInView={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6, ease: "easeOut" }}
@@ -121,10 +125,10 @@ const Contact = () => {
         <button
           type="submit"
           className="p-3 bg-blue-gradient text-black font-semibold rounded-lg hover:bg-yellow-600 transition duration-300"
-          disabled={loading} // Disable button when loading
+          disabled={loading}
         >
           {loading ? (
-            <FaSpinner className="animate-spin mx-auto" /> // Show spinner when loading
+            <FaSpinner className="animate-spin mx-auto" />
           ) : (
             t("form.submitButton")
           )}

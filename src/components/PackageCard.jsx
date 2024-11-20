@@ -95,7 +95,7 @@ const PackageCard = ({
 
       {/* Button aligned at the bottom */}
       <div className="mt-4">
-        <ButtonPackageCard />
+        <ButtonPackageCard packageKey={name} />
         <p className="text-center font-poppins text-sm sm:text-base text-gradient">
           {t("navbarBanner.message")}{" "}
         </p>
