@@ -1,8 +1,10 @@
-import { useRef } from "react";
+import { useRef, useState } from "react";
 import styles from "../style";
 import { motion, useInView } from "framer-motion";
 import { useTranslation } from "react-i18next";
 import ButtonPackageCard from "./ButtonPackageCard";
+import { IoCloudDownloadOutline } from "react-icons/io5";
+import DownloadPopup from "./DownloadPopup"; // Importa il componente del popup
 
 const PackageCard = ({
   name,
@@ -25,6 +27,7 @@ const PackageCard = ({
   const ref = useRef(null);
   const isInView = useInView(ref, { once: true, amount: 0.2 });
   const { t } = useTranslation();
+  const [showPopup, setShowPopup] = useState(false); // Stato per gestire il popup
 
   const cardVariants = {
     hidden: { opacity: 0, y: 50 },
@@ -93,6 +96,18 @@ const PackageCard = ({
       {/* Button aligned at the bottom */}
       <div className="mt-4">
         <ButtonPackageCard />
+        <p className="text-center font-poppins text-sm sm:text-base text-gradient">
+          {t("navbarBanner.message")}{" "}
+        </p>
+        <div className="text-center">
+          <button
+            onClick={() => setShowPopup(true)} // Mostra il popup al click
+            className="mt-2 underline text-white hover:text-yellow-400 transition-colors duration-200"
+          >
+            {t("navbarBanner.downloadCTA")}
+          </button>
+          {showPopup && <DownloadPopup onClose={() => setShowPopup(false)} />}{" "}
+        </div>
       </div>
     </motion.div>
   );

@@ -8,6 +8,20 @@
     "contact": "Contact"
   },
   
+    "navbarBanner": {
+      "message": "Discover how to make your casino-themed event unforgettable!",
+      "downloadCTA": "Download the PDF"
+    },
+    "popup": {
+      "title": "Download the PDF or Receive a Personalized Offer",
+      "description": "You can leave your email to receive a tailored offer or click 'Download PDF' to get the PDF immediately.",
+      "emailPlaceholder": "Enter your email",
+      "sendEmail": "Send Email",
+      "downloadPDF": "Download PDF",
+      "close": "Close",
+      "successMessage": "Email sent successfully!",
+      "errorMessage": "An error occurred. Please try again later."
+    },
     "faq": {
       "title": "Frequently Asked Questions",
       "question1": "What services does Event Casino Schweiz offer?",

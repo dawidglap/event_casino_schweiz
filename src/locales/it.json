@@ -7,6 +7,20 @@
     "team": "Il Team",
     "contact": "Contattaci"
   },
+    "navbarBanner": {
+      "message": "Scopri come rendere unico il tuo evento a tema casinò!",
+      "downloadCTA": "Scarica il PDF"
+    },
+    "popup": {
+      "title": "Scarica il PDF o ricevi un'offerta personalizzata",
+      "description": "Puoi lasciare la tua email per ricevere un'offerta su misura o cliccare su 'Scarica il PDF' per ottenere subito il PDF.",
+      "emailPlaceholder": "Inserisci la tua email",
+      "sendEmail": "Invia email",
+      "downloadPDF": "Scarica il PDF",
+      "close": "Chiudi",
+      "successMessage": "Email inviata con successo!",
+      "errorMessage": "Si è verificato un errore. Riprova più tardi."
+    },  
     "faq": {
       "title": "Domande Frequenti",
       "question1": "Quali servizi offre Event Casino Schweiz?",

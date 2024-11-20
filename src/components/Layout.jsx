@@ -4,12 +4,14 @@ import styles from "../style";
 import CookiePolicy from "./CookiePolicy";
 import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
+import NavbarBanner from "./NavbarBanner";
 
 const Layout = ({ children }) => (
   <div className="bg-primary w-full overflow-hidden">
     {/* Navbar */}
     <div className={`${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}>
+        <NavbarBanner />
         <Navbar />
       </div>
     </div>
