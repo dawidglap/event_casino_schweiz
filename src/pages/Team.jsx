@@ -105,7 +105,7 @@ const TeamCard = ({ image, name, role, description, isAboutCard = false }) => {
         <p className="font-poppins font-normal text-gradient text-[18px] leading-[24px] mb-6">
           {t(role)}
         </p>
-        <p className="font-poppins text-left font-normal text-dimWhite text-[16px] leading-[24px]">
+        <p className="font-poppins font-normal text-dimWhite text-[16px] leading-[24px]">
           {t(description)}
         </p>
       </div>
