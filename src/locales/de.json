@@ -7,6 +7,44 @@
     "team": "Team",
     "contact": "Kontakt"
   },
+  "meta":{
+   "homepage": {
+    "title": "Event Casino Schweiz | Mobiles Casino mieten | Casino-Party Events in der Schweiz",
+    "description": "Mieten Sie unser mobiles Casino für Ihre Veranstaltung in Zürich, Genf, Basel, Bern und der ganzen Schweiz. Von Poker-Nights bis zu glamourösen Las Vegas-Events – erstklassige Casinounterhaltung für Firmenanlässe und private Feiern.",
+    "keywords": "mobiles casino mieten, veranstaltung zürich, events casino-party, Swiss Top Events, casino für deinen Event in der Schweiz, Casinounterhaltung für Firmenanlässe",
+    "og_image": "/og-image.png"
+  },
+  "events": {
+    "title": "Unvergessliche Casino-Events | Event Casino Schweiz",
+    "description": "Entdecken Sie unsere unvergesslichen Casino-Events in der Schweiz. Ob glamouröse Pokerturniere, James Bond Black Tie-Abende oder eine royale Casinonacht – beeindrucken Sie Ihre Gäste mit Luxus und Eleganz.",
+    "keywords": "casino events, poker turniere, royal casino night, glamorous events, james bond casino, monte carlo gala, casino für veranstaltungen in der schweiz",
+    "og_image": "/og-image.png"
+  },
+  "casino101": {
+    "title": "Casino101: Lerne die Kunst der Casinospiele",
+    "description": "Entdecken Sie die Geheimnisse der Casinospiele! Unsere Einführungskurse für Blackjack, Roulette und Poker bieten Ihnen die perfekte Möglichkeit, die Regeln und Strategien der beliebtesten Spiele zu lernen und ein Profi zu werden.",
+    "keywords": "Casino101, Blackjack lernen, Roulette Strategien, Poker Grundlagen, Casinospiele lernen, Casino Einführungskurse",
+    "og_image": "/og-image.png"
+  },
+  "training": {
+    "title": "Croupier Academy | Croupier-Ausbildung | Werde ein Meister der Casinospiele",
+    "description": "Erfahre alles über unsere professionelle Croupier-Ausbildung in der Schweiz. Von der Spieltisch-Expertise bis zum Kundenservice – bereite dich mit unserem mehrsprachigen und berufsbegleitenden Kurs auf eine Karriere in den renommiertesten Casinos vor.",
+    "keywords": "Croupier-Ausbildung, game school, berufsbegleitende Schulung, Casinospiele lernen, Einstieg als Croupier, Führungszeugnis für Croupier, Ausbildung ab 18 Jahre",
+    "og_image": "/og-image.png"
+  },
+  "team": {
+    "title": "Unser Team | Event Casino Schweiz",
+    "description": "Lernen Sie das professionelle Team von Event Casino Schweiz kennen. Mit jahrzehntelanger Erfahrung bieten unsere Croupiers und Experten erstklassige Casinounterhaltung und maßgeschneiderte Events in der Schweiz.",
+    "keywords": "event casino team, professionelle croupiers, beste croupiers schweiz, casino experten, maßgeschneiderte casino-events",
+    "og_image": "/og-image-team.jpg"
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns | Event Casino Schweiz",
+    "description": "Kontaktieren Sie Event Casino Schweiz für Fragen, Buchungen oder individuelle Angebote. Wir sind Ihr Partner für erstklassige Casinounterhaltung in der Schweiz.",
+    "keywords": "kontakt event casino schweiz, buchungsanfragen casino-events, casino-event angebote, kundenservice event casino",
+    "og_image": "/og-image-contact.jpg"
+  }
+  },
     "navbarBanner": {
       "message": "Erfahren Sie, wie Sie Ihr Casino-Event unvergesslich machen!",
       "downloadCTA": "PDF herunterladen"
@@ -157,9 +195,10 @@
     "discountAmount": "10%",
     "discountText": "Rabatt bis",
     "discountDate": "Dezember 2024",
-    "mainTextPart1": "Wir schaffen",
-    "mainTextPart2": "unvergessliche",
-    "mainTextPart3": "Momente für Ihr Event.",
+    "mainTextPart1": "Das Beste  ",
+    "mainTextPart2": "Mobile Casino",
+    "mainTextPart3": "für Ihren Event",
+    "mainTextPart4": "in der Schweiz",
     "description": "Unterhaltung der Spitzenklasse, die alle Erwartungen übertrifft."
   },
   "stats": {

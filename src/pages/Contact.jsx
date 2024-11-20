@@ -6,6 +6,7 @@ import { useNavigate } from "react-router-dom"; // For redirection
 import { LampContainer } from "../components/ui/lamp";
 import { FaSpinner } from "react-icons/fa"; // Import spinner icon
 import FAQ from "../components/Faq";
+import ContactHelmet from "../components/helmet/ContactHelmet";
 
 const Contact = () => {
   const { t } = useTranslation();
@@ -57,6 +58,7 @@ const Contact = () => {
 
   return (
     <div className="max-w-[1440px] mx-auto px-4 pb-40">
+      <ContactHelmet />
       <LampContainer>
         <motion.h2
           initial={{ opacity: 0.5, y: 270 }}

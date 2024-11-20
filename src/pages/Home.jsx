@@ -2,9 +2,11 @@
 import styles from "../style";
 import { Hero, Business, Packages, NotEnough, Brand, CTA } from "../components";
 import FAQ from "../components/Faq";
+import HomepageHelmet from "../components/helmet/HomepageHelmet";
 
 const Home = () => (
   <div className={`bg-primary w-full overflow-hidden`}>
+    <HomepageHelmet />
     <div className={`bg-primary ${styles.flexStart}`}>
       <div className={`${styles.boxWidth}`}>
         <Hero />

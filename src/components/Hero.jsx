@@ -71,7 +71,8 @@ const Hero = () => {
           variants={textVariants}
           className="font-poppins font-semibold  sm:text-left text-center xs:text-[42px] text-[32px] ss:text-[68px] text-white ss:leading-[100.8px] leading-[54px] w-full"
         >
-          {t("hero.mainTextPart3")}
+          {t("hero.mainTextPart3")} <br />
+          {t("hero.mainTextPart4")}
         </motion.h1>
 
         {/* Description */}

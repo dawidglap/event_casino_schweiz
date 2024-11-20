@@ -6,6 +6,8 @@ import eventImage1 from "../assets/play.jpeg"; // Example images
 import eventImage2 from "../assets/play.jpeg";
 import eventImage3 from "../assets/play.jpeg";
 import eventImage4 from "../assets/play.jpeg";
+import EventsHelmet from "../components/helmet/EventsHelmet";
+import TrainingHelmet from "../components/helmet/TrainingHelmet";
 
 // Data for the casino events
 const eventData = [
@@ -69,57 +71,60 @@ const Events = () => {
   const { t } = useTranslation();
 
   return (
-    <div className="w-full min-h-screen bg-gradient-to-r from-black via-gray-900 to-black py-20">
-      {/* Hero Section */}
-      <motion.div
-        initial={{ opacity: 0, scale: 0.8 }}
-        animate={{ opacity: 1, scale: 1 }}
-        transition={{ duration: 1, ease: "easeOut" }}
-        className="text-center mb-20"
-      >
-        <h1 className="text-white text-4xl md:text-6xl font-extrabold">
-          {t("events.hero.title", "Discover Our Unforgettable Casino Events")}
-        </h1>
-        <p className="text-gray-400 text-lg mt-4 max-w-3xl mx-auto">
-          {t(
-            "events.hero.subtitle",
-            "Elevate your event to the next level with our range of luxury casino experiences. Each one is designed to immerse your guests in a world of glamour and excitement."
-          )}
-        </p>
-      </motion.div>
-
-      {/* Events Grid */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 px-8 max-w-[1280px] mx-auto">
-        {eventData.map((event) => (
-          <EventCard key={event.id} event={event} />
-        ))}
-      </div>
-
-      {/* Call to Action */}
-      <motion.div
-        initial={{ opacity: 0, y: 100 }}
-        whileInView={{ opacity: 1, y: 0 }}
-        transition={{ delay: 0.5, duration: 1, ease: "easeOut" }}
-        className="mt-24 text-center"
-      >
-        <h2 className="text-white text-3xl md:text-5xl font-bold mb-8">
-          {t("events.cta.title", "Ready to Roll the Dice?")}
-        </h2>
-        <p className="text-gray-400 text-lg mb-8 max-w-xl mx-auto">
-          {t(
-            "events.cta.description",
-            "Contact us today to plan your next casino event and give your guests a night to remember."
-          )}
-        </p>
-        <motion.button
-          whileHover={{ scale: 1.1 }}
-          transition={{ duration: 0.3 }}
-          className="bg-yellow-500 hover:bg-yellow-600 text-black font-bold py-4 px-10 rounded-full"
+    <>
+      <EventsHelmet />
+      <div className="w-full min-h-screen bg-gradient-to-r from-black via-gray-900 to-black py-20">
+        {/* Hero Section */}
+        <motion.div
+          initial={{ opacity: 0, scale: 0.8 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ duration: 1, ease: "easeOut" }}
+          className="text-center mb-20"
         >
-          {t("events.cta.button", "Book Your Event")}
-        </motion.button>
-      </motion.div>
-    </div>
+          <h1 className="text-white text-4xl md:text-6xl font-extrabold">
+            {t("events.hero.title", "Discover Our Unforgettable Casino Events")}
+          </h1>
+          <p className="text-gray-400 text-lg mt-4 max-w-3xl mx-auto">
+            {t(
+              "events.hero.subtitle",
+              "Elevate your event to the next level with our range of luxury casino experiences. Each one is designed to immerse your guests in a world of glamour and excitement."
+            )}
+          </p>
+        </motion.div>
+
+        {/* Events Grid */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 px-8 max-w-[1280px] mx-auto">
+          {eventData.map((event) => (
+            <EventCard key={event.id} event={event} />
+          ))}
+        </div>
+
+        {/* Call to Action */}
+        <motion.div
+          initial={{ opacity: 0, y: 100 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.5, duration: 1, ease: "easeOut" }}
+          className="mt-24 text-center"
+        >
+          <h2 className="text-white text-3xl md:text-5xl font-bold mb-8">
+            {t("events.cta.title", "Ready to Roll the Dice?")}
+          </h2>
+          <p className="text-gray-400 text-lg mb-8 max-w-xl mx-auto">
+            {t(
+              "events.cta.description",
+              "Contact us today to plan your next casino event and give your guests a night to remember."
+            )}
+          </p>
+          <motion.button
+            whileHover={{ scale: 1.1 }}
+            transition={{ duration: 0.3 }}
+            className="bg-yellow-500 hover:bg-yellow-600 text-black font-bold py-4 px-10 rounded-full"
+          >
+            {t("events.cta.button", "Book Your Event")}
+          </motion.button>
+        </motion.div>
+      </div>
+    </>
   );
 };
 

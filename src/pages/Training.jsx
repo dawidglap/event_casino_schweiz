@@ -9,6 +9,7 @@ import croupier from "../assets/croupierschool.png";
 import { FeaturesSectionDemo2 } from "../components/ui/why-ausbildung";
 import { IoMdCheckmark } from "react-icons/io";
 import CtaCroupier from "../components/CtaCroupier";
+import TrainingHelmet from "../components/helmet/TrainingHelmet";
 
 const heroVariants = {
   hidden: { opacity: 0, y: 50 },
@@ -63,6 +64,7 @@ const Training = () => {
 
   return (
     <div>
+      <TrainingHelmet />
       <LampContainer>
         <motion.h2
           initial={{ opacity: 0.5, y: 270 }}

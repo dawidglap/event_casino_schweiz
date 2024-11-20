@@ -7,6 +7,44 @@
     "team": "Équipe",
     "contact": "Contact"
   },
+  "meta": {
+    "homepage": {
+      "title": "Event Casino Suisse | Louez un Casino Mobile | Événements Casino Party en Suisse",
+      "description": "Louez notre casino mobile pour votre événement à Zurich, Genève, Bâle, Berne et dans toute la Suisse. Des soirées poker aux événements glamour façon Las Vegas – un divertissement de casino haut de gamme pour des événements d’entreprise et des fêtes privées.",
+      "keywords": "louez casino mobile, événement Zurich, événements casino party, Swiss Top Events, casino pour votre événement en Suisse, divertissement de casino",
+      "og_image": "/og-image.png"
+    },
+    "events": {
+      "title": "Événements Casino Inoubliables | Event Casino Suisse",
+      "description": "Découvrez nos événements casino inoubliables en Suisse. Des tournois de poker glamour aux soirées James Bond en tenue de soirée et aux nuits royales au casino – impressionnez vos invités avec luxe et élégance.",
+      "keywords": "événements casino, tournois de poker, soirée royale au casino, événements glamour, casino James Bond, gala Monte Carlo, casino pour événements en Suisse",
+      "og_image": "/og-image.png"
+    },
+    "casino101": {
+      "title": "Casino101 : Apprenez l’Art des Jeux de Casino",
+      "description": "Découvrez les secrets des jeux de casino ! Nos cours d’introduction au blackjack, à la roulette et au poker offrent l’opportunité parfaite d’apprendre les règles et les stratégies des jeux les plus populaires et de devenir un pro.",
+      "keywords": "Casino101, apprendre blackjack, stratégies roulette, bases poker, apprendre jeux de casino, cours d’introduction au casino",
+      "og_image": "/og-image.png"
+    },
+    "training": {
+      "title": "Croupier Academy | Formation de Croupier | Maîtrisez l’Art des Jeux de Casino",
+      "description": "Apprenez tout sur notre formation professionnelle de croupier en Suisse. De la gestion des tables au service client – préparez-vous à une carrière dans les meilleurs casinos grâce à notre cours multilingue et flexible.",
+      "keywords": "formation croupier, école de jeu, formation à temps partiel, apprendre jeux de casino, débuter comme croupier, casier judiciaire vierge pour croupier, formation à partir de 18 ans",
+      "og_image": "/og-image.png"
+    },
+    "team": {
+      "title": "Notre Équipe | Event Casino Suisse",
+      "description": "Faites connaissance avec l’équipe professionnelle d’Event Casino Suisse. Avec des décennies d’expérience, nos croupiers et experts offrent un divertissement de casino haut de gamme et des événements personnalisés dans toute la Suisse.",
+      "keywords": "équipe casino événement, croupiers professionnels, meilleurs croupiers Suisse, experts de casino, événements casino sur mesure",
+      "og_image": "/og-image-team.jpg"
+    },
+    "contact": {
+      "title": "Contactez-nous | Event Casino Suisse",
+      "description": "Contactez Event Casino Suisse pour des questions, des réservations ou des devis personnalisés. Nous sommes votre partenaire pour un divertissement de casino haut de gamme en Suisse.",
+      "keywords": "contactez event casino Suisse, demandes de réservation événements casino, devis événement casino, service client casino événement",
+      "og_image": "/og-image-contact.jpg"
+    }
+  },
     "navbarBanner": {
       "message": "Découvrez comment rendre votre événement sur le thème du casino inoubliable !",
       "downloadCTA": "Télécharger le PDF"
@@ -156,10 +194,11 @@
     "discountAmount": "10%",
     "discountText": "Remise jusqu'en",
     "discountDate": "Décembre 2024",
-    "mainTextPart1": "Nous créons des",
-    "mainTextPart2": "moments inoubliables",
-    "mainTextPart3": "pour votre événement.",
-    "description": "Divertissement de premier ordre qui dépasse toutes les attentes."
+      "mainTextPart1": "Le Meilleur",
+      "mainTextPart2": "Casino Mobile",
+      "mainTextPart3": "pour Votre Événement",
+      "mainTextPart4": "en Suisse",
+      "description": "Ajoutez une touche unique à votre événement avec notre casino mobile."
   },
   "stats": {
     "privateEvents": "Fêtes Privées",

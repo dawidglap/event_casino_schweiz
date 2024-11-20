@@ -8,6 +8,7 @@ import alone from "../assets/alone.png";
 import { motion } from "framer-motion";
 import { LampContainer } from "../components/ui/lamp";
 import CTA from "../components/CTA";
+import Casino101Helmet from "../components/helmet/Casino101Helmet";
 
 // Component for handling content inside each card dynamically
 const ContentComponent = ({ category }) => {
@@ -58,6 +59,7 @@ export default function Casino101() {
 
   return (
     <div className="max-w-[1440px] h-full py-2 mx-auto px-4">
+      <Casino101Helmet />
       <LampContainer>
         <motion.h2
           initial={{ opacity: 0.5, y: 270 }}

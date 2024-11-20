@@ -8,6 +8,7 @@ import placeholder from "../assets/placeholder.png"; // Import placeholder image
 
 import { LampContainer } from "../components/ui/lamp";
 import CtaTeam from "../components/CtaTeam";
+import TeamHelmet from "../components/helmet/TeamHelmet";
 
 // Example data for team members
 const teamMembers = [
@@ -133,6 +134,7 @@ const Team = () => {
 
   return (
     <div className="relative max-w-[1440px] mx-auto px-4">
+      <TeamHelmet />
       <div className="blur-[0px]">
         <LampContainer>
           <motion.h2

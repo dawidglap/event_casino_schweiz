@@ -7,6 +7,44 @@
     "team": "Team",
     "contact": "Contact"
   },
+  "meta": {
+    "homepage": {
+      "title": "Event Casino Switzerland | Rent a Mobile Casino | Casino Party Events in Switzerland",
+      "description": "Rent our mobile casino for your event in Zurich, Geneva, Basel, Bern, and across Switzerland. From poker nights to glamorous Las Vegas-style events – premium casino entertainment for corporate and private parties.",
+      "keywords": "rent mobile casino, event Zurich, casino party events, Swiss Top Events, casino for your event in Switzerland, premium casino entertainment",
+      "og_image": "/og-image.png"
+    },
+    "events": {
+      "title": "Unforgettable Casino Events | Event Casino Switzerland",
+      "description": "Discover our unforgettable casino events in Switzerland. From glamorous poker tournaments to James Bond black-tie evenings and royal casino nights – impress your guests with luxury and elegance.",
+      "keywords": "casino events, poker tournaments, royal casino night, glamorous events, James Bond casino, Monte Carlo gala, casino for events in Switzerland",
+      "og_image": "/og-image.png"
+    },
+    "casino101": {
+      "title": "Casino101: Learn the Art of Casino Games",
+      "description": "Discover the secrets of casino games! Our introductory courses for blackjack, roulette, and poker provide the perfect opportunity to learn the rules and strategies of the most popular games and become a pro.",
+      "keywords": "Casino101, learn blackjack, roulette strategies, poker basics, learn casino games, introductory casino courses",
+      "og_image": "/og-image.png"
+    },
+    "training": {
+      "title": "Croupier Academy | Croupier Training | Master the Art of Casino Gaming",
+      "description": "Learn everything about our professional croupier training in Switzerland. From table management expertise to customer service – prepare for a career in the finest casinos with our multilingual and part-time course.",
+      "keywords": "croupier training, game school, part-time training, learn casino games, start as a croupier, clean criminal record for croupier, training from 18 years old",
+      "og_image": "/og-image.png"
+    },
+    "team": {
+      "title": "Meet Our Team | Event Casino Switzerland",
+      "description": "Get to know the professional team of Event Casino Switzerland. With decades of experience, our croupiers and experts deliver premium casino entertainment and customized events across Switzerland.",
+      "keywords": "event casino team, professional croupiers, top croupiers Switzerland, casino experts, tailored casino events",
+      "og_image": "/og-image-team.jpg"
+    },
+    "contact": {
+      "title": "Contact Us | Event Casino Switzerland",
+      "description": "Contact Event Casino Switzerland for inquiries, bookings, or custom quotes. We are your partner for premium casino entertainment in Switzerland.",
+      "keywords": "contact event casino Switzerland, booking casino events, casino event quotes, event casino customer service",
+      "og_image": "/og-image-contact.jpg"
+    }
+  },
   
     "navbarBanner": {
       "message": "Discover how to make your casino-themed event unforgettable!",
@@ -158,10 +196,11 @@
     "discountAmount": "10%",
     "discountText": "Discount until",
     "discountDate": "December 2024",
-    "mainTextPart1": "We create",
-    "mainTextPart2": "unforgettable",
-    "mainTextPart3": "moments for your event.",
-    "description": "Top-class entertainment that exceeds all expectations."
+    "mainTextPart1": "The Best",
+    "mainTextPart2": "Mobile Casino",
+    "mainTextPart3": "for Your Event",
+    "mainTextPart4": "in Switzerland",
+    "description": "Transform your event with our exclusive mobile casino."
   },
   "stats": {
     "privateEvents": "Private Parties",

@@ -7,10 +7,49 @@
     "team": "Il Team",
     "contact": "Contattaci"
   },
+  "meta": {
+    "homepage": {
+      "title": "Event Casino Svizzera | Noleggia un Casino Mobile | Eventi Casino Party in Svizzera",
+      "description": "Noleggia il nostro casinò mobile per il tuo evento a Zurigo, Ginevra, Basilea, Berna e in tutta la Svizzera. Da serate di poker a eventi glamour in stile Las Vegas – intrattenimento da casinò di alto livello per eventi aziendali e feste private.",
+      "keywords": "noleggia casinò mobile, evento Zurigo, eventi casino party, Swiss Top Events, casinò per il tuo evento in Svizzera, intrattenimento da casinò",
+      "og_image": "/og-image.png"
+    },
+    "events": {
+      "title": "Eventi Casino Indimenticabili | Event Casino Svizzera",
+      "description": "Scopri i nostri eventi casinò indimenticabili in Svizzera. Da tornei di poker glamour a serate eleganti in stile James Bond e notti regali – stupisci i tuoi ospiti con lusso ed eleganza.",
+      "keywords": "eventi casinò, tornei di poker, notte regale al casinò, eventi glamour, casinò James Bond, gala Monte Carlo, casinò per eventi in Svizzera",
+      "og_image": "/og-image.png"
+    },
+    "casino101": {
+      "title": "Casino101: Impara l'Arte dei Giochi da Casinò",
+      "description": "Scopri i segreti dei giochi da casinò! I nostri corsi introduttivi di blackjack, roulette e poker ti offrono l'opportunità perfetta per imparare le regole e le strategie dei giochi più popolari e diventare un professionista.",
+      "keywords": "Casino101, impara blackjack, strategie roulette, basi poker, impara giochi da casinò, corsi introduttivi casinò",
+      "og_image": "/og-image.png"
+    },
+    "training": {
+      "title": "Croupier Academy | Formazione per Croupier | Diventa un Maestro dei Giochi da Casinò",
+      "description": "Scopri tutto sulla nostra formazione professionale per croupier in Svizzera. Dalla gestione dei tavoli all’eccellenza nel servizio clienti – preparati per una carriera nei migliori casinò con il nostro corso multilingue e flessibile.",
+      "keywords": "formazione croupier, scuola di gioco, corso part-time, imparare giochi da casinò, iniziare come croupier, certificato penale pulito per croupier, formazione dai 18 anni",
+      "og_image": "/og-image.png"
+    },
+    "team": {
+      "title": "Il Nostro Team | Event Casino Svizzera",
+      "description": "Conosci il team professionale di Event Casino Svizzera. Con decenni di esperienza, i nostri croupier ed esperti offrono intrattenimento da casinò di alto livello ed eventi personalizzati in tutta la Svizzera.",
+      "keywords": "team casinò evento, croupier professionali, migliori croupier Svizzera, esperti di casinò, eventi casinò su misura",
+      "og_image": "/og-image-team.jpg"
+    },
+    "contact": {
+      "title": "Contattaci | Event Casino Svizzera",
+      "description": "Contatta Event Casino Svizzera per domande, prenotazioni o preventivi personalizzati. Siamo il tuo partner per l’intrattenimento da casinò di alto livello in Svizzera.",
+      "keywords": "contattaci event casino svizzera, richieste prenotazioni eventi casinò, preventivi eventi casinò, assistenza clienti casinò evento",
+      "og_image": "/og-image-contact.jpg"
+    }
+  },
     "navbarBanner": {
       "message": "Scopri come rendere unico il tuo evento a tema casinò!",
       "downloadCTA": "Scarica il PDF"
     },
+    
     "popup": {
       "title": "Scarica il PDF o ricevi un'offerta personalizzata",
       "description": "Puoi lasciare la tua email per ricevere un'offerta su misura o cliccare su 'Scarica il PDF' per ottenere subito il PDF.",
@@ -156,10 +195,11 @@
     "discountAmount": "10%",
     "discountText": "Sconto fino a",
     "discountDate": "Dicembre 2024",
-    "mainTextPart1": "Creiamo",
-    "mainTextPart2": "Momenti Indimenticabili",
-    "mainTextPart3": "per il Tuo Evento.",
-    "description": "Intrattenimento di alto livello che supera ogni aspettativa."
+  "mainTextPart1": "Il Miglior",
+  "mainTextPart2": "Casinò Mobile",
+  "mainTextPart3": "per il Tuo Evento",
+  "mainTextPart4": "in Svizzera",
+  "description": "Dai al tuo evento un tocco esclusivo con il nostro casinò mobile."
   },
   "stats": {
     "privateEvents": "Feste Private",
