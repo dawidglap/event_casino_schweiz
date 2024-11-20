@@ -1,7 +1,6 @@
 /* Import Google Fonts */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap");
 
-
 /* Tailwind CSS utilities */
 @tailwind base;
 @tailwind components;
@@ -17,9 +16,6 @@
   );
   --card-shadow: 0px 20px 100px -10px rgba(66, 71, 91, 0.1);
 }
-
-
-
 
 /* Global styles */
 * {
@@ -46,12 +42,12 @@
 .text-gradient {
   background: radial-gradient(
     64.18% 64.18% at 71.16% 35.69%,
-    #FFF7E2 0.89%,
-    #F7E8B6 17.23%,
-    #F0DB9F 42.04%,
-    #E9C888 55.12%,
-    #DDBA77 71.54%,
-    #D7B56E 100%
+    #fff7e2 0.89%,
+    #f7e8b6 17.23%,
+    #f0db9f 42.04%,
+    #e9c888 55.12%,
+    #ddba77 71.54%,
+    #d7b56e 100%
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -75,22 +71,20 @@
 .bg-blue-gradient {
   background: linear-gradient(
     157.81deg,
-    #FFF7E2 -43.27%,
-    #F7E8B6 -21.24%,
-    #F0DB9F 12.19%,
-    #E9C888 29.82%,
-    #DDBA77 51.94%,
-    #D7B56E 90.29%
+    #fff7e2 -43.27%,
+    #f7e8b6 -21.24%,
+    #f0db9f 12.19%,
+    #e9c888 29.82%,
+    #ddba77 51.94%,
+    #d7b56e 90.29%
   );
 }
-
-
 
 .custom-bg-card {
   background: linear-gradient(
     144.39deg,
-    #D7B56E -170.47%, /* Gold */
-    #000000 91.61%    /* Black */
+    #d7b56e -170.47%,
+    /* Gold */ #000000 91.61% /* Black */
   );
 }
 
@@ -183,7 +177,9 @@
 /* Hover effect for feedback cards */
 .feedback-card:hover,
 .feedback-card-hover {
-  background: var(--black-gradient); /* Apply your hover effect background color */
+  background: var(
+    --black-gradient
+  ); /* Apply your hover effect background color */
 }
 
 /* Blue gradient effect */

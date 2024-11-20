@@ -128,7 +128,7 @@ const Navbar = () => {
       </ul>
 
       {/* Mobile Menu */}
-      <div className="md:hidden flex flex-1 justify-end items-center z-[10000]">
+      <div className="md:hidden flex flex-1 justify-end items-center z-[100]">
         {/* Language Switcher for Mobile */}
         <div className="text-sm flex space-x-2 mr-2">
           <button
