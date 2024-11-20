@@ -48,7 +48,7 @@ const DownloadPopup = ({ onClose }) => {
   // Handle PDF download
   const downloadPDF = () => {
     window.open("/info-event-casino-schweiz.pdf", "_blank");
-    triggerConfetti(); // Show confetti after download
+    onClose(); // Close popup directly after download
   };
 
   // Trigger confetti and close popup after animation
