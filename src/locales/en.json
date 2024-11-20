@@ -199,47 +199,47 @@
     "backHome": "Back to Home"
   },
     "team": {
-      "heading": "The Casino Elite",
+      "heading": "Our Team",
         "member1": {
           "name": "Dawid",
-          "role": "The Card Virtuoso",
-          "description": "Dawid is a true master of the cards, with precise movements and unwavering composure. His training has made him an expert in the art of gaming, and every event becomes a spectacular experience thanks to his skills. With his motto: 'The detail makes the difference,' Dawid guarantees an unforgettable experience."
+          "role": "Card Expert",
+          "description": "Dawid brings precision and expertise to the gaming table. With his professional training and experience, every event benefits from his ability to create an engaging and well-organized atmosphere."
         },
         "member2": {
           "name": "Philip",
-          "role": "The Marketing Maestro",
-          "description": "Philip is the undisputed king of successful strategies, a true 'King Midas of marketing.' Every project he touches turns to gold, thanks to his creative vision and his ability to make every detail shine. With his motto: 'Success is never a coincidence,' Philip elevates every event to the next level, delivering results that leave a lasting impression."
+          "role": "Marketing Specialist",
+          "description": "Philip oversees marketing strategies with over 10 years of industry experience. His ability to plan and coordinate every detail ensures an effective and results-driven approach for every event."
         },
         "member3": {
           "name": "Zuzanna",
-          "role": "The Strategist",
-          "description": "Zuzanna is a brilliant thinker and an infallible strategist. Her extensive experience in the gaming world has made her a charismatic and professional personality. With her sharp eye for every detail, she turns every event into a unique adventure. Her unmistakable style always leaves a lasting impression."
+          "role": "Game Professional",
+          "description": "Zuzanna possesses extensive industry knowledge and great attention to detail. Her experience in managing games and events allows her to provide tailored solutions for every need."
         },
         "member4": {
           "name": "Davide",
-          "role": "European Champion Croupier",
-          "description": "Davide is a living legend in the casino world. As Europe's Best Croupier in 2012, he brings over 15 years of industry experience. His skills and presence lend unmatched authenticity to every event, making him the true elite of casino entertainment."
+          "role": "Professional Croupier",
+          "description": "With over 15 years of experience and recognition as Europe's Best Croupier in 2012, Davide brings a high level of expertise and professionalism to every event."
         },
         "member5": {
           "name": "Kevin",
-          "role": "The Poker Agent",
-          "description": "Kevin is a master of strategies and bluffing. At the poker table, every move he makes is calculated with precision, turning the game into an art form. With his natural talent and years of refined skills, Kevin ensures excitement and entertainment that keeps everyone on the edge of their seat."
+          "role": "Poker Specialist",
+          "description": "Kevin specializes in strategy games like poker, offering a professional and thoughtful approach. His experience contributes to a balanced and engaging gaming experience."
         },
         "member6": {
           "name": "Adrian",
-          "role": "El Matador of Roulette",
-          "description": "Adrian, known as 'El Matador,' masters roulette with the grace and confidence of a true expert. With him at the table, luck always seems to be on the house's side. His charisma and precision make every spin of the wheel an unforgettable experience."
+          "role": "Roulette Specialist",
+          "description": "Adrian stands out for his experience and knowledge of roulette, ensuring precise and professional table management. His attention to detail guarantees a high-quality gaming experience."
         },
         "member7": {
           "name": "Igor",
-          "role": "The Visionary",
-          "description": "Igor is an artist behind the camera and a blackjack expert. With an unerring eye for detail and unique talent, he captures unforgettable moments and brings excitement to the gaming table. His passion for photography and blackjack makes him an indispensable asset for a complete and engaging experience."
+          "role": "Videomaker and Photographer",
+          "description": "Igor is a seasoned professional in visual production. His creativity and attention to detail ensure that every event is perfectly captured through high-quality images and videos."
         },
         "member8": {
           "name": "Emanuele",
-          "role": "The Game Master",
-          "description": "Emanuele is the undisputed master of all casino games. His deep knowledge of the rules and his ability to create the perfect atmosphere make him indispensable. With an impressively quick hand at dealing cards, Emanuele adds a dynamic flair to every table, making each game thrilling and unforgettable."
-        }      
+          "role": "Game Specialist",
+          "description": "Emanuele is a seasoned professional in all casino games. His ability to manage the pace of play and engage participants ensures an enjoyable and well-organized experience."
+        }         
     },  
 "events": {
     "heading": "Discover Our Casino-Themed Events",
