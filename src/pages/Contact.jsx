@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useTranslation } from "react-i18next";
 import { motion } from "framer-motion";
 import emailjs from "emailjs-com";
@@ -11,6 +11,11 @@ import ContactHelmet from "../components/helmet/ContactHelmet";
 const Contact = () => {
   const { t } = useTranslation();
   const navigate = useNavigate();
+
+  // Scroll to top on page load
+  useEffect(() => {
+    window.scrollTo(0, 0); // Scrolls to the top of the page
+  }, []);
 
   const [formData, setFormData] = useState({
     name: "",

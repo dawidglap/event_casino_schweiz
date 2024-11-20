@@ -31,7 +31,7 @@ const FAQItem = ({ question, answer, isOpen, toggle }) => (
 
 const FAQ = () => {
   const { t } = useTranslation();
-  const [openIndex, setOpenIndex] = useState(0); // La prima domanda sarà aperta di default
+  const [openIndex, setOpenIndex] = useState(null); // La prima domanda sarà aperta di default
   const [showAll, setShowAll] = useState(false);
 
   const faqData = Array.from({ length: 18 }, (_, i) => ({
