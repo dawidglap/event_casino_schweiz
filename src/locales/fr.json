@@ -108,7 +108,7 @@
       "less": "Afficher moins"
     },
   "form": {
-     "predefinedMessage": "Bonjour, je voudrais obtenir des informations sur le package suivant :",
+    "predefinedMessage": "Bonjour, je voudrais obtenir des informations sur le package suivant :",
     "heading": "Contactez-nous",
     "nameLabel": "Votre Nom",
     "namePlaceholder": "Entrez votre nom",
