@@ -8,107 +8,106 @@
     "contact": "Kontakt"
   },
   "buttonPackages": {
-"details": {
-  "test": "voglio info a proposito di",
-    "essential": "1 x Blackjack, 3 Stunden Spielzeit, Logistik inklusive",
-    "premium": "1 x Blackjack, 1 x American Roulette, 1 x Ultimate Texas Hold'em, 3 Stunden Spielzeit, VIP-Empfang inklusive",
-    "royal": "Auswahl an Tischen: Blackjack, American Roulette, Ultimate Texas Hold'em, VIP-Empfang im James-Bond-Stil"
-  }
+    "details": {
+      "test": "voglio info a proposito di",
+      "essential": "1 x Blackjack, 3 Stunden Spielzeit, Logistik inklusive",
+      "premium": "1 x Blackjack, 1 x American Roulette, 1 x Ultimate Texas Hold'em, 3 Stunden Spielzeit, VIP-Empfang inklusive",
+      "royal": "Auswahl an Tischen: Blackjack, American Roulette, Ultimate Texas Hold'em, VIP-Empfang im James-Bond-Stil"
+    }
   },
-  "meta":{
-   "homepage": {
-    "title": "Event Casino Schweiz | Mobiles Casino mieten | Casino-Party Events in der Schweiz",
-    "description": "Mieten Sie unser mobiles Casino für Ihre Veranstaltung in Zürich, Genf, Basel, Bern und der ganzen Schweiz. Von Poker-Nights bis zu glamourösen Las Vegas-Events – erstklassige Casinounterhaltung für Firmenanlässe und private Feiern.",
-    "keywords": "mobiles casino mieten, veranstaltung zürich, events casino-party, Swiss Top Events, casino für deinen Event in der Schweiz, Casinounterhaltung für Firmenanlässe",
-    "og_image": "/og-image.png"
-  },
-  "events": {
-    "title": "Unvergessliche Casino-Events | Event Casino Schweiz",
-    "description": "Entdecken Sie unsere unvergesslichen Casino-Events in der Schweiz. Ob glamouröse Pokerturniere, James Bond Black Tie-Abende oder eine royale Casinonacht – beeindrucken Sie Ihre Gäste mit Luxus und Eleganz.",
-    "keywords": "casino events, poker turniere, royal casino night, glamorous events, james bond casino, monte carlo gala, casino für veranstaltungen in der schweiz",
-    "og_image": "/og-image.png"
-  },
-  "casino101": {
-    "title": "Casino101: Lerne die Kunst der Casinospiele",
-    "description": "Entdecken Sie die Geheimnisse der Casinospiele! Unsere Einführungskurse für Blackjack, Roulette und Poker bieten Ihnen die perfekte Möglichkeit, die Regeln und Strategien der beliebtesten Spiele zu lernen und ein Profi zu werden.",
-    "keywords": "Casino101, Blackjack lernen, Roulette Strategien, Poker Grundlagen, Casinospiele lernen, Casino Einführungskurse",
-    "og_image": "/og-image.png"
-  },
-  "training": {
-    "title": "Croupier Academy | Croupier-Ausbildung | Werde ein Meister der Casinospiele",
-    "description": "Erfahre alles über unsere professionelle Croupier-Ausbildung in der Schweiz. Von der Spieltisch-Expertise bis zum Kundenservice – bereite dich mit unserem mehrsprachigen und berufsbegleitenden Kurs auf eine Karriere in den renommiertesten Casinos vor.",
-    "keywords": "Croupier-Ausbildung, game school, berufsbegleitende Schulung, Casinospiele lernen, Einstieg als Croupier, Führungszeugnis für Croupier, Ausbildung ab 18 Jahre",
-    "og_image": "/og-image.png"
-  },
-  "team": {
-    "title": "Unser Team | Event Casino Schweiz",
-    "description": "Lernen Sie das professionelle Team von Event Casino Schweiz kennen. Mit jahrzehntelanger Erfahrung bieten unsere Croupiers und Experten erstklassige Casinounterhaltung und maßgeschneiderte Events in der Schweiz.",
-    "keywords": "event casino team, professionelle croupiers, beste croupiers schweiz, casino experten, maßgeschneiderte casino-events",
-    "og_image": "/og-image-team.jpg"
-  },
-  "contact": {
-    "title": "Kontaktieren Sie uns | Event Casino Schweiz",
-    "description": "Kontaktieren Sie Event Casino Schweiz für Fragen, Buchungen oder individuelle Angebote. Wir sind Ihr Partner für erstklassige Casinounterhaltung in der Schweiz.",
-    "keywords": "kontakt event casino schweiz, buchungsanfragen casino-events, casino-event angebote, kundenservice event casino",
-    "og_image": "/og-image-contact.jpg"
-  }
-  },
-    "navbarBanner": {
-      "message": "Erfahren Sie, wie Sie Ihr Casino-Event unvergesslich machen!",
-      "downloadCTA": "PDF herunterladen"
+  "meta": {
+    "homepage": {
+      "title": "Event Casino Schweiz | Mobiles Casino mieten | Casino-Party Events in der Schweiz",
+      "description": "Mieten Sie unser mobiles Casino für Ihre Veranstaltung in Zürich, Genf, Basel, Bern und der ganzen Schweiz. Von Poker-Nights bis zu glamourösen Las Vegas-Events – erstklassige Casinounterhaltung für Firmenanlässe und private Feiern.",
+      "keywords": "mobiles casino mieten, veranstaltung zürich, events casino-party, Swiss Top Events, casino für deinen Event in der Schweiz, Casinounterhaltung für Firmenanlässe",
+      "og_image": "/og-image.png"
     },
-    "popup": {
-      "title": "Laden Sie das PDF herunter oder erhalten Sie ein persönliches Angebot",
-      "description": "Sie können Ihre E-Mail-Adresse angeben, um ein massgeschneidertes Angebot zu erhalten, oder auf 'PDF herunterladen' klicken, um das PDF sofort herunterzuladen.",
-      "emailPlaceholder": "Geben Sie Ihre E-Mail-Adresse ein",
-      "sendEmail": "E-Mail senden",
-      "downloadPDF": "PDF herunterladen",
-      "close": "Schliessen",
-      "successMessage": "E-Mail erfolgreich gesendet!",
-      "errorMessage": "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut."
-    },  
+    "events": {
+      "title": "Unvergessliche Casino-Events | Event Casino Schweiz",
+      "description": "Entdecken Sie unsere unvergesslichen Casino-Events in der Schweiz. Ob glamouröse Pokerturniere, James Bond Black Tie-Abende oder eine royale Casinonacht – beeindrucken Sie Ihre Gäste mit Luxus und Eleganz.",
+      "keywords": "casino events, poker turniere, royal casino night, glamorous events, james bond casino, monte carlo gala, casino für veranstaltungen in der schweiz",
+      "og_image": "/og-image.png"
+    },
+    "casino101": {
+      "title": "Casino101: Lerne die Kunst der Casinospiele",
+      "description": "Entdecken Sie die Geheimnisse der Casinospiele! Unsere Einführungskurse für Blackjack, Roulette und Poker bieten Ihnen die perfekte Möglichkeit, die Regeln und Strategien der beliebtesten Spiele zu lernen und ein Profi zu werden.",
+      "keywords": "Casino101, Blackjack lernen, Roulette Strategien, Poker Grundlagen, Casinospiele lernen, Casino Einführungskurse",
+      "og_image": "/og-image.png"
+    },
+    "training": {
+      "title": "Croupier Academy | Croupier-Ausbildung | Werde ein Meister der Casinospiele",
+      "description": "Erfahre alles über unsere professionelle Croupier-Ausbildung in der Schweiz. Von der Spieltisch-Expertise bis zum Kundenservice – bereite dich mit unserem mehrsprachigen und berufsbegleitenden Kurs auf eine Karriere in den renommiertesten Casinos vor.",
+      "keywords": "Croupier-Ausbildung, game school, berufsbegleitende Schulung, Casinospiele lernen, Einstieg als Croupier, Führungszeugnis für Croupier, Ausbildung ab 18 Jahre",
+      "og_image": "/og-image.png"
+    },
+    "team": {
+      "title": "Unser Team | Event Casino Schweiz",
+      "description": "Lernen Sie das professionelle Team von Event Casino Schweiz kennen. Mit jahrzehntelanger Erfahrung bieten unsere Croupiers und Experten erstklassige Casinounterhaltung und maßgeschneiderte Events in der Schweiz.",
+      "keywords": "event casino team, professionelle croupiers, beste croupiers schweiz, casino experten, maßgeschneiderte casino-events",
+      "og_image": "/og-image-team.jpg"
+    },
+    "contact": {
+      "title": "Kontaktieren Sie uns | Event Casino Schweiz",
+      "description": "Kontaktieren Sie Event Casino Schweiz für Fragen, Buchungen oder individuelle Angebote. Wir sind Ihr Partner für erstklassige Casinounterhaltung in der Schweiz.",
+      "keywords": "kontakt event casino schweiz, buchungsanfragen casino-events, casino-event angebote, kundenservice event casino",
+      "og_image": "/og-image-contact.jpg"
+    }
+  },
+  "navbarBanner": {
+    "message": "Erfahren Sie, wie Sie Ihr Casino-Event unvergesslich machen!",
+    "downloadCTA": "PDF herunterladen"
+  },
+  "popup": {
+    "title": "Laden Sie das PDF herunter oder erhalten Sie ein persönliches Angebot",
+    "description": "Sie können Ihre E-Mail-Adresse angeben, um ein massgeschneidertes Angebot zu erhalten, oder auf 'PDF herunterladen' klicken, um das PDF sofort herunterzuladen.",
+    "emailPlaceholder": "Geben Sie Ihre E-Mail-Adresse ein",
+    "sendEmail": "E-Mail senden",
+    "downloadPDF": "PDF herunterladen",
+    "close": "Schliessen",
+    "successMessage": "E-Mail erfolgreich gesendet!",
+    "errorMessage": "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut."
+  },
   "faq": {
-  "title": "Häufig gestellte Fragen",
-  "question1": "Welche Dienstleistungen bietet Event Casino Schweiz an?",
-  "answer1": "Event Casino Schweiz bietet professionelles Casino-Equipment für Veranstaltungen in der gesamten Schweiz. Unser Angebot umfasst beliebte Spiele wie Black Jack, American Roulette, Poker Texas Hold'em, Ultimate Texas Hold'em, Chuck a Luck und Dice Ball. Diese werden von ausgebildeten professionellen Croupiers unter der Leitung von Davide Merli betreut, Europas bestem Croupier von 2012, mit über 15 Jahren Erfahrung in Casino-Events.",
-  "question2": "Für welche Arten von Veranstaltungen ist ein Casino-Event geeignet?",
-  "answer2": "Unsere Casino-Dienstleistungen eignen sich perfekt für eine Vielzahl von Veranstaltungen, darunter Teambuilding, Firmenevents, Hochzeiten, private Partys, Geburtstagsfeiern, Produkteinführungen und mehr. Wir passen jede Veranstaltung an, um ein unvergessliches Erlebnis für Ihre Gäste zu schaffen.",
-  "question3": "Wie funktioniert ein Casino-Event?",
-  "answer3": "Wir bringen ein komplettes Casino-Setup an Ihren Veranstaltungsort, inklusive professioneller Casino-Tische, Chips und anderer Ausrüstung. Unsere professionellen Croupiers, angeführt von Branchenexperte Davide Merli, sorgen dafür, dass die Gäste ein authentisches und fesselndes Erlebnis geniessen.",
-  "question4": "Wird echtes Geld bei den Spielen verwendet?",
-  "answer4": "Nein, unsere Casino-Events dienen ausschliesslich der Unterhaltung. Wir bieten ein realistisches Casino-Erlebnis ohne echtes Geld, sodass alle Gäste das Spielen sicher geniessen können.",
-  "question5": "Wie viele Tische benötige ich für meine Veranstaltung?",
-  "answer5": "Wir empfehlen einen Tisch für jeweils 20 Gäste, um sicherzustellen, dass jeder die Möglichkeit hat zu spielen und das Erlebnis zu geniessen. Für grössere Veranstaltungen können wir massgeschneiderte Aufstellungen entsprechend der Gästeanzahl besprechen.",
-  "question6": "Welche Qualität hat die Ausstattung, die Sie verwenden?",
-  "answer6": "Wir verwenden echte Casino-Tische, Chips und andere Spieleausrüstungen in höchster Qualität, um ein authentisches Erlebnis zu bieten. Unsere Materialien sind hochwertig und verleihen jedem Event einen professionellen und eleganten Look.",
-  "question7": "Wie kann ich Event Casino Schweiz für mein Event buchen?",
-  "answer7": "Die Buchung ist einfach. Kontaktieren Sie uns über unsere Website oder rufen Sie unseren Kundenservice an. Wir besprechen Ihre Anforderungen, empfehlen ein massgeschneidertes Paket und kümmern uns um die gesamte Logistik, um sicherzustellen, dass Ihr Event reibungslos abläuft.",
-  "question8": "Kann ich das Casino-Setup für mein Event anpassen?",
-  "answer8": "Absolut. Jedes Event ist einzigartig und kann genau auf Ihre Bedürfnisse zugeschnitten werden. Wir arbeiten mit erfahrenen Fachleuten und Agenturen zusammen, um ein unvergessliches Erlebnis zu schaffen, das Sie und Ihre Gäste in Erinnerung behalten.",
-  "question9": "Was ist in einem Standard-Casino-Mietpaket enthalten?",
-  "answer9": "Jedes Mietpaket umfasst die von Ihnen gewählten Casinotische, Chips, Karten und professionelle Croupiers. Wir übernehmen zudem den Auf- und Abbau, sodass alles von Anfang bis Ende perfekt organisiert ist.",
-  "question10": "Arbeiten Sie in der gesamten Schweiz?",
-  "answer10": "Ja, Event Casino Schweiz bedient Kunden in der gesamten Schweiz. Wir sind bestrebt, hochwertige Casino-Unterhaltung an jeden Ort zu bringen, damit Sie und Ihre Gäste ein erstklassiges Erlebnis geniessen können.",
-  "question11": "Wie erfahren sind Ihre Croupiers?",
-  "answer11": "Unsere Croupiers sind hochqualifizierte Fachleute, angeführt von Davide Merli, Europas bestem Croupier von 2012, der über 15 Jahre Erfahrung mitbringt. Sie sind höflich, erfahren und stets professionell gekleidet.",
-  "question12": "Was unterscheidet Event Casino Schweiz von anderen Anbietern?",
-  "answer12": "Wir zeichnen uns durch unser Engagement für Qualität, Anpassungsfähigkeit und Kundenzufriedenheit aus. Mit hochwertiger Casino-Ausstattung, professionellen Croupiers und der Expertise von Davide Merli bieten wir ein unvergleichliches Erlebnis in der Casino-Unterhaltungsbranche der Schweiz.",
-  "question13": "Können Sie grosse Events mit mehreren Tischen und Croupiers organisieren?",
-  "answer13": "Ja, wir können Events unterschiedlicher Grösse organisieren, von kleinen Feiern bis hin zu grossen Firmenevents. Wir arbeiten mit Ihnen zusammen, um das beste Setup und die optimale Anzahl von Tischen für ein reibungsloses Spielerlebnis zu ermitteln.",
-  "question14": "Wie weit im Voraus sollte ich buchen?",
-  "answer14": "Um sicherzustellen, dass Ihr Wunschtermin und Ihre Wunschleistungen verfügbar sind, empfehlen wir, einige Wochen im Voraus zu buchen. Wir bemühen uns jedoch, auch kurzfristige Anfragen zu erfüllen, wenn dies möglich ist.",
-  "question15": "Welche Preismöglichkeiten gibt es für Ihre Casino-Mietservices?",
-  "answer15": "Die Preise variieren je nach Veranstaltungsgrösse, Anzahl der Tische und individuellen Anpassungsoptionen. Kontaktieren Sie uns für ein massgeschneidertes Angebot – wir finden die beste Lösung innerhalb Ihres Budgets.",
-  "question16": "Bieten Sie zusätzliche Unterhaltungsmöglichkeiten an?",
-  "answer16": "Ja, neben den Casino-Spielen können wir zusätzliche Unterhaltung wie Live-Musik, Zauberer oder thematische Dekorationen arrangieren, um das gesamte Ambiente des Events zu bereichern.",
-  "question17": "Sind Sie mit einem lizenzierten Casino verbunden?",
-  "answer17": "Nein, Event Casino Schweiz ist nicht mit einem lizenzierten Casino verbunden. Wir sind ein Unternehmen, das sich auf Casino-Themenunterhaltung spezialisiert hat und keine Glücksspielaktivitäten anbietet – unsere Dienstleistungen dienen rein dem Spass und der Unterhaltung.",
-  "question18": "In welchen Regionen bieten Sie Ihre Dienstleistungen an?",
-  "answer18": "Event Casino Schweiz bietet seine Dienstleistungen in der gesamten Schweiz an, von Zürich bis Genf, Basel, Bern und darüber hinaus. Wo auch immer Sie sind, wir bringen Ihnen das Casino-Erlebnis nach Hause.",
-  "more": "Mehr erfahren",
-  "less": "Weniger anzeigen"
-},
-
+    "title": "Häufig gestellte Fragen",
+    "question1": "Welche Dienstleistungen bietet Event Casino Schweiz an?",
+    "answer1": "Event Casino Schweiz bietet professionelles Casino-Equipment für Veranstaltungen in der gesamten Schweiz. Unser Angebot umfasst beliebte Spiele wie Black Jack, American Roulette, Poker Texas Hold'em, Ultimate Texas Hold'em, Chuck a Luck und Dice Ball. Diese werden von ausgebildeten professionellen Croupiers unter der Leitung von Davide Merli betreut, Europas bestem Croupier von 2012, mit über 15 Jahren Erfahrung in Casino-Events.",
+    "question2": "Für welche Arten von Veranstaltungen ist ein Casino-Event geeignet?",
+    "answer2": "Unsere Casino-Dienstleistungen eignen sich perfekt für eine Vielzahl von Veranstaltungen, darunter Teambuilding, Firmenevents, Hochzeiten, private Partys, Geburtstagsfeiern, Produkteinführungen und mehr. Wir passen jede Veranstaltung an, um ein unvergessliches Erlebnis für Ihre Gäste zu schaffen.",
+    "question3": "Wie funktioniert ein Casino-Event?",
+    "answer3": "Wir bringen ein komplettes Casino-Setup an Ihren Veranstaltungsort, inklusive professioneller Casino-Tische, Chips und anderer Ausrüstung. Unsere professionellen Croupiers, angeführt von Branchenexperte Davide Merli, sorgen dafür, dass die Gäste ein authentisches und fesselndes Erlebnis geniessen.",
+    "question4": "Wird echtes Geld bei den Spielen verwendet?",
+    "answer4": "Nein, unsere Casino-Events dienen ausschliesslich der Unterhaltung. Wir bieten ein realistisches Casino-Erlebnis ohne echtes Geld, sodass alle Gäste das Spielen sicher geniessen können.",
+    "question5": "Wie viele Tische benötige ich für meine Veranstaltung?",
+    "answer5": "Wir empfehlen einen Tisch für jeweils 20 Gäste, um sicherzustellen, dass jeder die Möglichkeit hat zu spielen und das Erlebnis zu geniessen. Für grössere Veranstaltungen können wir massgeschneiderte Aufstellungen entsprechend der Gästeanzahl besprechen.",
+    "question6": "Welche Qualität hat die Ausstattung, die Sie verwenden?",
+    "answer6": "Wir verwenden echte Casino-Tische, Chips und andere Spieleausrüstungen in höchster Qualität, um ein authentisches Erlebnis zu bieten. Unsere Materialien sind hochwertig und verleihen jedem Event einen professionellen und eleganten Look.",
+    "question7": "Wie kann ich Event Casino Schweiz für mein Event buchen?",
+    "answer7": "Die Buchung ist einfach. Kontaktieren Sie uns über unsere Website oder rufen Sie unseren Kundenservice an. Wir besprechen Ihre Anforderungen, empfehlen ein massgeschneidertes Paket und kümmern uns um die gesamte Logistik, um sicherzustellen, dass Ihr Event reibungslos abläuft.",
+    "question8": "Kann ich das Casino-Setup für mein Event anpassen?",
+    "answer8": "Absolut. Jedes Event ist einzigartig und kann genau auf Ihre Bedürfnisse zugeschnitten werden. Wir arbeiten mit erfahrenen Fachleuten und Agenturen zusammen, um ein unvergessliches Erlebnis zu schaffen, das Sie und Ihre Gäste in Erinnerung behalten.",
+    "question9": "Was ist in einem Standard-Casino-Mietpaket enthalten?",
+    "answer9": "Jedes Mietpaket umfasst die von Ihnen gewählten Casinotische, Chips, Karten und professionelle Croupiers. Wir übernehmen zudem den Auf- und Abbau, sodass alles von Anfang bis Ende perfekt organisiert ist.",
+    "question10": "Arbeiten Sie in der gesamten Schweiz?",
+    "answer10": "Ja, Event Casino Schweiz bedient Kunden in der gesamten Schweiz. Wir sind bestrebt, hochwertige Casino-Unterhaltung an jeden Ort zu bringen, damit Sie und Ihre Gäste ein erstklassiges Erlebnis geniessen können.",
+    "question11": "Wie erfahren sind Ihre Croupiers?",
+    "answer11": "Unsere Croupiers sind hochqualifizierte Fachleute, angeführt von Davide Merli, Europas bestem Croupier von 2012, der über 15 Jahre Erfahrung mitbringt. Sie sind höflich, erfahren und stets professionell gekleidet.",
+    "question12": "Was unterscheidet Event Casino Schweiz von anderen Anbietern?",
+    "answer12": "Wir zeichnen uns durch unser Engagement für Qualität, Anpassungsfähigkeit und Kundenzufriedenheit aus. Mit hochwertiger Casino-Ausstattung, professionellen Croupiers und der Expertise von Davide Merli bieten wir ein unvergleichliches Erlebnis in der Casino-Unterhaltungsbranche der Schweiz.",
+    "question13": "Können Sie grosse Events mit mehreren Tischen und Croupiers organisieren?",
+    "answer13": "Ja, wir können Events unterschiedlicher Grösse organisieren, von kleinen Feiern bis hin zu grossen Firmenevents. Wir arbeiten mit Ihnen zusammen, um das beste Setup und die optimale Anzahl von Tischen für ein reibungsloses Spielerlebnis zu ermitteln.",
+    "question14": "Wie weit im Voraus sollte ich buchen?",
+    "answer14": "Um sicherzustellen, dass Ihr Wunschtermin und Ihre Wunschleistungen verfügbar sind, empfehlen wir, einige Wochen im Voraus zu buchen. Wir bemühen uns jedoch, auch kurzfristige Anfragen zu erfüllen, wenn dies möglich ist.",
+    "question15": "Welche Preismöglichkeiten gibt es für Ihre Casino-Mietservices?",
+    "answer15": "Die Preise variieren je nach Veranstaltungsgrösse, Anzahl der Tische und individuellen Anpassungsoptionen. Kontaktieren Sie uns für ein massgeschneidertes Angebot – wir finden die beste Lösung innerhalb Ihres Budgets.",
+    "question16": "Bieten Sie zusätzliche Unterhaltungsmöglichkeiten an?",
+    "answer16": "Ja, neben den Casino-Spielen können wir zusätzliche Unterhaltung wie Live-Musik, Zauberer oder thematische Dekorationen arrangieren, um das gesamte Ambiente des Events zu bereichern.",
+    "question17": "Sind Sie mit einem lizenzierten Casino verbunden?",
+    "answer17": "Nein, Event Casino Schweiz ist nicht mit einem lizenzierten Casino verbunden. Wir sind ein Unternehmen, das sich auf Casino-Themenunterhaltung spezialisiert hat und keine Glücksspielaktivitäten anbietet – unsere Dienstleistungen dienen rein dem Spass und der Unterhaltung.",
+    "question18": "In welchen Regionen bieten Sie Ihre Dienstleistungen an?",
+    "answer18": "Event Casino Schweiz bietet seine Dienstleistungen in der gesamten Schweiz an, von Zürich bis Genf, Basel, Bern und darüber hinaus. Wo auch immer Sie sind, wir bringen Ihnen das Casino-Erlebnis nach Hause.",
+    "more": "Mehr erfahren",
+    "less": "Weniger anzeigen"
+  },
   "form": {
     "predefinedMessage": "Hallo, ich hätte gerne Informationen zu folgendem Paket:",
     "heading": "Kontaktieren Sie uns",
@@ -203,7 +202,7 @@
   "hero": {
     "discountAmount": "10%",
     "discountText": "Rabatt bis",
-    "discountDate": "Dezember 2024",
+    "discountDate": "Dezember 2025",
     "mainTextPart1": "Das Beste  ",
     "mainTextPart2": "Mobile Casino",
     "mainTextPart3": "für Ihren Event",
@@ -261,46 +260,46 @@
   },
   "team": {
     "heading": "Unser Team",
-      "member1": {
-        "name": "Dawid",
-        "role": "Kartenexperte",
-        "description": "Dawid bringt Präzision und Fachwissen an den Spieltisch. Dank seiner professionellen Ausbildung und Erfahrung profitieren alle Events von seiner Fähigkeit, eine fesselnde und gut organisierte Atmosphäre zu schaffen."
-      },
-      "member2": {
-        "name": "Philip",
-        "role": "Marketing-Spezialist",
-        "description": "Philip ist verantwortlich für die Marketingstrategien mit über 10 Jahren Branchenerfahrung. Seine Fähigkeit, jedes Detail zu planen und zu koordinieren, garantiert einen effektiven und ergebnisorientierten Ansatz für jedes Event."
-      },
-      "member3": {
-        "name": "Zuzanna",
-        "role": "Spielprofi",
-        "description": "Zuzanna verfügt über ein tiefes Branchenwissen und ein Auge für Details. Ihre Erfahrung im Umgang mit Spielen und Veranstaltungen ermöglicht es ihr, massgeschneiderte Lösungen für jeden Bedarf anzubieten."
-      },
-      "member4": {
-        "name": "Davide",
-        "role": "Professioneller Croupier",
-        "description": "Mit über 15 Jahren Erfahrung und der Auszeichnung als bester Croupier Europas im Jahr 2012 bringt Davide ein hohes Mass an Kompetenz und Professionalität in jedes Event ein."
-      },
-      "member5": {
-        "name": "Kevin",
-        "role": "Poker-Experte",
-        "description": "Kevin ist auf Strategiespiele wie Poker spezialisiert und bietet einen professionellen und durchdachten Ansatz. Seine Erfahrung trägt zu einem ausgewogenen und spannenden Spielerlebnis bei."
-      },
-      "member6": {
-        "name": "Adrian",
-        "role": "Roulette-Spezialist",
-        "description": "Adrian zeichnet sich durch seine Erfahrung und sein Wissen über Roulette aus und sorgt für eine präzise und professionelle Tischführung. Seine Liebe zum Detail garantiert ein hochwertiges Spielerlebnis."
-      },
-      "member7": {
-        "name": "Igor",
-        "role": "Videomacher und Fotograf",
-        "description": "Igor ist ein erfahrener Profi in der visuellen Produktion. Mit seiner Kreativität und Liebe zum Detail sorgt er dafür, dass jedes Event durch hochwertige Bilder und Videos perfekt in Szene gesetzt wird."
-      },
-      "member8": {
-        "name": "Emanuele",
-        "role": "Spielexperte",
-        "description": "Emanuele ist ein erfahrener Profi in allen Casinospielen. Seine Fähigkeit, das Spieltempo zu steuern und die Teilnehmer einzubeziehen, sorgt für ein angenehmes und gut organisiertes Erlebnis."
-      }    
+    "member1": {
+      "name": "Dawid",
+      "role": "Kartenexperte",
+      "description": "Dawid bringt Präzision und Fachwissen an den Spieltisch. Dank seiner professionellen Ausbildung und Erfahrung profitieren alle Events von seiner Fähigkeit, eine fesselnde und gut organisierte Atmosphäre zu schaffen."
+    },
+    "member2": {
+      "name": "Philip",
+      "role": "Marketing-Spezialist",
+      "description": "Philip ist verantwortlich für die Marketingstrategien mit über 10 Jahren Branchenerfahrung. Seine Fähigkeit, jedes Detail zu planen und zu koordinieren, garantiert einen effektiven und ergebnisorientierten Ansatz für jedes Event."
+    },
+    "member3": {
+      "name": "Zuzanna",
+      "role": "Spielprofi",
+      "description": "Zuzanna verfügt über ein tiefes Branchenwissen und ein Auge für Details. Ihre Erfahrung im Umgang mit Spielen und Veranstaltungen ermöglicht es ihr, massgeschneiderte Lösungen für jeden Bedarf anzubieten."
+    },
+    "member4": {
+      "name": "Davide",
+      "role": "Professioneller Croupier",
+      "description": "Mit über 15 Jahren Erfahrung und der Auszeichnung als bester Croupier Europas im Jahr 2012 bringt Davide ein hohes Mass an Kompetenz und Professionalität in jedes Event ein."
+    },
+    "member5": {
+      "name": "Kevin",
+      "role": "Poker-Experte",
+      "description": "Kevin ist auf Strategiespiele wie Poker spezialisiert und bietet einen professionellen und durchdachten Ansatz. Seine Erfahrung trägt zu einem ausgewogenen und spannenden Spielerlebnis bei."
+    },
+    "member6": {
+      "name": "Adrian",
+      "role": "Roulette-Spezialist",
+      "description": "Adrian zeichnet sich durch seine Erfahrung und sein Wissen über Roulette aus und sorgt für eine präzise und professionelle Tischführung. Seine Liebe zum Detail garantiert ein hochwertiges Spielerlebnis."
+    },
+    "member7": {
+      "name": "Igor",
+      "role": "Videomacher und Fotograf",
+      "description": "Igor ist ein erfahrener Profi in der visuellen Produktion. Mit seiner Kreativität und Liebe zum Detail sorgt er dafür, dass jedes Event durch hochwertige Bilder und Videos perfekt in Szene gesetzt wird."
+    },
+    "member8": {
+      "name": "Emanuele",
+      "role": "Spielexperte",
+      "description": "Emanuele ist ein erfahrener Profi in allen Casinospielen. Seine Fähigkeit, das Spieltempo zu steuern und die Teilnehmer einzubeziehen, sorgt für ein angenehmes und gut organisiertes Erlebnis."
+    }
   },
   "events": {
     "heading": "Entdecke unsere Casino-Themen-Events",
@@ -421,18 +420,17 @@
     "callToActionTitle": "Bist du bereit, deine Karriere als Croupier zu starten?",
     "callToActionText": "Kontaktiere uns noch heute für weitere Informationen zu unserem Academy und erfahre, wie wir dir helfen können, in die exklusive Welt der Casinos einzutreten. Die Plätze sind begrenzt!"
   },
-  "casino101":
-  {
+  "casino101": {
     "heading": "Casino101: Lerne die Kunst der Casinospiele",
     "subheading": "Nicht nur Casinopartys, sondern auch Schulungen für ein vollständiges Spielerlebnis",
     "description": "Neben aufregenden Casino-Events bieten wir Einführungskurse, die für alle geeignet sind, die mit Freunden oder bei Firmenevents Spass haben möchten. Auch wenn du noch nie in einem Casino warst, kannst du die Regeln und Strategien der beliebtesten Spiele schnell erlernen und sicher und mit Vergnügen spielen.",
     "categories": {
-    "roulette": "Roulette",
-    "blackjack": "Blackjack",
-    "texas_holdem": "Poker Texas Hold'em",
-    "ultimate_texas": "Gruppenevents",
-    "three_card_poker": "Privatunterricht"
-  },
+      "roulette": "Roulette",
+      "blackjack": "Blackjack",
+      "texas_holdem": "Poker Texas Hold'em",
+      "ultimate_texas": "Gruppenevents",
+      "three_card_poker": "Privatunterricht"
+    },
     "events": {
       "roulette": {
         "title": "«Ihren Einsatz bitte!» Das Vergnügen am Roulette-Tisch",
@@ -472,49 +470,48 @@
     "title": "Die Elite des Casinos: Unsere Spielmeister zu Ihren Diensten",
     "description": "Beschreibung: Ob am Pokertisch oder beim rasanten Roulette – unsere professionellen Croupiers bringen Klasse und Spannung in jedes Spiel. Mit jahrzehntelanger Erfahrung in der Casinowelt garantieren wir Ihnen einen Abend voller Nervenkitzel und Stil. Erleben Sie die Perfektion einer exklusiven Nacht, bei der jedes Detail zählt."
   },
-  
-    "privacyPolicy": {
-      "title": "Datenschutzrichtlinie",
-      "section1": {
-        "title": "Einleitung",
-        "content": "Diese Datenschutzrichtlinie erklärt, wie Event Casino Schweiz Ihre persönlichen Daten sammelt, verwendet und schützt. Wir sind bestrebt, Ihre Privatsphäre zu schützen und sicherzustellen, dass Ihre persönlichen Daten sicher aufbewahrt und nur für die angegebenen Zwecke verwendet werden."
-      },
-      "section2": {
-        "title": "Gesammelte Daten",
-        "content": "Wir sammeln die folgenden persönlichen Daten, wenn Sie unsere Website nutzen oder das Kontaktformular ausfüllen: Name, E-Mail-Adresse, Nachricht und andere Informationen, die Sie freiwillig bereitstellen. Diese Daten werden nur in Übereinstimmung mit dieser Datenschutzrichtlinie verwendet."
-      },
-      "section3": {
-        "title": "Verwendung der Daten",
-        "content": "Die gesammelten Daten werden verwendet, um auf Ihre Anfragen zu antworten, Informationen über unsere Dienstleistungen bereitzustellen, Reservierungen zu verwalten und die Kommunikation bezüglich Ihrer Veranstaltungen zu erleichtern. Zudem nutzen wir die Daten, um die Benutzerfreundlichkeit unserer Website zu verbessern."
-      },
-      "section4": {
-        "title": "Datenspeicherung",
-        "content": "Ihre Daten werden nur so lange gespeichert, wie es für die Erfüllung der Zwecke erforderlich ist, für die sie erhoben wurden, oder wie es gesetzlich vorgeschrieben ist. Nach Ablauf dieser Fristen werden Ihre Daten sicher gelöscht oder anonymisiert."
-      },
-      "section5": {
-        "title": "Weitergabe der Daten",
-        "content": "Wir geben Ihre persönlichen Daten nicht an Dritte weiter, es sei denn, dies ist notwendig, um unsere Dienstleistungen zu erbringen oder gesetzlich vorgeschrieben. In solchen Fällen stellen wir sicher, dass geeignete Massnahmen ergriffen werden, um Ihre Daten zu schützen."
-      },
-      "section6": {
-        "title": "Ihre Rechte",
-        "content": "Sie haben das Recht auf Zugang zu Ihren Daten sowie auf deren Berichtigung, Löschung oder Einschränkung der Verarbeitung. Wenn Sie eines dieser Rechte ausüben möchten, kontaktieren Sie uns bitte unter hello@eventcasino.ch. Wir werden Ihre Anfrage in Übereinstimmung mit den geltenden Datenschutzgesetzen bearbeiten."
-      },
-      "section7": {
-        "title": "Sicherheit der Daten",
-        "content": "Wir ergreifen geeignete technische und organisatorische Massnahmen, um die Sicherheit Ihrer persönlichen Daten zu gewährleisten und sie vor unbefugtem Zugriff, Verlust oder Missbrauch zu schützen. Dennoch können wir keine absolute Sicherheit garantieren, da die Übertragung von Daten über das Internet inhärente Risiken birgt."
-      },
-      "section8": {
-        "title": "Änderungen der Datenschutzrichtlinie",
-        "content": "Wir behalten uns das Recht vor, diese Datenschutzrichtlinie jederzeit zu ändern. Änderungen werden auf dieser Seite veröffentlicht. Wir empfehlen Ihnen, diese Seite regelmässig zu überprüfen, um sicherzustellen, dass Sie mit den aktuellen Richtlinien vertraut sind."
-      },
-      "section9": {
-        "title": "Kontaktinformationen",
-        "content": "Wenn Sie Fragen zu dieser Datenschutzrichtlinie oder zum Umgang mit Ihren Daten haben, können Sie uns unter hello@eventcasino.ch kontaktieren."
-      }  ,
-      "section10": {
-        "title": "Analyse und Tracking",
-        "content": "Wir verwenden Analysetools, um die Leistung unserer Website und Dienstleistungen zu verstehen und zu verbessern. Diese Tools können anonyme Informationen über Ihre Nutzung erfassen, wie Seitenaufrufe, Besuchsdauer und Interaktionen. Diese Daten werden ausschliesslich zur Verbesserung unserer Dienste und zur Gewährleistung einer besseren Benutzererfahrung verwendet. Sie können Ihre Browsereinstellungen anpassen, um die Erfassung dieser Daten einzuschränken, oder uns für weitere Informationen kontaktieren."
-      }
+  "privacyPolicy": {
+    "title": "Datenschutzrichtlinie",
+    "section1": {
+      "title": "Einleitung",
+      "content": "Diese Datenschutzrichtlinie erklärt, wie Event Casino Schweiz Ihre persönlichen Daten sammelt, verwendet und schützt. Wir sind bestrebt, Ihre Privatsphäre zu schützen und sicherzustellen, dass Ihre persönlichen Daten sicher aufbewahrt und nur für die angegebenen Zwecke verwendet werden."
+    },
+    "section2": {
+      "title": "Gesammelte Daten",
+      "content": "Wir sammeln die folgenden persönlichen Daten, wenn Sie unsere Website nutzen oder das Kontaktformular ausfüllen: Name, E-Mail-Adresse, Nachricht und andere Informationen, die Sie freiwillig bereitstellen. Diese Daten werden nur in Übereinstimmung mit dieser Datenschutzrichtlinie verwendet."
+    },
+    "section3": {
+      "title": "Verwendung der Daten",
+      "content": "Die gesammelten Daten werden verwendet, um auf Ihre Anfragen zu antworten, Informationen über unsere Dienstleistungen bereitzustellen, Reservierungen zu verwalten und die Kommunikation bezüglich Ihrer Veranstaltungen zu erleichtern. Zudem nutzen wir die Daten, um die Benutzerfreundlichkeit unserer Website zu verbessern."
+    },
+    "section4": {
+      "title": "Datenspeicherung",
+      "content": "Ihre Daten werden nur so lange gespeichert, wie es für die Erfüllung der Zwecke erforderlich ist, für die sie erhoben wurden, oder wie es gesetzlich vorgeschrieben ist. Nach Ablauf dieser Fristen werden Ihre Daten sicher gelöscht oder anonymisiert."
+    },
+    "section5": {
+      "title": "Weitergabe der Daten",
+      "content": "Wir geben Ihre persönlichen Daten nicht an Dritte weiter, es sei denn, dies ist notwendig, um unsere Dienstleistungen zu erbringen oder gesetzlich vorgeschrieben. In solchen Fällen stellen wir sicher, dass geeignete Massnahmen ergriffen werden, um Ihre Daten zu schützen."
+    },
+    "section6": {
+      "title": "Ihre Rechte",
+      "content": "Sie haben das Recht auf Zugang zu Ihren Daten sowie auf deren Berichtigung, Löschung oder Einschränkung der Verarbeitung. Wenn Sie eines dieser Rechte ausüben möchten, kontaktieren Sie uns bitte unter hello@eventcasino.ch. Wir werden Ihre Anfrage in Übereinstimmung mit den geltenden Datenschutzgesetzen bearbeiten."
+    },
+    "section7": {
+      "title": "Sicherheit der Daten",
+      "content": "Wir ergreifen geeignete technische und organisatorische Massnahmen, um die Sicherheit Ihrer persönlichen Daten zu gewährleisten und sie vor unbefugtem Zugriff, Verlust oder Missbrauch zu schützen. Dennoch können wir keine absolute Sicherheit garantieren, da die Übertragung von Daten über das Internet inhärente Risiken birgt."
+    },
+    "section8": {
+      "title": "Änderungen der Datenschutzrichtlinie",
+      "content": "Wir behalten uns das Recht vor, diese Datenschutzrichtlinie jederzeit zu ändern. Änderungen werden auf dieser Seite veröffentlicht. Wir empfehlen Ihnen, diese Seite regelmässig zu überprüfen, um sicherzustellen, dass Sie mit den aktuellen Richtlinien vertraut sind."
+    },
+    "section9": {
+      "title": "Kontaktinformationen",
+      "content": "Wenn Sie Fragen zu dieser Datenschutzrichtlinie oder zum Umgang mit Ihren Daten haben, können Sie uns unter hello@eventcasino.ch kontaktieren."
+    },
+    "section10": {
+      "title": "Analyse und Tracking",
+      "content": "Wir verwenden Analysetools, um die Leistung unserer Website und Dienstleistungen zu verstehen und zu verbessern. Diese Tools können anonyme Informationen über Ihre Nutzung erfassen, wie Seitenaufrufe, Besuchsdauer und Interaktionen. Diese Daten werden ausschliesslich zur Verbesserung unserer Dienste und zur Gewährleistung einer besseren Benutzererfahrung verwendet. Sie können Ihre Browsereinstellungen anpassen, um die Erfassung dieser Daten einzuschränken, oder uns für weitere Informationen kontaktieren."
+    }
   },
   "termsConditions": {
     "title": "Allgemeine Geschäftsbedingungen (AGB)",

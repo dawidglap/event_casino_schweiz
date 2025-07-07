@@ -52,64 +52,63 @@
       "og_image": "/og-image-contact.jpg"
     }
   },
-    "navbarBanner": {
-      "message": "Scopri come rendere unico il tuo evento a tema casinò!",
-      "downloadCTA": "Scarica il PDF"
-    },
-    
-    "popup": {
-      "title": "Scarica il PDF o ricevi un'offerta personalizzata",
-      "description": "Puoi lasciare la tua email per ricevere un'offerta su misura o cliccare su 'Scarica il PDF' per ottenere subito il PDF.",
-      "emailPlaceholder": "Inserisci la tua email",
-      "sendEmail": "Invia email",
-      "downloadPDF": "Scarica il PDF",
-      "close": "Chiudi",
-      "successMessage": "Email inviata con successo!",
-      "errorMessage": "Si è verificato un errore. Riprova più tardi."
-    },  
-    "faq": {
-      "title": "Domande Frequenti",
-      "question1": "Quali servizi offre Event Casino Schweiz?",
-      "answer1": "Event Casino Schweiz offre noleggio di attrezzature professionali per eventi in tutta la Svizzera. I nostri giochi includono Black Jack, Roulette Americana, Poker Texas Hold'em, Ultimate Texas Hold'em, Chuck a Luck e Dice Ball, gestiti da croupier professionisti, coordinati da Davide Merli, miglior croupier d'Europa nel 2012 con oltre 15 anni di esperienza.",
-      "question2": "Per quali tipi di eventi è adatto un casinò?",
-      "answer2": "I nostri servizi di casinò sono ideali per eventi aziendali, team building, matrimoni, feste private, compleanni e lanci di prodotto. Personalizziamo ogni evento per offrire un'esperienza unica e memorabile per i tuoi ospiti.",
-      "question3": "Come funziona un evento casinò?",
-      "answer3": "Portiamo l'allestimento completo del casinò alla tua location, inclusi tavoli da gioco professionali, chips e attrezzature. I nostri croupier, guidati dall’esperto Davide Merli, garantiranno un’esperienza autentica e coinvolgente per i tuoi ospiti.",
-      "question4": "Si usa denaro vero durante i giochi?",
-      "answer4": "No, i nostri eventi casinò sono solo a scopo di intrattenimento e non coinvolgono denaro reale, permettendo a tutti gli ospiti di godersi i giochi in sicurezza.",
-      "question5": "Quanti tavoli sono necessari per l'evento?",
-      "answer5": "Consigliamo un tavolo ogni 20 ospiti per assicurare che tutti possano partecipare e divertirsi. Per eventi più grandi, possiamo suggerire configurazioni su misura.",
-      "question6": "Qual è la qualità dell'attrezzatura utilizzata?",
-      "answer6": "Usiamo attrezzature da casinò di qualità professionale, inclusi tavoli e chips autentici, per offrire un’esperienza di gioco raffinata e realistica.",
-      "question7": "Come posso prenotare Event Casino Schweiz per il mio evento?",
-      "answer7": "Prenotare è semplice. Contattaci tramite il nostro sito o chiamaci. Discuteremo le tue esigenze e ci occuperemo di tutta la logistica per un evento senza problemi.",
-      "question8": "Posso personalizzare l'allestimento del casinò per il mio evento?",
-      "answer8": "Certamente. Ogni evento è unico e può essere adattato alle tue esigenze. Collaboriamo con professionisti per offrire un'esperienza straordinaria che rimarrà impressa nei tuoi ricordi e in quelli dei tuoi ospiti.",
-      "question9": "Cosa include un pacchetto di noleggio casinò standard?",
-      "answer9": "Ogni pacchetto include i tavoli scelti, chips, carte e croupier professionisti. Ci occupiamo anche dell'allestimento e dello smontaggio per garantire un'organizzazione perfetta dall'inizio alla fine.",
-      "question10": "Operate in tutta la Svizzera?",
-      "answer10": "Sì, Event Casino Schweiz serve clienti in tutta la Svizzera, portando l’intrattenimento da casinò di alta qualità ovunque sia necessario.",
-      "question11": "Quanto sono esperti i vostri croupier?",
-      "answer11": "I nostri croupier sono professionisti altamente qualificati, guidati da Davide Merli, miglior croupier d'Europa nel 2012, con oltre 15 anni di esperienza.",
-      "question12": "Cosa rende Event Casino Schweiz diverso dagli altri fornitori?",
-      "answer12": "Ci distinguiamo per la qualità, l'adattabilità e la soddisfazione del cliente. Con attrezzature premium, croupier professionisti e la competenza di Davide Merli, offriamo un'esperienza senza pari nel settore.",
-      "question13": "Potete gestire grandi eventi con più tavoli e croupier?",
-      "answer13": "Sì, possiamo organizzare eventi di diverse dimensioni. Lavoreremo con te per determinare il miglior setup e numero di tavoli per garantire un’esperienza ottimale per tutti gli ospiti.",
-      "question14": "Quanto in anticipo devo prenotare?",
-      "answer14": "Per garantire la disponibilità dei servizi richiesti, consigliamo di prenotare con qualche settimana di anticipo. Faremo del nostro meglio anche per soddisfare richieste last-minute.",
-      "question15": "Quali sono le opzioni di prezzo per i servizi di noleggio casinò?",
-      "answer15": "I prezzi variano in base alle dimensioni dell'evento, al numero di tavoli e alle opzioni di personalizzazione. Contattaci per un preventivo su misura.",
-      "question16": "Offrite opzioni di intrattenimento aggiuntive?",
-      "answer16": "Sì, oltre ai giochi da casinò, possiamo organizzare intrattenimento aggiuntivo come musica dal vivo, spettacoli di magia e decorazioni tematiche.",
-      "question17": "Siete affiliati a un casinò con licenza?",
-      "answer17": "No, Event Casino Schweiz non è affiliato a nessun casinò con licenza. I nostri eventi sono esclusivamente per divertimento e non includono attività di gioco d'azzardo.",
-      "question18": "In quali aree offrite i vostri servizi?",
-      "answer18": "Offriamo servizi in tutta la Svizzera, da Zurigo a Ginevra, Basilea, Berna e oltre. Ovunque tu sia, ti portiamo l’esperienza del casinò direttamente a casa.",
-      "more": "Scopri di più",
-      "less": "Mostra meno"
-    },
+  "navbarBanner": {
+    "message": "Scopri come rendere unico il tuo evento a tema casinò!",
+    "downloadCTA": "Scarica il PDF"
+  },
+  "popup": {
+    "title": "Scarica il PDF o ricevi un'offerta personalizzata",
+    "description": "Puoi lasciare la tua email per ricevere un'offerta su misura o cliccare su 'Scarica il PDF' per ottenere subito il PDF.",
+    "emailPlaceholder": "Inserisci la tua email",
+    "sendEmail": "Invia email",
+    "downloadPDF": "Scarica il PDF",
+    "close": "Chiudi",
+    "successMessage": "Email inviata con successo!",
+    "errorMessage": "Si è verificato un errore. Riprova più tardi."
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "question1": "Quali servizi offre Event Casino Schweiz?",
+    "answer1": "Event Casino Schweiz offre noleggio di attrezzature professionali per eventi in tutta la Svizzera. I nostri giochi includono Black Jack, Roulette Americana, Poker Texas Hold'em, Ultimate Texas Hold'em, Chuck a Luck e Dice Ball, gestiti da croupier professionisti, coordinati da Davide Merli, miglior croupier d'Europa nel 2012 con oltre 15 anni di esperienza.",
+    "question2": "Per quali tipi di eventi è adatto un casinò?",
+    "answer2": "I nostri servizi di casinò sono ideali per eventi aziendali, team building, matrimoni, feste private, compleanni e lanci di prodotto. Personalizziamo ogni evento per offrire un'esperienza unica e memorabile per i tuoi ospiti.",
+    "question3": "Come funziona un evento casinò?",
+    "answer3": "Portiamo l'allestimento completo del casinò alla tua location, inclusi tavoli da gioco professionali, chips e attrezzature. I nostri croupier, guidati dall’esperto Davide Merli, garantiranno un’esperienza autentica e coinvolgente per i tuoi ospiti.",
+    "question4": "Si usa denaro vero durante i giochi?",
+    "answer4": "No, i nostri eventi casinò sono solo a scopo di intrattenimento e non coinvolgono denaro reale, permettendo a tutti gli ospiti di godersi i giochi in sicurezza.",
+    "question5": "Quanti tavoli sono necessari per l'evento?",
+    "answer5": "Consigliamo un tavolo ogni 20 ospiti per assicurare che tutti possano partecipare e divertirsi. Per eventi più grandi, possiamo suggerire configurazioni su misura.",
+    "question6": "Qual è la qualità dell'attrezzatura utilizzata?",
+    "answer6": "Usiamo attrezzature da casinò di qualità professionale, inclusi tavoli e chips autentici, per offrire un’esperienza di gioco raffinata e realistica.",
+    "question7": "Come posso prenotare Event Casino Schweiz per il mio evento?",
+    "answer7": "Prenotare è semplice. Contattaci tramite il nostro sito o chiamaci. Discuteremo le tue esigenze e ci occuperemo di tutta la logistica per un evento senza problemi.",
+    "question8": "Posso personalizzare l'allestimento del casinò per il mio evento?",
+    "answer8": "Certamente. Ogni evento è unico e può essere adattato alle tue esigenze. Collaboriamo con professionisti per offrire un'esperienza straordinaria che rimarrà impressa nei tuoi ricordi e in quelli dei tuoi ospiti.",
+    "question9": "Cosa include un pacchetto di noleggio casinò standard?",
+    "answer9": "Ogni pacchetto include i tavoli scelti, chips, carte e croupier professionisti. Ci occupiamo anche dell'allestimento e dello smontaggio per garantire un'organizzazione perfetta dall'inizio alla fine.",
+    "question10": "Operate in tutta la Svizzera?",
+    "answer10": "Sì, Event Casino Schweiz serve clienti in tutta la Svizzera, portando l’intrattenimento da casinò di alta qualità ovunque sia necessario.",
+    "question11": "Quanto sono esperti i vostri croupier?",
+    "answer11": "I nostri croupier sono professionisti altamente qualificati, guidati da Davide Merli, miglior croupier d'Europa nel 2012, con oltre 15 anni di esperienza.",
+    "question12": "Cosa rende Event Casino Schweiz diverso dagli altri fornitori?",
+    "answer12": "Ci distinguiamo per la qualità, l'adattabilità e la soddisfazione del cliente. Con attrezzature premium, croupier professionisti e la competenza di Davide Merli, offriamo un'esperienza senza pari nel settore.",
+    "question13": "Potete gestire grandi eventi con più tavoli e croupier?",
+    "answer13": "Sì, possiamo organizzare eventi di diverse dimensioni. Lavoreremo con te per determinare il miglior setup e numero di tavoli per garantire un’esperienza ottimale per tutti gli ospiti.",
+    "question14": "Quanto in anticipo devo prenotare?",
+    "answer14": "Per garantire la disponibilità dei servizi richiesti, consigliamo di prenotare con qualche settimana di anticipo. Faremo del nostro meglio anche per soddisfare richieste last-minute.",
+    "question15": "Quali sono le opzioni di prezzo per i servizi di noleggio casinò?",
+    "answer15": "I prezzi variano in base alle dimensioni dell'evento, al numero di tavoli e alle opzioni di personalizzazione. Contattaci per un preventivo su misura.",
+    "question16": "Offrite opzioni di intrattenimento aggiuntive?",
+    "answer16": "Sì, oltre ai giochi da casinò, possiamo organizzare intrattenimento aggiuntivo come musica dal vivo, spettacoli di magia e decorazioni tematiche.",
+    "question17": "Siete affiliati a un casinò con licenza?",
+    "answer17": "No, Event Casino Schweiz non è affiliato a nessun casinò con licenza. I nostri eventi sono esclusivamente per divertimento e non includono attività di gioco d'azzardo.",
+    "question18": "In quali aree offrite i vostri servizi?",
+    "answer18": "Offriamo servizi in tutta la Svizzera, da Zurigo a Ginevra, Basilea, Berna e oltre. Ovunque tu sia, ti portiamo l’esperienza del casinò direttamente a casa.",
+    "more": "Scopri di più",
+    "less": "Mostra meno"
+  },
   "form": {
-     "predefinedMessage": "Salve, vorrei avere informazioni sul seguente pacchetto:",
+    "predefinedMessage": "Salve, vorrei avere informazioni sul seguente pacchetto:",
     "heading": "Contattaci",
     "nameLabel": "Il tuo nome",
     "namePlaceholder": "Inserisci il tuo nome",
@@ -202,12 +201,12 @@
   "hero": {
     "discountAmount": "10%",
     "discountText": "Sconto fino a",
-    "discountDate": "Dicembre 2024",
-  "mainTextPart1": "Il Miglior",
-  "mainTextPart2": "Casinò Mobile",
-  "mainTextPart3": "per il Tuo Evento",
-  "mainTextPart4": "in Svizzera",
-  "description": "Dai al tuo evento un tocco esclusivo con il nostro casinò mobile."
+    "discountDate": "Dicembre 2025",
+    "mainTextPart1": "Il Miglior",
+    "mainTextPart2": "Casinò Mobile",
+    "mainTextPart3": "per il Tuo Evento",
+    "mainTextPart4": "in Svizzera",
+    "description": "Dai al tuo evento un tocco esclusivo con il nostro casinò mobile."
   },
   "stats": {
     "privateEvents": "Feste Private",
@@ -258,50 +257,50 @@
     "subtitle": "Sembra che tu abbia mancato il jackpot! È ora di cambiare gioco!",
     "backHome": "Torna alla Home"
   },
-    "team": {
-      "heading": "Il nostro Team",
-        "member1": {
-          "name": "Dawid",
-          "role": "Esperto di Carte",
-          "description": "Dawid porta precisione e competenza al tavolo da gioco. Grazie alla sua formazione professionale e alla sua esperienza, ogni evento beneficia della sua capacità di creare un'atmosfera coinvolgente e ben organizzata."
-        },
-        "member2": {
-          "name": "Philip",
-          "role": "Specialista di Marketing",
-          "description": "Philip è il responsabile delle strategie di marketing, con oltre 10 anni di esperienza nel settore. La sua capacità di pianificare e coordinare ogni dettaglio garantisce un approccio efficace e orientato ai risultati per ogni evento."
-        },
-        "member3": {
-          "name": "Zuzanna",
-          "role": "Professionista del Gioco",
-          "description": "Zuzanna possiede un'approfondita conoscenza del settore e una grande attenzione ai dettagli. La sua esperienza nel gestire giochi ed eventi le consente di offrire soluzioni su misura per ogni esigenza."
-        },
-        "member4": {
-          "name": "Davide",
-          "role": "Croupier Professionista",
-          "description": "Con oltre 15 anni di esperienza e un riconoscimento come miglior croupier d'Europa nel 2012, Davide porta un alto livello di competenza e professionalità a ogni evento a cui partecipa."
-        },
-        "member5": {
-          "name": "Kevin",
-          "role": "Esperto di Poker",
-          "description": "Kevin è specializzato in giochi di strategia come il poker, offrendo un approccio professionale e attento alle dinamiche di gioco. La sua esperienza contribuisce a creare un'esperienza di gioco equilibrata e coinvolgente."
-        },
-        "member6": {
-          "name": "Adrian",
-          "role": "Specialista di Roulette",
-          "description": "Adrian si distingue per la sua esperienza e conoscenza della roulette, garantendo una gestione precisa e professionale del tavolo. La sua attenzione al dettaglio assicura un’esperienza di gioco di alta qualità."
-        },
-        "member7": {
-          "name": "Igor",
-          "role": "Videomaker e Fotografo",
-          "description": "Igor è un professionista della produzione visiva, con una consolidata esperienza come videomaker e fotografo. Il suo approccio creativo e la sua attenzione ai dettagli assicurano che ogni evento venga raccontato e valorizzato attraverso immagini e video di alta qualità."
-        },
-        "member8": {
-          "name": "Emanuele",
-          "role": "Specialista dei Giochi",
-          "description": "Emanuele è un professionista esperto in tutti i giochi da tavolo. La sua abilità nel gestire il ritmo del gioco e nel coinvolgere i partecipanti garantisce un'esperienza piacevole e ben organizzata."
-        }          
-    },  
- "events": {
+  "team": {
+    "heading": "Il nostro Team",
+    "member1": {
+      "name": "Dawid",
+      "role": "Esperto di Carte",
+      "description": "Dawid porta precisione e competenza al tavolo da gioco. Grazie alla sua formazione professionale e alla sua esperienza, ogni evento beneficia della sua capacità di creare un'atmosfera coinvolgente e ben organizzata."
+    },
+    "member2": {
+      "name": "Philip",
+      "role": "Specialista di Marketing",
+      "description": "Philip è il responsabile delle strategie di marketing, con oltre 10 anni di esperienza nel settore. La sua capacità di pianificare e coordinare ogni dettaglio garantisce un approccio efficace e orientato ai risultati per ogni evento."
+    },
+    "member3": {
+      "name": "Zuzanna",
+      "role": "Professionista del Gioco",
+      "description": "Zuzanna possiede un'approfondita conoscenza del settore e una grande attenzione ai dettagli. La sua esperienza nel gestire giochi ed eventi le consente di offrire soluzioni su misura per ogni esigenza."
+    },
+    "member4": {
+      "name": "Davide",
+      "role": "Croupier Professionista",
+      "description": "Con oltre 15 anni di esperienza e un riconoscimento come miglior croupier d'Europa nel 2012, Davide porta un alto livello di competenza e professionalità a ogni evento a cui partecipa."
+    },
+    "member5": {
+      "name": "Kevin",
+      "role": "Esperto di Poker",
+      "description": "Kevin è specializzato in giochi di strategia come il poker, offrendo un approccio professionale e attento alle dinamiche di gioco. La sua esperienza contribuisce a creare un'esperienza di gioco equilibrata e coinvolgente."
+    },
+    "member6": {
+      "name": "Adrian",
+      "role": "Specialista di Roulette",
+      "description": "Adrian si distingue per la sua esperienza e conoscenza della roulette, garantendo una gestione precisa e professionale del tavolo. La sua attenzione al dettaglio assicura un’esperienza di gioco di alta qualità."
+    },
+    "member7": {
+      "name": "Igor",
+      "role": "Videomaker e Fotografo",
+      "description": "Igor è un professionista della produzione visiva, con una consolidata esperienza come videomaker e fotografo. Il suo approccio creativo e la sua attenzione ai dettagli assicurano che ogni evento venga raccontato e valorizzato attraverso immagini e video di alta qualità."
+    },
+    "member8": {
+      "name": "Emanuele",
+      "role": "Specialista dei Giochi",
+      "description": "Emanuele è un professionista esperto in tutti i giochi da tavolo. La sua abilità nel gestire il ritmo del gioco e nel coinvolgere i partecipanti garantisce un'esperienza piacevole e ben organizzata."
+    }
+  },
+  "events": {
     "heading": "Scopri i nostri eventi a tema Casinò",
     "birthday": {
       "title": "Casino Royale: Festeggia il tuo compleanno con stile",

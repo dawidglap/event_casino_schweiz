@@ -7,7 +7,7 @@
     "team": "Équipe",
     "contact": "Contact"
   },
-  "buttonPackages" :{
+  "buttonPackages": {
     "details": {
       "essential": "1 x Blackjack, 3 heures de jeu, Logistique incluse",
       "premium": "1 x Blackjack, 1 x Roulette américaine, 1 x Ultimate Texas Hold'em, 3 heures de jeu, Réception VIP incluse",
@@ -52,61 +52,61 @@
       "og_image": "/og-image-contact.jpg"
     }
   },
-    "navbarBanner": {
-      "message": "Découvrez comment rendre votre événement sur le thème du casino inoubliable !",
-      "downloadCTA": "Télécharger le PDF"
-    },
-    "popup": {
-      "title": "Téléchargez le PDF ou recevez une offre personnalisée",
-      "description": "Vous pouvez laisser votre adresse e-mail pour recevoir une offre sur mesure ou cliquer sur 'Télécharger le PDF' pour obtenir le PDF immédiatement.",
-      "emailPlaceholder": "Entrez votre adresse e-mail",
-      "sendEmail": "Envoyer un e-mail",
-      "downloadPDF": "Télécharger le PDF",
-      "close": "Fermer",
-      "successMessage": "E-mail envoyé avec succès !",
-      "errorMessage": "Une erreur s'est produite. Veuillez réessayer plus tard."
-    },  
-    "faq": {
-      "title": "Questions Fréquentes",
-      "question1": "Quels services propose Event Casino Schweiz ?",
-      "answer1": "Event Casino Schweiz offre des locations d'équipements de casino professionnels pour des événements à travers la Suisse. Nos jeux incluent Black Jack, Roulette Américaine, Poker Texas Hold'em, Ultimate Texas Hold'em, Chuck a Luck, et Dice Ball, animés par des croupiers professionnels dirigés par Davide Merli, meilleur croupier d'Europe en 2012 avec plus de 15 ans d'expérience.",
-      "question2": "Pour quels types d'événements un casino est-il adapté ?",
-      "answer2": "Nos services de casino sont idéaux pour les événements d'entreprise, team building, mariages, soirées privées, anniversaires et lancements de produits. Nous personnalisons chaque événement pour offrir une expérience unique et mémorable.",
-      "question3": "Comment fonctionne un événement casino ?",
-      "answer3": "Nous apportons une configuration complète de casino à votre lieu, avec tables de jeu professionnelles, jetons et autres équipements. Nos croupiers, dirigés par l’expert Davide Merli, garantissent une expérience authentique et captivante pour vos invités.",
-      "question4": "Utilise-t-on de l'argent réel dans les jeux ?",
-      "answer4": "Non, nos événements de casino sont exclusivement pour le divertissement, sans argent réel, permettant à tous les invités de jouer en toute sécurité.",
-      "question5": "Combien de tables sont nécessaires pour mon événement ?",
-      "answer5": "Nous recommandons une table pour 20 invités afin que tout le monde puisse jouer et profiter de l'expérience. Pour les grands événements, nous pouvons organiser des configurations personnalisées.",
-      "question6": "Quelle est la qualité de l'équipement utilisé ?",
-      "answer6": "Nous utilisons des équipements de qualité authentique, notamment des tables de casino et des jetons, pour offrir une expérience de jeu réaliste et haut de gamme.",
-      "question7": "Comment puis-je réserver Event Casino Schweiz pour mon événement ?",
-      "answer7": "Réserver est facile. Contactez-nous via notre site ou par téléphone. Nous discuterons de vos besoins et nous nous occuperons de toute la logistique pour un événement sans souci.",
-      "question8": "Puis-je personnaliser la configuration du casino pour mon événement ?",
-      "answer8": "Absolument. Chaque événement est unique et peut être personnalisé selon vos besoins. Nous collaborons avec des professionnels pour créer une expérience inoubliable.",
-      "question9": "Qu'est-ce qui est inclus dans un forfait de location de casino standard ?",
-      "answer9": "Chaque forfait comprend les tables choisies, les jetons, les cartes et des croupiers professionnels. Nous gérons également l'installation et le démontage pour une organisation parfaite.",
-      "question10": "Opérez-vous dans toute la Suisse ?",
-      "answer10": "Oui, Event Casino Schweiz dessert des clients dans toute la Suisse, offrant un divertissement de casino de haute qualité, où que vous soyez.",
-      "question11": "Quel est le niveau d'expérience de vos croupiers ?",
-      "answer11": "Nos croupiers sont des professionnels hautement qualifiés, dirigés par Davide Merli, meilleur croupier d'Europe en 2012, avec plus de 15 ans d'expérience.",
-      "question12": "Qu'est-ce qui distingue Event Casino Schweiz des autres prestataires ?",
-      "answer12": "Nous nous distinguons par notre engagement pour la qualité, la personnalisation et la satisfaction client. Avec un équipement premium et les compétences de Davide Merli, nous offrons une expérience incomparable dans l'industrie.",
-      "question13": "Pouvez-vous gérer des événements de grande envergure avec plusieurs tables et croupiers ?",
-      "answer13": "Oui, nous pouvons organiser des événements de différentes tailles. Nous travaillerons avec vous pour déterminer la meilleure configuration et le nombre de tables nécessaires.",
-      "question14": "Combien de temps à l'avance dois-je réserver ?",
-      "answer14": "Pour garantir votre date et vos services préférés, nous recommandons de réserver quelques semaines à l'avance. Nous nous efforçons également de répondre aux demandes de dernière minute.",
-      "question15": "Quelles sont les options de tarification pour vos services de location de casino ?",
-      "answer15": "Les tarifs varient selon la taille de l'événement, le nombre de tables et les options de personnalisation. Contactez-nous pour un devis sur mesure.",
-      "question16": "Proposez-vous des options de divertissement supplémentaires ?",
-      "answer16": "Oui, en plus des jeux de casino, nous proposons des animations supplémentaires comme de la musique live, des magiciens et des décors thématiques.",
-      "question17": "Êtes-vous affilié à un casino sous licence ?",
-      "answer17": "Non, Event Casino Schweiz n'est affilié à aucun casino sous licence. Nos événements sont exclusivement pour le divertissement, sans activités de jeu.",
-      "question18": "Dans quelles régions proposez-vous vos services ?",
-      "answer18": "Nous offrons nos services dans toute la Suisse, de Zurich à Genève, Bâle, Berne et au-delà.",
-      "more": "En savoir plus",
-      "less": "Afficher moins"
-    },
+  "navbarBanner": {
+    "message": "Découvrez comment rendre votre événement sur le thème du casino inoubliable !",
+    "downloadCTA": "Télécharger le PDF"
+  },
+  "popup": {
+    "title": "Téléchargez le PDF ou recevez une offre personnalisée",
+    "description": "Vous pouvez laisser votre adresse e-mail pour recevoir une offre sur mesure ou cliquer sur 'Télécharger le PDF' pour obtenir le PDF immédiatement.",
+    "emailPlaceholder": "Entrez votre adresse e-mail",
+    "sendEmail": "Envoyer un e-mail",
+    "downloadPDF": "Télécharger le PDF",
+    "close": "Fermer",
+    "successMessage": "E-mail envoyé avec succès !",
+    "errorMessage": "Une erreur s'est produite. Veuillez réessayer plus tard."
+  },
+  "faq": {
+    "title": "Questions Fréquentes",
+    "question1": "Quels services propose Event Casino Schweiz ?",
+    "answer1": "Event Casino Schweiz offre des locations d'équipements de casino professionnels pour des événements à travers la Suisse. Nos jeux incluent Black Jack, Roulette Américaine, Poker Texas Hold'em, Ultimate Texas Hold'em, Chuck a Luck, et Dice Ball, animés par des croupiers professionnels dirigés par Davide Merli, meilleur croupier d'Europe en 2012 avec plus de 15 ans d'expérience.",
+    "question2": "Pour quels types d'événements un casino est-il adapté ?",
+    "answer2": "Nos services de casino sont idéaux pour les événements d'entreprise, team building, mariages, soirées privées, anniversaires et lancements de produits. Nous personnalisons chaque événement pour offrir une expérience unique et mémorable.",
+    "question3": "Comment fonctionne un événement casino ?",
+    "answer3": "Nous apportons une configuration complète de casino à votre lieu, avec tables de jeu professionnelles, jetons et autres équipements. Nos croupiers, dirigés par l’expert Davide Merli, garantissent une expérience authentique et captivante pour vos invités.",
+    "question4": "Utilise-t-on de l'argent réel dans les jeux ?",
+    "answer4": "Non, nos événements de casino sont exclusivement pour le divertissement, sans argent réel, permettant à tous les invités de jouer en toute sécurité.",
+    "question5": "Combien de tables sont nécessaires pour mon événement ?",
+    "answer5": "Nous recommandons une table pour 20 invités afin que tout le monde puisse jouer et profiter de l'expérience. Pour les grands événements, nous pouvons organiser des configurations personnalisées.",
+    "question6": "Quelle est la qualité de l'équipement utilisé ?",
+    "answer6": "Nous utilisons des équipements de qualité authentique, notamment des tables de casino et des jetons, pour offrir une expérience de jeu réaliste et haut de gamme.",
+    "question7": "Comment puis-je réserver Event Casino Schweiz pour mon événement ?",
+    "answer7": "Réserver est facile. Contactez-nous via notre site ou par téléphone. Nous discuterons de vos besoins et nous nous occuperons de toute la logistique pour un événement sans souci.",
+    "question8": "Puis-je personnaliser la configuration du casino pour mon événement ?",
+    "answer8": "Absolument. Chaque événement est unique et peut être personnalisé selon vos besoins. Nous collaborons avec des professionnels pour créer une expérience inoubliable.",
+    "question9": "Qu'est-ce qui est inclus dans un forfait de location de casino standard ?",
+    "answer9": "Chaque forfait comprend les tables choisies, les jetons, les cartes et des croupiers professionnels. Nous gérons également l'installation et le démontage pour une organisation parfaite.",
+    "question10": "Opérez-vous dans toute la Suisse ?",
+    "answer10": "Oui, Event Casino Schweiz dessert des clients dans toute la Suisse, offrant un divertissement de casino de haute qualité, où que vous soyez.",
+    "question11": "Quel est le niveau d'expérience de vos croupiers ?",
+    "answer11": "Nos croupiers sont des professionnels hautement qualifiés, dirigés par Davide Merli, meilleur croupier d'Europe en 2012, avec plus de 15 ans d'expérience.",
+    "question12": "Qu'est-ce qui distingue Event Casino Schweiz des autres prestataires ?",
+    "answer12": "Nous nous distinguons par notre engagement pour la qualité, la personnalisation et la satisfaction client. Avec un équipement premium et les compétences de Davide Merli, nous offrons une expérience incomparable dans l'industrie.",
+    "question13": "Pouvez-vous gérer des événements de grande envergure avec plusieurs tables et croupiers ?",
+    "answer13": "Oui, nous pouvons organiser des événements de différentes tailles. Nous travaillerons avec vous pour déterminer la meilleure configuration et le nombre de tables nécessaires.",
+    "question14": "Combien de temps à l'avance dois-je réserver ?",
+    "answer14": "Pour garantir votre date et vos services préférés, nous recommandons de réserver quelques semaines à l'avance. Nous nous efforçons également de répondre aux demandes de dernière minute.",
+    "question15": "Quelles sont les options de tarification pour vos services de location de casino ?",
+    "answer15": "Les tarifs varient selon la taille de l'événement, le nombre de tables et les options de personnalisation. Contactez-nous pour un devis sur mesure.",
+    "question16": "Proposez-vous des options de divertissement supplémentaires ?",
+    "answer16": "Oui, en plus des jeux de casino, nous proposons des animations supplémentaires comme de la musique live, des magiciens et des décors thématiques.",
+    "question17": "Êtes-vous affilié à un casino sous licence ?",
+    "answer17": "Non, Event Casino Schweiz n'est affilié à aucun casino sous licence. Nos événements sont exclusivement pour le divertissement, sans activités de jeu.",
+    "question18": "Dans quelles régions proposez-vous vos services ?",
+    "answer18": "Nous offrons nos services dans toute la Suisse, de Zurich à Genève, Bâle, Berne et au-delà.",
+    "more": "En savoir plus",
+    "less": "Afficher moins"
+  },
   "form": {
     "predefinedMessage": "Bonjour, je voudrais obtenir des informations sur le package suivant :",
     "heading": "Contactez-nous",
@@ -201,12 +201,12 @@
   "hero": {
     "discountAmount": "10%",
     "discountText": "Remise jusqu'en",
-    "discountDate": "Décembre 2024",
-      "mainTextPart1": "Le Meilleur",
-      "mainTextPart2": "Casino Mobile",
-      "mainTextPart3": "pour Votre Événement",
-      "mainTextPart4": "en Suisse",
-      "description": "Ajoutez une touche unique à votre événement avec notre casino mobile."
+    "discountDate": "Décembre 2025",
+    "mainTextPart1": "Le Meilleur",
+    "mainTextPart2": "Casino Mobile",
+    "mainTextPart3": "pour Votre Événement",
+    "mainTextPart4": "en Suisse",
+    "description": "Ajoutez une touche unique à votre événement avec notre casino mobile."
   },
   "stats": {
     "privateEvents": "Fêtes Privées",
@@ -257,101 +257,99 @@
     "subtitle": "On dirait que vous avez manqué votre coup ! Il est temps de renverser la situation !",
     "backHome": "Retour à l'Accueil"
   },
-  
-    "team": {
-      "heading": "Notre Équipe",
-        "member1": {
-          "name": "Dawid",
-          "role": "Expert en Cartes",
-          "description": "Dawid apporte précision et expertise à la table de jeu. Grâce à sa formation professionnelle et son expérience, chaque événement bénéficie de sa capacité à créer une atmosphère captivante et bien organisée."
-        },
-        "member2": {
-          "name": "Philip",
-          "role": "Spécialiste en Marketing",
-          "description": "Philip supervise les stratégies marketing avec plus de 10 ans d'expérience dans le secteur. Sa capacité à planifier et coordonner chaque détail garantit une approche efficace et axée sur les résultats pour chaque événement."
-        },
-        "member3": {
-          "name": "Zuzanna",
-          "role": "Professionnelle des Jeux",
-          "description": "Zuzanna possède une connaissance approfondie du secteur et une grande attention aux détails. Son expérience dans la gestion des jeux et des événements lui permet d’offrir des solutions sur mesure pour chaque besoin."
-        },
-        "member4": {
-          "name": "Davide",
-          "role": "Croupier Professionnel",
-          "description": "Avec plus de 15 ans d'expérience et une reconnaissance comme Meilleur Croupier d'Europe en 2012, Davide apporte un haut niveau de compétence et de professionnalisme à chaque événement."
-        },
-        "member5": {
-          "name": "Kevin",
-          "role": "Spécialiste en Poker",
-          "description": "Kevin est spécialisé dans les jeux de stratégie comme le poker, offrant une approche professionnelle et réfléchie. Son expérience contribue à une expérience de jeu équilibrée et engageante."
-        },
-        "member6": {
-          "name": "Adrian",
-          "role": "Spécialiste de la Roulette",
-          "description": "Adrian se distingue par son expérience et sa connaissance de la roulette, garantissant une gestion précise et professionnelle de la table. Son attention aux détails assure une expérience de jeu de haute qualité."
-        },
-        "member7": {
-          "name": "Igor",
-          "role": "Réalisateur Vidéo et Photographe",
-          "description": "Igor est un professionnel expérimenté dans la production visuelle. Sa créativité et son souci du détail garantissent que chaque événement est parfaitement capturé à travers des images et des vidéos de haute qualité."
-        },
-        "member8": {
-          "name": "Emanuele",
-          "role": "Spécialiste des Jeux",
-          "description": "Emanuele est un professionnel expérimenté dans tous les jeux de casino. Sa capacité à gérer le rythme du jeu et à engager les participants garantit une expérience agréable et bien organisée."
-        }          
-    },  
-  
-    "events": {
-      "heading": "Découvrez nos événements thématiques Casino",
-      "birthday": {
-        "title": "Casino Royale: Célébrez votre anniversaire avec style",
-        "description": "Vivez un anniversaire inoubliable dans le style de James Bond, où le suspense et l'élégance sont au rendez-vous. Profitez d'une nuit glamour au casino qui marquera les esprits de vous et de vos invités. ..."
-      },
-      "corporate": {
-        "title": "Blackjack & Business: L'événement d'entreprise ultime",
-        "description": "Donnez à votre prochain événement d'entreprise une touche unique et renforcez l'esprit d'équipe avec une soirée casino exclusive. Captivez vos collaborateurs et clients avec une soirée pleine de suspense et d'amusement. ..."
-      },
-      "gala": {
-        "title": "Soirée de Gala: Élégance et glamour façon Casino",
-        "description": "Vivez une soirée de luxe et de style, où le casino est au cœur de votre gala. Émerveillez vos invités avec une soirée casino élégante et inoubliable. ..."
-      },
-      "wedding": {
-        "title": "Casino de Mariage: Créez des souvenirs inoubliables",
-        "description": "Faites de votre mariage une expérience unique avec une configuration casino sur mesure. Offrez à vos invités divertissement et glamour pour une journée inoubliable. ..."
-      },
-      "bachelor_party": {
-        "title": "Dernière nuit de liberté: Enterrement de vie de célibataire façon Casino",
-        "description": "Fêtez votre enterrement de vie de célibataire avec classe et frisson. Passez une nuit inoubliable dans une ambiance de casino avant de franchir le cap du mariage. ..."
-      },
-      "private_event": {
-        "title": "Événements Casino privés: Luxe et divertissement exclusifs",
-        "description": "Transformez votre événement privé en une expérience inoubliable avec notre service casino personnalisé. Offrez à vos invités du suspense et de l'élégance dans une atmosphère intime. ..."
-      },
-      "home_casino": {
-        "title": "Home-Casino: L'expérience casino chez vous",
-        "description": "Vivez l'excitation d'un vrai casino directement chez vous. Nous apportons le suspense et le divertissement à domicile. ..."
-      },
-      "firmen_casino": {
-        "title": "Casino d'entreprise: Élégance et renforcement d'équipe",
-        "description": "Transformez votre événement d'entreprise en une soirée mémorable avec notre casino d'entreprise exclusif. Favorisez l'esprit d'équipe et impressionnez vos collaborateurs et clients avec une soirée casino inoubliable. ..."
-      },
-      "hochzeit_casino": {
-        "title": "Casino de mariage: Une célébration exclusive façon casino",
-        "description": "Ajoutez une touche de glamour et de suspense à votre journée spéciale avec un mariage en style casino. Créez des souvenirs inoubliables pour vous et vos invités. ..."
-      },
-      "yacht_casino": {
-        "title": "Casino Yacht: Jeux exclusifs sur le lac",
-        "description": "Vivez une nuit inoubliable sur un yacht de luxe. Profitez de l'élégance, du jeu et du divertissement en naviguant sur le lac. ..."
-      },
-      "air_casino": {
-        "title": "Air-Casino: Jouez parmi les nuages",
-        "description": "Ressentez l'expérience unique de jouer entre les étoiles. Notre Air-Casino exclusif vous offre une aventure inoubliable en haute altitude. ..."
-      },
-      "mountain_casino": {
-        "title": "Casino de Montagne: Adrénaline et jeux dans les Alpes",
-        "description": "Vivez l'excitation du casino entouré de majestueuses montagnes. Combinez aventure en montagne et jeux de luxe pour une expérience inoubliable. ..."
-      }  
+  "team": {
+    "heading": "Notre Équipe",
+    "member1": {
+      "name": "Dawid",
+      "role": "Expert en Cartes",
+      "description": "Dawid apporte précision et expertise à la table de jeu. Grâce à sa formation professionnelle et son expérience, chaque événement bénéficie de sa capacité à créer une atmosphère captivante et bien organisée."
+    },
+    "member2": {
+      "name": "Philip",
+      "role": "Spécialiste en Marketing",
+      "description": "Philip supervise les stratégies marketing avec plus de 10 ans d'expérience dans le secteur. Sa capacité à planifier et coordonner chaque détail garantit une approche efficace et axée sur les résultats pour chaque événement."
+    },
+    "member3": {
+      "name": "Zuzanna",
+      "role": "Professionnelle des Jeux",
+      "description": "Zuzanna possède une connaissance approfondie du secteur et une grande attention aux détails. Son expérience dans la gestion des jeux et des événements lui permet d’offrir des solutions sur mesure pour chaque besoin."
+    },
+    "member4": {
+      "name": "Davide",
+      "role": "Croupier Professionnel",
+      "description": "Avec plus de 15 ans d'expérience et une reconnaissance comme Meilleur Croupier d'Europe en 2012, Davide apporte un haut niveau de compétence et de professionnalisme à chaque événement."
+    },
+    "member5": {
+      "name": "Kevin",
+      "role": "Spécialiste en Poker",
+      "description": "Kevin est spécialisé dans les jeux de stratégie comme le poker, offrant une approche professionnelle et réfléchie. Son expérience contribue à une expérience de jeu équilibrée et engageante."
+    },
+    "member6": {
+      "name": "Adrian",
+      "role": "Spécialiste de la Roulette",
+      "description": "Adrian se distingue par son expérience et sa connaissance de la roulette, garantissant une gestion précise et professionnelle de la table. Son attention aux détails assure une expérience de jeu de haute qualité."
+    },
+    "member7": {
+      "name": "Igor",
+      "role": "Réalisateur Vidéo et Photographe",
+      "description": "Igor est un professionnel expérimenté dans la production visuelle. Sa créativité et son souci du détail garantissent que chaque événement est parfaitement capturé à travers des images et des vidéos de haute qualité."
+    },
+    "member8": {
+      "name": "Emanuele",
+      "role": "Spécialiste des Jeux",
+      "description": "Emanuele est un professionnel expérimenté dans tous les jeux de casino. Sa capacité à gérer le rythme du jeu et à engager les participants garantit une expérience agréable et bien organisée."
+    }
+  },
+  "events": {
+    "heading": "Découvrez nos événements thématiques Casino",
+    "birthday": {
+      "title": "Casino Royale: Célébrez votre anniversaire avec style",
+      "description": "Vivez un anniversaire inoubliable dans le style de James Bond, où le suspense et l'élégance sont au rendez-vous. Profitez d'une nuit glamour au casino qui marquera les esprits de vous et de vos invités. ..."
+    },
+    "corporate": {
+      "title": "Blackjack & Business: L'événement d'entreprise ultime",
+      "description": "Donnez à votre prochain événement d'entreprise une touche unique et renforcez l'esprit d'équipe avec une soirée casino exclusive. Captivez vos collaborateurs et clients avec une soirée pleine de suspense et d'amusement. ..."
+    },
+    "gala": {
+      "title": "Soirée de Gala: Élégance et glamour façon Casino",
+      "description": "Vivez une soirée de luxe et de style, où le casino est au cœur de votre gala. Émerveillez vos invités avec une soirée casino élégante et inoubliable. ..."
+    },
+    "wedding": {
+      "title": "Casino de Mariage: Créez des souvenirs inoubliables",
+      "description": "Faites de votre mariage une expérience unique avec une configuration casino sur mesure. Offrez à vos invités divertissement et glamour pour une journée inoubliable. ..."
+    },
+    "bachelor_party": {
+      "title": "Dernière nuit de liberté: Enterrement de vie de célibataire façon Casino",
+      "description": "Fêtez votre enterrement de vie de célibataire avec classe et frisson. Passez une nuit inoubliable dans une ambiance de casino avant de franchir le cap du mariage. ..."
+    },
+    "private_event": {
+      "title": "Événements Casino privés: Luxe et divertissement exclusifs",
+      "description": "Transformez votre événement privé en une expérience inoubliable avec notre service casino personnalisé. Offrez à vos invités du suspense et de l'élégance dans une atmosphère intime. ..."
+    },
+    "home_casino": {
+      "title": "Home-Casino: L'expérience casino chez vous",
+      "description": "Vivez l'excitation d'un vrai casino directement chez vous. Nous apportons le suspense et le divertissement à domicile. ..."
+    },
+    "firmen_casino": {
+      "title": "Casino d'entreprise: Élégance et renforcement d'équipe",
+      "description": "Transformez votre événement d'entreprise en une soirée mémorable avec notre casino d'entreprise exclusif. Favorisez l'esprit d'équipe et impressionnez vos collaborateurs et clients avec une soirée casino inoubliable. ..."
+    },
+    "hochzeit_casino": {
+      "title": "Casino de mariage: Une célébration exclusive façon casino",
+      "description": "Ajoutez une touche de glamour et de suspense à votre journée spéciale avec un mariage en style casino. Créez des souvenirs inoubliables pour vous et vos invités. ..."
+    },
+    "yacht_casino": {
+      "title": "Casino Yacht: Jeux exclusifs sur le lac",
+      "description": "Vivez une nuit inoubliable sur un yacht de luxe. Profitez de l'élégance, du jeu et du divertissement en naviguant sur le lac. ..."
+    },
+    "air_casino": {
+      "title": "Air-Casino: Jouez parmi les nuages",
+      "description": "Ressentez l'expérience unique de jouer entre les étoiles. Notre Air-Casino exclusif vous offre une aventure inoubliable en haute altitude. ..."
+    },
+    "mountain_casino": {
+      "title": "Casino de Montagne: Adrénaline et jeux dans les Alpes",
+      "description": "Vivez l'excitation du casino entouré de majestueuses montagnes. Combinez aventure en montagne et jeux de luxe pour une expérience inoubliable. ..."
+    }
   },
   "training": {
     "heading": "École de Formation de Croupiers",
