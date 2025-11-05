@@ -39,7 +39,7 @@ const Hero = () => {
         animate="show"
         className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6`}
       >
-        <motion.div
+        {/* <motion.div
           variants={textVariants}
           className="flex flex-row mx-auto sm:mx-0 items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-4"
         >
@@ -50,7 +50,7 @@ const Hero = () => {
             {t(" ")}
             <span className="text-white">{t("hero.discountDate")}</span>
           </p>
-        </motion.div>
+        </motion.div> */}
 
         <motion.div
           variants={textVariants}
